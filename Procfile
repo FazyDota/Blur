@@ -1,1 +1,1 @@
-web: gunicorn vintage_stats.wsgi
+web: gunicorn vintage_project.wsgi
