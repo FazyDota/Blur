@@ -1,0 +1,55 @@
+.dataTables_wrapper .dataTables_filter{
+    float: left;
+    padding-left: 10px;
+}
+
+#sortTable_filter > label{
+    font-weight: bold !important;
+}
+
+h1 {
+padding-left: 10px;
+}
+
+.dataTables_wrapper .dataTables_length{
+    float: right;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+      width: 300%;
+}
+#sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
+    display:none;
+}
+
+.smaller-font {
+  font-size: 14px;
+}
+
+td, th {
+    vertical-align: middle !important;
+}
+
+#sortTable > thead > tr > th:nth-child(1) {
+    width: 10rem !important;
+{
+#sortTable > thead > tr > th:nth-child(2) {
+    width: 1.5rem !important;
+{
+#sortTable > thead > tr > th:nth-child(3) {
+    width: 2.5rem !important;
+{
+#sortTable > thead > tr > th:nth-child(4) {
+    width: 1.5rem !important;
+{
+#sortTable > thead > tr > th:nth-child(5) {
+    width: 2.5rem !important;
+{
+#sortTable > thead > tr > th:nth-child(6) {
+    width: 1.5rem !important;
+{
+#sortTable > thead > tr > th:nth-child(7) {
+    width: 2.5rem !important;
+{
+#sortTable > thead > tr > th:nth-child(8) {
+    width: 1.5rem !important;
+{
