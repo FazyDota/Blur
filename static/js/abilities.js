@@ -3,7 +3,7 @@ $(document).ready(function() {
     {
         "paging": false,
         responsive: true,
-        oSearch: {"bRegex": true},
+        oSearch: {"bRegex": true, "bSmart": false},
         "columnDefs": [{ "searchable": false, "targets": [0,2,3,4,5,6,7]},
         { targets: [1], visible: false},
         { targets: [0,1,3,5,7,9,11], className: "smaller-font"}],
