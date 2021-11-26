@@ -57,7 +57,7 @@ $(document).ready(function() {
         }
         });
 
-     $("#sortTable").on("click", "tr", function () {
+     $("#sortTable").on("click", "td.removable", function () {
 		var table = $("#sortTable").DataTable();
 		table
 			.row($(this))
