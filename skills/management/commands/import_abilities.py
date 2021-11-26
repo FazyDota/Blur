@@ -5,6 +5,7 @@ import csv
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
+        Ability.objects.all().delete()
         with open("result.csv", 'r') as file:
             reader = csv.reader(file)
             next(reader)
