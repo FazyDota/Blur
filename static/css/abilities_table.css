@@ -1,6 +1,5 @@
 .dataTables_wrapper .dataTables_filter{
     float: left;
-    padding-left: 10px;
 }
 
 #sortTable_filter > label{
@@ -8,7 +7,6 @@
 }
 
 h1 {
-padding-left: 10px;
 }
 
 .dataTables_wrapper .dataTables_length{

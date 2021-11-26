@@ -6,21 +6,26 @@
 <link rel="stylesheet" href="{% static 'css/abilities_table.css' %}">
 <script src="{% static 'js/abilities.js' %}"></script>
 <h1>Ability Draft Helper</h1>
+<h4>All data used come from <a href="abilitydraft.datdota.com">abilitydraft.datdota.com</a>,
+    huge thanks to <a href="https://twitter.com/Noxville">Noxville</a>.</h4>
+<p style="font-size: 16px">You can use regex in search bar to lookup abilites of multipe heroes, like this:
+    "(Axe|Lion|Crystal Maiden)" – put this in the search bar (including the double quotes).<br>
+    You can click on a row and it will be deleted to help show what has already been picked.</p>
 <table id="sortTable" class="table table-striped table-bordered table-sm" cellspacing="0" width="95%" >
 <thead>
 <tr>
 <th class="text-center" style="font-size: 20px;">Ability</th>
 <th class="text-center" style="font-size: 16px;">Hero</th>
 <th class="text-center" style=" color: green;">Winrate</th>
-<th class="text-center" style=" color: green;">Pick #</th>
+<th class="text-center" style=" color: green;">Avg Pick #</th>
 <th class="text-center" style=" color: blue;">Winrate</th>
-<th class="text-center" style=" color: blue;">Pick #</th>
+<th class="text-center" style=" color: blue;">Avg Pick #</th>
 <th class="text-center" style=" color: red;">Winrate</th>
-<th class="text-center" style=" color: red;">Pick #</th>
+<th class="text-center" style=" color: red;">Avg Pick #</th>
 <th class="text-center" style="">Melee</th>
-<th class="text-center" style="">Pick #</th>
+<th class="text-center" style="">Avg Pick #</th>
 <th class="text-center" style="">Ranged</th>
-<th class="text-center" style="">Pick #</th>
+<th class="text-center" style="">Avg Pick #</th>
 </tr>
 </thead>
 <tbody>
@@ -30,15 +35,15 @@
 <tr class="remove">
 <td class="text-center"><img src="{% static ability.image %}" width="50" height="50"><br>{{ ability.name }}</td>
 <td class="text-center">{{ ability.hero }}</td>
-<td class="text-center">{{ ability.agi_winrate }}</td>
+<td class="text-center">{{ ability.agi_winrate }}%</td>
 <td class="text-center">{{ ability.agi_pickorder }}</td>
-<td class="text-center">{{ ability.int_winrate }}</td>
+<td class="text-center">{{ ability.int_winrate }}%</td>
 <td class="text-center">{{ ability.int_pickorder }}</td>
-<td class="text-center">{{ ability.str_winrate }}</td>
+<td class="text-center">{{ ability.str_winrate }}%</td>
 <td class="text-center">{{ ability.str_pickorder }}</td>
-<td class="text-center">{{ ability.melee_winrate }}</td>
+<td class="text-center">{{ ability.melee_winrate }}%</td>
 <td class="text-center">{{ ability.melee_pickorder }}</td>
-<td class="text-center">{{ ability.ranged_winrate }}</td>
+<td class="text-center">{{ ability.ranged_winrate }}%</td>
 <td class="text-center">{{ ability.ranged_pickorder }}</td>
 </tr>
 {% endfor %}
