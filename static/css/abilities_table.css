@@ -22,6 +22,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 
 td, th {
     vertical-align: middle !important;
+    padding-right: 0px !important;
 }
 
 #sortTable > thead > tr > th:nth-child(1) {
