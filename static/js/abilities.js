@@ -1,3 +1,56 @@
+function getWinrateColor(value) {
+
+value = parseFloat(value.replace("%", ""))
+
+const SLIDER_COLORS = [
+{ val: 56.0, color: "#1A5800"},
+{ val: 54.5, color: "#2D5A00"},
+{ val: 53.0, color: "#415C00"},
+
+{ val: 51.5, color: "#545E00"},
+{ val: 50.0, color: "#676000"},
+{ val: 48.5, color: "#674F00"},
+
+{ val: 47.0, color: "#673F00"},
+{ val: 45.5, color: "#672E00"},
+{ val: 44.0, color: "#671D00"},
+]
+
+for (let i = 0; i < 9; i++) {
+  if (value > SLIDER_COLORS[i].val) {
+  return SLIDER_COLORS[i].color
+  }
+  }
+  return "#671D00"
+}
+
+function getPickOrderColor(value) {
+
+value = parseFloat(value)
+
+const SLIDER_COLORS = [
+{ val: 4.0, color: "#1A5800"},
+{ val: 8.0, color: "#2D5A00"},
+{ val: 12.0, color: "#415C00"},
+
+{ val: 16.0, color: "#545E00"},
+{ val: 20.0, color: "#676000"},
+{ val: 24.0, color: "#674F00"},
+
+{ val: 28.0, color: "#673F00"},
+{ val: 32.0, color: "#672E00"},
+{ val: 36.0, color: "#671D00"},
+]
+
+for (let i = 0; i < 9; i++) {
+  if (value < SLIDER_COLORS[i].val) {
+  return SLIDER_COLORS[i].color
+  }
+  }
+  return "#671D00"
+}
+
+
 $(document).ready(function() {
         $(sortTable).DataTable(
     {
@@ -6,54 +59,20 @@ $(document).ready(function() {
         oSearch: {"bRegex": true, "bSmart": false},
         "columnDefs": [{ "searchable": false, "targets": [0,2,3,4,5,6,7]},
         { targets: [1], visible: false},
-        { targets: [0,1,3,5,7,9,11], className: "smaller-font"}],
+        { targets: [0], className: "smaller-font"}],
         rowCallback: function(row, data, index)
         {
-            if(data[2].replace("%", "").replace("%", "") < 49.5){
-                $(row).find("td:eq(1)").css("color", "red");
-            }
-            if(data[2].replace("%", "") > 50.5){
-                $(row).find("td:eq(1)").css("color", "green");
-            }
-            if(data[2].replace("%", "") > 51.5){
-                $(row).find("td:eq(1)").css("font-weight", "bold");
-            }
-            if(data[4].replace("%", "") < 49.5){
-                $(row).find("td:eq(3)").css("color", "red");
-            }
-            if(data[4].replace("%", "") > 50.5){
-                $(row).find("td:eq(3)").css("color", "green");
-            }
-            if(data[4].replace("%", "") > 51.5){
-                $(row).find("td:eq(3)").css("font-weight", "bold");
-            }
-            if(data[6].replace("%", "") < 49.5){
-                $(row).find("td:eq(5)").css("color", "red");
-            }
-            if(data[6].replace("%", "") > 50.5){
-                $(row).find("td:eq(5)").css("color", "green");
-            }
-            if(data[6].replace("%", "") > 51.5){
-                $(row).find("td:eq(5)").css("font-weight", "bold");
-            }
-            if(data[8].replace("%", "") < 49.5){
-                $(row).find("td:eq(7)").css("color", "red");
-            }
-            if(data[8].replace("%", "") > 50.5){
-                $(row).find("td:eq(7)").css("color", "green");
-            }
-            if(data[8].replace("%", "") > 51.5){
-                $(row).find("td:eq(7)").css("font-weight", "bold");
-            }
-            if(data[10].replace("%", "") < 49.5){
-                $(row).find("td:eq(9)").css("color", "red");
-            }
-            if(data[10].replace("%", "") > 50.5){
-                $(row).find("td:eq(9)").css("color", "green");
-            }
-            if(data[10].replace("%", "") > 51.5){
-                $(row).find("td:eq(9)").css("font-weight", "bold");
-            }
+            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(7)").css({"background-color" : getWinrateColor(data[8]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(9)").css({"background-color" : getWinrateColor(data[10]), "color" : "#FFFFFF"});
+
+            $(row).find("td:eq(2)").css({"background-color" : getPickOrderColor(data[3]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(4)").css({"background-color" : getPickOrderColor(data[5]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(6)").css({"background-color" : getPickOrderColor(data[7]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(8)").css({"background-color" : getPickOrderColor(data[9]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(10)").css({"background-color" : getPickOrderColor(data[11]), "color" : "#FFFFFF"});
         }
         });
 

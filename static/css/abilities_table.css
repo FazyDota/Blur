@@ -4,6 +4,16 @@
 
 #sortTable_filter > label{
     font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+.form-control-sm {
+    height: calc(2.5em + 0.5rem + 2px) !important;
+    }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .dataTables_wrapper .dataTables_length{
@@ -17,7 +27,11 @@ div.dataTables_wrapper div.dataTables_filter input {
 }
 
 .smaller-font {
-  font-size: 14px;
+    font-size: 14px;
+}
+
+.stat-cell-font {
+    font-size: 18px !important;
 }
 
 td, th {
