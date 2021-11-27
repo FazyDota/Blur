@@ -7,13 +7,46 @@
     font-size: 20px !important;
 }
 
+#sortTable {
+    column-width: 6rem;
+    table-layout: fixed;
+}
+
 .form-control-sm {
     height: calc(2.5em + 0.5rem + 2px) !important;
     }
 
+.form-control {
+    color: rgb(181, 175, 166);
+    background-color: rgb(24, 26, 27);
+    border-color: rgb(60, 65, 68);
+    border-top-color: rgb(60, 65, 68);
+    border-right-color: rgb(60, 65, 68);
+    border-bottom-color: rgb(60, 65, 68);
+    border-left-color: rgb(60, 65, 68);
+}
+
+.table thead th {
+    border-bottom-color: rgb(56, 61, 63);
+    border-top-width: 0px;
+}
+
+.table-bordered, .table-bordered td, .table-bordered th {
+    border-top-color: rgb(56, 61, 63) !important;
+    border-right-color: rgb(56, 61, 63)!important;
+    border-bottom-color: rgb(56, 61, 63)!important;
+    border-left-color: rgb(56, 61, 63)!important;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+    color: rgb(209, 205, 199);
+    background-color: rgb(24, 26, 27);
+}
+
+.table {
+    color: rgb(209, 205, 199);
 }
 
 .dataTables_wrapper .dataTables_length{
@@ -37,29 +70,8 @@ div.dataTables_wrapper div.dataTables_filter input {
 td, th {
     vertical-align: middle !important;
     padding-right: 0px !important;
+    width: 10rem;
 }
 
 #sortTable > thead > tr > th:nth-child(1) {
-    width: 10rem !important;
-{
-#sortTable > thead > tr > th:nth-child(2) {
-    width: 1.5rem !important;
-{
-#sortTable > thead > tr > th:nth-child(3) {
-    width: 2.5rem !important;
-{
-#sortTable > thead > tr > th:nth-child(4) {
-    width: 1.5rem !important;
-{
-#sortTable > thead > tr > th:nth-child(5) {
-    width: 2.5rem !important;
-{
-#sortTable > thead > tr > th:nth-child(6) {
-    width: 1.5rem !important;
-{
-#sortTable > thead > tr > th:nth-child(7) {
-    width: 2.5rem !important;
-{
-#sortTable > thead > tr > th:nth-child(8) {
-    width: 1.5rem !important;
-{
+    width: 15rem !important;
