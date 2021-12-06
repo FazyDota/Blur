@@ -29,25 +29,20 @@ function getPickOrderColor(value) {
 value = parseFloat(value)
 
 const SLIDER_COLORS = [
-{ val: 4.0, color: "#1A5800"},
-{ val: 8.0, color: "#2D5A00"},
-{ val: 12.0, color: "#415C00"},
+{ val: 6.0, color: "#D02F70"},
+{ val: 12.0, color: "#A12869"},
+{ val: 18.0, color: "#722162"},
 
-{ val: 16.0, color: "#545E00"},
-{ val: 20.0, color: "#676000"},
-{ val: 24.0, color: "#674F00"},
-
-{ val: 28.0, color: "#673F00"},
-{ val: 32.0, color: "#672E00"},
-{ val: 36.0, color: "#671D00"},
+{ val: 24.0, color: "#421A5A"},
+{ val: 30.0, color: "#131353"}
 ]
 
-for (let i = 0; i < 9; i++) {
+for (let i = 0; i < 5; i++) {
   if (value < SLIDER_COLORS[i].val) {
   return SLIDER_COLORS[i].color
   }
   }
-  return "#671D00"
+  return "#0f0f57"
 }
 
 
@@ -68,7 +63,7 @@ $(document).ready(function() {
             $(row).find("td:eq(4)").css({"background-color" : getWinrateColor(data[5]), "color" : "#FFFFFF"});
             $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6]), "color" : "#FFFFFF"});
             $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7]), "color" : "#FFFFFF"});
-            console.log("Hehe.");
+            $(row).find("td:eq(7)").css({"background-color" : getPickOrderColor(data[8]), "color" : "#FFFFFF"});
         }
         });
 
