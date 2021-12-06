@@ -1,21 +1,49 @@
+a {
+    color: #3391ff;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+      width: 300%;
+}
+
+html {
+    background-color: #181a1b !important;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    color: rgb(209, 205, 199);
+    background-color: rgb(24, 26, 27);
+}
+
+html, body, input, textarea, select, button {
+    border-color: #736b5e;
+    background-color: rgb(24, 26, 27);
+    color: #e8e6e3;
+}
+img {
+    border: 1px solid rgb(48, 52, 54);
+
+}
+
+table {
+    border-color: #545b5e;
+}
+
+td, th {
+    vertical-align: middle !important;
+    padding-right: 0px !important;
+    width: 10rem;
+}
+
 .dataTables_wrapper .dataTables_filter{
     float: left;
 }
 
-#sortTable_filter > label{
-    font-weight: bold !important;
-    font-size: 20px !important;
+.dataTables_wrapper .dataTables_length{
+    float: right;
 }
-
-#sortTable {
-    column-width: 6rem;
-    table-layout: fixed;
-}
-
-.form-control-sm {
-    height: calc(2.5em + 0.5rem + 2px) !important;
-    }
-
 .form-control {
     color: rgb(181, 175, 166);
     background-color: rgb(24, 26, 27);
@@ -26,37 +54,8 @@
     border-left-color: rgb(60, 65, 68);
 }
 
-.table thead th {
-    border-bottom-color: rgb(56, 61, 63);
-    border-top-width: 0px;
-}
-
-.table-bordered, .table-bordered td, .table-bordered th {
-    border-top-color: rgb(56, 61, 63) !important;
-    border-right-color: rgb(56, 61, 63)!important;
-    border-bottom-color: rgb(56, 61, 63)!important;
-    border-left-color: rgb(56, 61, 63)!important;
-}
-
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-    color: rgb(209, 205, 199);
-    background-color: rgb(24, 26, 27);
-}
-
-.table {
-    color: rgb(209, 205, 199);
-}
-
-.dataTables_wrapper .dataTables_length{
-    float: right;
-}
-div.dataTables_wrapper div.dataTables_filter input {
-      width: 300%;
-}
-#sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
-    display:none;
+.form-control-sm {
+    height: calc(2.5em + 0.5rem + 2px) !important;
 }
 
 .smaller-font {
@@ -67,11 +66,34 @@ div.dataTables_wrapper div.dataTables_filter input {
     font-size: 18px !important;
 }
 
-td, th {
-    vertical-align: middle !important;
-    padding-right: 0px !important;
-    width: 10rem;
+.table thead th {
+    border-bottom-color: rgb(56, 61, 63);
+    border-top-width: 0px;
+
+}
+.table {
+    color: rgb(209, 205, 199);
+}
+
+.table-bordered, .table-bordered td, .table-bordered th {
+    border-color: rgb(120, 112, 99) !important;
 }
 
 #sortTable > thead > tr > th:nth-child(1) {
     width: 15rem !important;
+}
+
+#sortTable {
+    column-width: 6rem;
+    table-layout: fixed;
+}
+
+#sortTable_filter > label {
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+#sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
+    display:none;
+}
+

@@ -15,4 +15,6 @@ class Ability(models.Model):
     melee_pickorder = models.FloatField(null=True)
     ranged_winrate = models.FloatField(null=True)
     ranged_pickorder = models.FloatField(null=True)
+    total_winrate = models.FloatField(null=True)
+    avg_pickorder = models.FloatField(null=True)
     image = models.CharField(max_length=60, null=True)

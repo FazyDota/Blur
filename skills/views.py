@@ -19,3 +19,16 @@ def abilities_index(request):
 
     return render(request, 'abilities_index.html', context)
 
+
+def abilities_index_new(request):
+
+    abilities = Ability.objects.all()
+
+    context = {
+
+        'abilities': abilities
+
+    }
+
+    return render(request, 'abilities_index_new.html', context)
+
