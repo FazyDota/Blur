@@ -1,6 +1,8 @@
 from skills.models import Ability
 import csv
 
+Ability.objects.all().delete()
+
 with open("result.csv", 'r') as file:
     reader = csv.reader(file)
     next(reader)
