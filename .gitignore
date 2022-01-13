@@ -12,3 +12,4 @@ venv/
 .env
 staticfiles/
 .archive/
+old_result_csvs
