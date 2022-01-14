@@ -50,6 +50,7 @@ $(document).ready(function() {
         $(sortTable).DataTable(
     {
         "paging": false,
+        "order": [[ 8, "asc" ]],
         responsive: true,
         oSearch: {"bRegex": true, "bSmart": false},
         "columnDefs": [{ "searchable": false, "targets": [0,2,3,4,5,6,7]},
@@ -66,12 +67,14 @@ $(document).ready(function() {
             $(row).find("td:eq(7)").css({"background-color" : getPickOrderColor(data[8]), "color" : "#FFFFFF"});
         }
         });
-
+     var lastRun = null;
      $("#sortTable").on("click", "td.removable", function () {
-		var table = $("#sortTable").DataTable();
+        if (lastRun == null || new Date() - lastRun > 500) {
+        		var table = $("#sortTable").DataTable();
 		table
 			.row($(this))
 			.remove()
 		.draw();
+		lastRun = new Date(); }
 		});
 });
