@@ -45,7 +45,6 @@ for (let i = 0; i < 5; i++) {
   return "#0f0f57"
 }
 
-
 $(document).ready(function() {
         $(sortTable).DataTable(
     {
