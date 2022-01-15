@@ -18,3 +18,16 @@ class Ability(models.Model):
     total_winrate = models.FloatField(null=True)
     avg_pickorder = models.FloatField(null=True)
     image = models.CharField(max_length=60, null=True)
+
+
+class AbilityCombo(models.Model):
+    ability_1_name = models.CharField(max_length=60)
+    ability_1_image = models.CharField(max_length=60, null=True)
+    ability_1_hero = models.CharField(max_length=60)
+    ability_1_winrate = models.FloatField(null=True)
+    ability_2_name = models.CharField(max_length=60)
+    ability_2_image = models.CharField(max_length=60, null=True)
+    ability_2_hero = models.CharField(max_length=60)
+    ability_2_winrate = models.FloatField(null=True)
+    total_winrate = models.FloatField(null=True)
+    synergy = models.FloatField(null=True)

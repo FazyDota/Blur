@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from skills.models import Ability
+from skills.models import Ability, AbilityCombo
 from django.views.generic import TemplateView
 
 
@@ -23,10 +23,12 @@ def abilities_index(request):
 def abilities_index_new(request):
 
     abilities = Ability.objects.all()
+    ability_combos = AbilityCombo.objects.all()
 
     context = {
 
-        'abilities': abilities
+        'abilities': abilities,
+        'ability_combos': ability_combos
 
     }
 

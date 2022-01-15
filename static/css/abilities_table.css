@@ -1,9 +1,12 @@
 a {
     color: #3391ff;
 }
+#sortTable_filter > label > input {
+      width: 345%;
+}
 
-div.dataTables_wrapper div.dataTables_filter input {
-      width: 300%;
+#comboTable_filter > label > input {
+      width: 250%;
 }
 
 html {
@@ -54,8 +57,14 @@ td, th {
     border-left-color: rgb(60, 65, 68);
 }
 
-.form-control-sm {
+#sortTable_filter > label > .form-control-sm {
     height: calc(2.5em + 0.5rem + 2px) !important;
+    font-size: 24px !important;
+}
+
+#comboTable_filter > label > .form-control-sm {
+    height: calc(5em + 0.5rem + 2px) !important;
+    font-size: 12px !important;
 }
 
 .smaller-font {
@@ -84,16 +93,27 @@ td, th {
 }
 
 #sortTable {
-    column-width: 6rem;
-    table-layout: fixed;
-}
-
-#sortTable_filter > label {
-    font-weight: bold !important;
-    font-size: 20px !important;
+    column-width: 4rem;
+    /*table-layout: fixed;*/
 }
 
 #sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
     display:none;
 }
+#sortTable_wrapper > div:nth-child(1) > div:nth-child(2) {
+    padding-left: 2rem;
+}
+#comboTable_wrapper > div:nth-child(1) > div:nth-child(1) {
+    display:none;
+}
+
+#sortTable_filter > label {
+    font-weight: bold !important;
+    font-size: 25px !important;
+}
+
+#comboTable_filter > label {
+    font-size: 0px !important;
+}
+
 
