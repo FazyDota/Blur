@@ -4,7 +4,7 @@
 
 <style>
 .hero-buttons {
-    width: 75% !important;
+    width: 95% !important;
 }
 
 .img-container {
@@ -14,21 +14,21 @@
 
 .img-container img {
   display: block;
-  width:89px;
-  height:50px;
+  width:107px;
+  height:60px;
   filter: brightness(70%);
 }
 
 .img-container p {
   position: absolute;
-  top: 60%;
+  bottom: -25%;
   left: 0;
   right: 0;
-  transform: translate(0, -5, 0%);
   text-align: center;
   color: white;
   /*text-transform: uppercase;*/
   font-size: 0.65vw;
+  line-height: 90%;
 
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
@@ -60,7 +60,7 @@ function insertHeroName(text, fulltext)
     return text;
 }
 </script>
-
+<div style="display:none">
 <h1>Ability Draft Helper v2.14</h1>
 <h4>All data used come from <a href="abilitydraft.datdota.com">abilitydraft.datdota.com</a>,
     huge thanks to <a href="https://twitter.com/Noxville">Noxville</a>.</h4>
@@ -73,15 +73,15 @@ function insertHeroName(text, fulltext)
 	Example: <i>Axe|Lion|Cryst|Kunk|Void S|Terr</i><br>
     Will find abilities of Axe, Lion, Crystal Maiden, Kunkka, Void Spirit and Terrorblade.<br>
     You can click on an ability (in the ability column) and its row will be deleted from the result.</p>
-
+</div>
 <div class="hero-buttons">
 	<div class="img-container">
-		<img src="{% static 'heroes/Abaddon.png' %}" onclick="insertHeroName('Aba', 'Abaddon')">
-		<p onclick="insertHeroName('Aba', 'Abaddon')">Abaddon</p>
+		<img src="{% static 'heroes/Abaddon.png' %}" onclick="insertHeroName('Abaddon', 'Abaddon')">
+		<p onclick="insertHeroName('Abaddon', 'Abaddon')">Abaddon</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Alchemist.png' %}" onclick="insertHeroName('Alch', 'Alchemist')">
-		<p onclick="insertHeroName('Alch', 'Alchemist')">Alche</p>
+		<p onclick="insertHeroName('Alch', 'Alchemist')">Alchemist</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Axe.png' %}" onclick="insertHeroName('Axe', 'Axe')">
@@ -89,15 +89,15 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Beastmaster.png' %}" onclick="insertHeroName('Beastm', 'Beastmaster')">
-		<p onclick="insertHeroName('Beastm', 'Beastmaster')">Beast</p>
+		<p onclick="insertHeroName('Beastm', 'Beastmaster')">Beastmaster</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Brewmaster.png' %}" onclick="insertHeroName('Brewm', 'Brewmaster')">
-		<p onclick="insertHeroName('Brewm', 'Brewmaster')">Brew</p>
+		<p onclick="insertHeroName('Brewm', 'Brewmaster')">Brewmaster</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Bristleback.png' %}" onclick="insertHeroName('Bristle', 'Bristleback')">
-		<p onclick="insertHeroName('Bristle', 'Bristleback')">Bristle</p>
+		<p onclick="insertHeroName('Bristle', 'Bristleback')">Bristleback</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Centaur_Warrunner.png' %}" onclick="insertHeroName('Cent', 'Centaur Warrunner')">
@@ -105,15 +105,15 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Chaos_Knight.png' %}" onclick="insertHeroName('Chaos', 'Chaos Knight')">
-		<p onclick="insertHeroName('Chaos', 'Chaos Knight')">CK</p>
+		<p onclick="insertHeroName('Chaos', 'Chaos Knight')">Chaos Knight</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Clockwerk.png' %}" onclick="insertHeroName('Clock', 'Clockwerk')">
-		<p onclick="insertHeroName('Clock', 'Clockwerk')">Clock</p>
+		<p onclick="insertHeroName('Clock', 'Clockwerk')">Clockwerk</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Dawnbreaker.png' %}" onclick="insertHeroName('Dawn', 'Dawnbreaker')">
-		<p onclick="insertHeroName('Dawn', 'Dawnbreaker')">Dawn</p>
+		<p onclick="insertHeroName('Dawn', 'Dawnbreaker')">Dawnbreaker</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Doom.png' %}" onclick="insertHeroName('Doom', 'Doom')">
@@ -121,7 +121,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Dragon_Knight.png' %}" onclick="insertHeroName('Dragon', 'Dragon Knight')">
-		<p onclick="insertHeroName('Dragon', 'Dragon Knight')">DK</p>
+		<p onclick="insertHeroName('Dragon', 'Dragon Knight')">Dragon Knight</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Earth_Spirit.png' %}" onclick="insertHeroName('Earth S', 'Earth Spirit')">
@@ -132,8 +132,8 @@ function insertHeroName(text, fulltext)
 		<p onclick="insertHeroName('Earthsh', 'Earthshaker')">Earthshaker</p>
 	</div>
 	<div class="img-container">
-		<img src="{% static 'heroes/Elder_Titan.png' %}" onclick="insertHeroName('Elder', 'Elder Titan')">
-		<p onclick="insertHeroName('Elder', 'Elder Titan')">ET</p>
+		<img src="{% static 'heroes/Elder_Titan.png' %}" onclick="insertHeroName('Elder T', 'Elder Titan')">
+		<p onclick="insertHeroName('Elder T', 'Elder Titan')">Elder Titan</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Huskar.png' %}" onclick="insertHeroName('Husk', 'Huskar')">
@@ -141,7 +141,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Io.png' %}" onclick="insertHeroName('Io ', 'Io ')">
-		<p onclick="insertHeroName('Io ', 'Io ')">Wisp</p>
+		<p onclick="insertHeroName('Io ', 'Io ')">Io</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Kunkka.png' %}" onclick="insertHeroName('Kunk', 'Kunkka')">
@@ -149,7 +149,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Legion_Commander.png' %}" onclick="insertHeroName('Legion', 'Legion Commander')">
-		<p onclick="insertHeroName('Legion', 'Legion Commander')">Legion</p>
+		<p onclick="insertHeroName('Legion', 'Legion Commander')">Legion Commander</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Lifestealer.png' %}" onclick="insertHeroName('Lifes', 'Lifestealer')">
@@ -172,12 +172,12 @@ function insertHeroName(text, fulltext)
 		<p onclick="insertHeroName('Mars', 'Mars')">Mars</p>
 	</div>
 	<div class="img-container">
-		<img src="{% static 'heroes/Night_Stalker.png' %}" onclick="insertHeroName('Night', 'Night Stalker')">
-		<p onclick="insertHeroName('Night', 'Night Stalker')">NS</p>
+		<img src="{% static 'heroes/Night_Stalker.png' %}" onclick="insertHeroName('Night S', 'Night Stalker')">
+		<p onclick="insertHeroName('Night S', 'Night Stalker')">Night Stalker</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Omniknight.png' %}" onclick="insertHeroName('Omni', 'Omniknight')">
-		<p onclick="insertHeroName('Omni', 'Omniknight')">Omni</p>
+		<p onclick="insertHeroName('Omni', 'Omniknight')">Omniknight</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Phoenix.png' %}" onclick="insertHeroName('Phoe', 'Phoenix')">
@@ -197,11 +197,11 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Snapfire.png' %}" onclick="insertHeroName('Snap', 'Snapfire')">
-		<p onclick="insertHeroName('Snap', 'Snapfire')">Snappy</p>
+		<p onclick="insertHeroName('Snap', 'Snapfire')">Snapfire</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Spirit_Breaker.png' %}" onclick="insertHeroName('Spirit B', 'Spirit Breaker')">
-		<p onclick="insertHeroName('Spirit B', 'Spirit Breaker')">SB</p>
+		<p onclick="insertHeroName('Spirit B', 'Spirit Breaker')">Spirit Breaker</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Sven.png' %}" onclick="insertHeroName('Sven', 'Sven')">
@@ -209,11 +209,11 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Tidehunter.png' %}" onclick="insertHeroName('Tide', 'Tidehunter')">
-		<p onclick="insertHeroName('Tide', 'Tidehunter')">Tide</p>
+		<p onclick="insertHeroName('Tide', 'Tidehunter')">Tidehunter</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Timbersaw.png' %}" onclick="insertHeroName('Timb', 'Timbersaw')">
-		<p onclick="insertHeroName('Timb', 'Timbersaw')">Timber</p>
+		<p onclick="insertHeroName('Timb', 'Timbersaw')">Timbersaw</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Tiny.png' %}" onclick="insertHeroName('Tiny', 'Tiny')">
@@ -221,7 +221,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Treant_Protector.png' %}" onclick="insertHeroName('Treant', 'Treant Protector')">
-		<p onclick="insertHeroName('Treant', 'Treant Protector')">Treant</p>
+		<p onclick="insertHeroName('Treant', 'Treant Protector')">Treant Protector</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Tusk.png' %}" onclick="insertHeroName('Tusk', 'Tusk')">
@@ -237,18 +237,18 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Wraith_King.png' %}" onclick="insertHeroName('Wraith', 'Wraith King')">
-		<p onclick="insertHeroName('Wraith', 'Wraith King')">WK</p>
+		<p onclick="insertHeroName('Wraith', 'Wraith King')">Wraith King</p>
 	</div>
 </div>
-<br>
+<br><br>
 <div class="hero-buttons">
 	<div class="img-container">
 		<img src="{% static 'heroes/Anti-Mage.png' %}" onclick="insertHeroName('Anti', 'Anti-Mage')">
-		<p onclick="insertHeroName('Anti', 'Anti-Mage')">AM</p>
+		<p onclick="insertHeroName('Anti', 'Anti-Mage')">Anti-Mage</p>
 	</div>
 	<div class="img-container">
-		<img src="{% static 'heroes/Arc_Warden.png' %}" onclick="insertHeroName('Arc', 'Arc Warden')">
-		<p onclick="insertHeroName('Arc', 'Arc Warden')">Arc Warden</p>
+		<img src="{% static 'heroes/Arc_Warden.png' %}" onclick="insertHeroName('Arc W', 'Arc Warden')">
+		<p onclick="insertHeroName('Arc W', 'Arc Warden')">Arc Warden</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Bloodseeker.png' %}" onclick="insertHeroName('Bloods', 'Bloodseeker')">
@@ -256,11 +256,11 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Bounty_Hunter.png' %}" onclick="insertHeroName('Bounty', 'Bounty Hunter')">
-		<p onclick="insertHeroName('Bounty', 'Bounty Hunter')">BH</p>
+		<p onclick="insertHeroName('Bounty', 'Bounty Hunter')">Bounty Hunter</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Broodmother.png' %}" onclick="insertHeroName('Brood', 'Broodmother')">
-		<p onclick="insertHeroName('Brood', 'Broodmother')">Brood</p>
+		<p onclick="insertHeroName('Brood', 'Broodmother')">Broodmother</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Clinkz.png' %}" onclick="insertHeroName('Clin', 'Clinkz')">
@@ -268,19 +268,19 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Drow_Ranger.png' %}" onclick="insertHeroName('Drow', 'Drow Ranger')">
-		<p onclick="insertHeroName('Drow', 'Drow Ranger')">Drow</p>
+		<p onclick="insertHeroName('Drow', 'Drow Ranger')">Drow Ranger</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Ember_Spirit.png' %}" onclick="insertHeroName('Ember', 'Ember Spirit')">
-		<p onclick="insertHeroName('Ember', 'Ember Spirit')">Ember</p>
+		<p onclick="insertHeroName('Ember', 'Ember Spirit')">Ember Spirit</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Faceless_Void.png' %}" onclick="insertHeroName('Facel', 'Faceless Void')">
-		<p onclick="insertHeroName('Facel', 'Faceless Void')">Faceless</p>
+		<p onclick="insertHeroName('Facel', 'Faceless Void')">Faceless Void</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Gyrocopter.png' %}" onclick="insertHeroName('Gyro', 'Gyrocopter')">
-		<p onclick="insertHeroName('Gyro', 'Gyrocopter')">Gyro</p>
+		<p onclick="insertHeroName('Gyro', 'Gyrocopter')">Gyrocopter</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Hoodwink.png' %}" onclick="insertHeroName('Hood', 'Hoodwink')">
@@ -288,7 +288,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Juggernaut.png' %}" onclick="insertHeroName('Jugg', 'Juggernaut')">
-		<p onclick="insertHeroName('Jugg', 'Juggernaut')">Jugg</p>
+		<p onclick="insertHeroName('Jugg', 'Juggernaut')">Juggernaut</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Lone_Druid.png' %}" onclick="insertHeroName('Lone', 'Lone Druid')">
@@ -312,7 +312,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Monkey_King.png' %}" onclick="insertHeroName('Monke', 'Monkey King')">
-		<p onclick="insertHeroName('Monke', 'Monkey King')">MK</p>
+		<p onclick="insertHeroName('Monke', 'Monkey King')">Monkey King</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Morphling.png' %}" onclick="insertHeroName('Morph', 'Morphling')">
@@ -332,11 +332,11 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Phantom_Assassin.png' %}" onclick="insertHeroName('Phantom A', 'Phantom Assassin')">
-		<p onclick="insertHeroName('Phantom A', 'Phantom Assassin')">PA</p>
+		<p onclick="insertHeroName('Phantom A', 'Phantom Assassin')">Phantom Assassin</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Phantom_Lancer.png' %}" onclick="insertHeroName('Phantom L', 'Phantom Lancer')">
-		<p onclick="insertHeroName('Phantom L', 'Phantom Lancer')">PL</p>
+		<p onclick="insertHeroName('Phantom L', 'Phantom Lancer')">Phantom Lancer</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Razor.png' %}" onclick="insertHeroName('Razor', 'Razor')">
@@ -348,7 +348,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Shadow_Fiend.png' %}" onclick="insertHeroName('Shadow F', 'Shadow Fiend')">
-		<p onclick="insertHeroName('Shadow F', 'Shadow Fiend')">SF</p>
+		<p onclick="insertHeroName('Shadow F', 'Shadow Fiend')">Shadow Fiend</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Slark.png' %}" onclick="insertHeroName('Slark', 'Slark')">
@@ -364,15 +364,15 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Templar_Assassin.png' %}" onclick="insertHeroName('Templ', 'Templar Assassin')">
-		<p onclick="insertHeroName('Templ', 'Templar Assassin')">TA</p>
+		<p onclick="insertHeroName('Templ', 'Templar Assassin')">Templar Assassin</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Terrorblade.png' %}" onclick="insertHeroName('Terror', 'Terrorblade')">
-		<p onclick="insertHeroName('Terror', 'Terrorblade')">TB</p>
+		<p onclick="insertHeroName('Terror', 'Terrorblade')">Terrorblade</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Troll_Warlord.png' %}" onclick="insertHeroName('Troll', 'Troll Warlord')">
-		<p onclick="insertHeroName('Troll', 'Troll Warlord')">Troll</p>
+		<p onclick="insertHeroName('Troll', 'Troll Warlord')">Troll Warlord</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Ursa.png' %}" onclick="insertHeroName('Ursa', 'Ursa')">
@@ -380,11 +380,11 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Vengeful_Spirit.png' %}" onclick="insertHeroName('Venge', 'Vengeful Spirit')">
-		<p onclick="insertHeroName('Venge', 'Vengeful Spirit')">Venge</p>
+		<p onclick="insertHeroName('Venge', 'Vengeful Spirit')">Vengeful Spirit</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Venomancer.png' %}" onclick="insertHeroName('Veno', 'Venomancer')">
-		<p onclick="insertHeroName('Veno', 'Venomancer')">Veno</p>
+		<p onclick="insertHeroName('Veno', 'Venomancer')">Venomancer</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Viper.png' %}" onclick="insertHeroName('Viper', 'Viper')">
@@ -395,11 +395,11 @@ function insertHeroName(text, fulltext)
 		<p onclick="insertHeroName('Weaver', 'Weaver')">Weaver</p>
 	</div>
 </div>
-<br>
+<br><br>
 <div class="hero-buttons">
 	<div class="img-container">
 		<img src="{% static 'heroes/Ancient_Apparition.png' %}" onclick="insertHeroName('Anci', 'Ancient Apparition')">
-		<p onclick="insertHeroName('Anci', 'Ancient Apparition')">AA</p>
+		<p onclick="insertHeroName('Anci', 'Ancient Apparition')">Ancient Apparition</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Bane.png' %}" onclick="insertHeroName('Bane', 'Bane')">
@@ -415,7 +415,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Crystal_Maiden.png' %}" onclick="insertHeroName('Crys', 'Crystal Maiden')">
-		<p onclick="insertHeroName('Crys', 'Crystal Maiden')">CM</p>
+		<p onclick="insertHeroName('Crys', 'Crystal Maiden')">Crystal Maiden</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Dark_Seer.png' %}" onclick="insertHeroName('Dark S', 'Dark Seer')">
@@ -431,7 +431,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Death_Prophet.png' %}" onclick="insertHeroName('Death P', 'Death Prophet')">
-		<p onclick="insertHeroName('Death P', 'Death Prophet')">DP</p>
+		<p onclick="insertHeroName('Death P', 'Death Prophet')">Death Prophet</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Disruptor.png' %}" onclick="insertHeroName('Disr', 'Disruptor')">
@@ -459,7 +459,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Keeper_of_the_Light.png' %}" onclick="insertHeroName('Keeper', 'Keeper of the Light')">
-		<p onclick="insertHeroName('Keeper', 'Keeper of the Light')">KotL</p>
+		<p onclick="insertHeroName('Keeper', 'Keeper of the Light')">Keeper of the Light</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Leshrac.png' %}" onclick="insertHeroName('Lesh', 'Leshrac')">
@@ -479,7 +479,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Natures_Prophet.png' %}" onclick="insertHeroName('Natur', 'Nature\'s Prophet')">
-		<p onclick="insertHeroName('Natur', 'Nature\'s Prophet')">Furion</p>
+		<p onclick="insertHeroName('Natur', 'Nature\'s Prophet')">Nature's Prophet</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Necrophos.png' %}" onclick="insertHeroName('Necro', 'Necrophos')">
@@ -495,7 +495,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Outworld_Destroyer.png' %}" onclick="insertHeroName('Outwo', 'Outworld Destroyer')">
-		<p onclick="insertHeroName('Outwo', 'Outworld Destroyer')">OD</p>
+		<p onclick="insertHeroName('Outwo', 'Outworld Destroyer')">Outworld Destroyer</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Puck.png' %}" onclick="insertHeroName('Puck', 'Puck')">
@@ -507,7 +507,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Queen_of_Pain.png' %}" onclick="insertHeroName('Queen', 'Queen of Pain')">
-		<p onclick="insertHeroName('Queen', 'Queen of Pain')">QoP</p>
+		<p onclick="insertHeroName('Queen', 'Queen of Pain')">Queen of Pain</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Rubick.png' %}" onclick="insertHeroName('Rubick', 'Rubick')">
@@ -515,11 +515,11 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Shadow_Demon.png' %}" onclick="insertHeroName('Shadow D', 'Shadow Demon')">
-		<p onclick="insertHeroName('Shadow D', 'Shadow Demon')">SD</p>
+		<p onclick="insertHeroName('Shadow D', 'Shadow Demon')">Shadow Demon'</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Shadow_Shaman.png' %}" onclick="insertHeroName('Shadow S', 'Shadow Shaman')">
-		<p onclick="insertHeroName('Shadow S', 'Shadow Shaman')">Rhasta</p>
+		<p onclick="insertHeroName('Shadow S', 'Shadow Shaman')">Shadow Shaman'</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Silencer.png' %}" onclick="insertHeroName('Sile', 'Silencer')">
@@ -527,7 +527,7 @@ function insertHeroName(text, fulltext)
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Skywrath_Mage.png' %}" onclick="insertHeroName('Skywr', 'Skywrath Mage')">
-		<p onclick="insertHeroName('Skywr', 'Skywrath Mage')">Skywrath</p>
+		<p onclick="insertHeroName('Skywr', 'Skywrath Mage')">Skywrath Mage</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Storm_Spirit.png' %}" onclick="insertHeroName('Storm S', 'Storm Spirit')">
@@ -550,16 +550,16 @@ function insertHeroName(text, fulltext)
 		<p onclick="insertHeroName('Void S', 'Void Spirit')">Void Spirit</p>
 	</div>
 	<div class="img-container">
-		<img src="{% static 'heroes/Warlock.png' %}" onclick="insertHeroName('Warl', 'Warlock')">
-		<p onclick="insertHeroName('Warl', 'Warlock')">Warlock</p>
+		<img src="{% static 'heroes/Warlock.png' %}" onclick="insertHeroName('Warlock', 'Warlock')">
+		<p onclick="insertHeroName('Warlock', 'Warlock')">Warlock</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Windranger.png' %}" onclick="insertHeroName('Windr', 'Windranger')">
-		<p onclick="insertHeroName('Windr', 'Windranger')">WR</p>
+		<p onclick="insertHeroName('Windr', 'Windranger')">Windranger</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Winter_Wyvern.png' %}" onclick="insertHeroName('Winter W', 'Winter Wyvern')">
-		<p onclick="insertHeroName('Winter W', 'Winter Wyvern')">WW</p>
+		<p onclick="insertHeroName('Winter W', 'Winter Wyvern')">Winter Wyvern'</p>
 	</div>
 	<div class="img-container">
 		<img src="{% static 'heroes/Witch_Doctor.png' %}" onclick="insertHeroName('Witch D', 'Witch Doctor')">
@@ -570,8 +570,7 @@ function insertHeroName(text, fulltext)
 		<p onclick="insertHeroName('Zeus', 'Zeus')">Zeus</p>
 	</div>
 </div>
-<br>
-
+<br><br><br>
 <div style="width: 100%;">
 	<div style="width: 65%; float: left;">
 
