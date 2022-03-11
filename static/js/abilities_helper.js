@@ -1,3 +1,22 @@
+function insertHeroName(text, fulltext)
+{
+    var $searchBox = document.getElementsByClassName("form-control form-control-sm")[0];
+    if ($searchBox.value) {
+        $searchBox.value = $searchBox.value + "|" + fulltext;
+    }
+    else {
+        $searchBox.value = fulltext;
+    }
+    audio.volume = 0.05;
+    audio.play();
+	setTimeout(function(){
+		audio.pause();
+		audio.currentTime = 0;
+	},
+	300);
+    return text;
+}
+
 function getWinrateColor(value) {
 
 value = parseFloat(value.replace("%", ""))
@@ -67,21 +86,6 @@ $(document).ready(function() {
                 $(row).find("td:eq(7)").css({"background-color" : getPickOrderColor(data[8]), "color" : "#FFFFFF"});
             }
         });
-    $(comboTable).DataTable(
-        {
-            "paging": false,
-            "order": [[ 6, "desc" ]],
-            responsive: true,
-            oSearch: {"bRegex": true, "bSmart": false},
-            "columnDefs": [{ "searchable": false, "targets": [0,2,3,5,6]},
-            { targets: [1, 4], visible: true},],
-            rowCallback: function(row, data, index)
-            {
-                $(row).find("td:eq(2)").css({"background-color" : getWinrateColor(data[2]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[5]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[6]), "color" : "#FFFFFF"});
-            }
-        });
 
      var lastRun = null;
      $("#sortTable").on("click", "td.removable", function () {
@@ -92,19 +96,5 @@ $(document).ready(function() {
 			.remove()
 		.draw();
 		lastRun = new Date(); }
-		});
-	$("#comboTable").on("click", "td", function () {
-	    var $searchBox = document.getElementsByClassName("form-control form-control-sm")[1];
-	    var table = $("#comboTable").DataTable();
-	    console.log("ComboTable onclick");
-	    $('#comboTable tbody>tr').each(function() {
-            var firstHero = $(this).find('td:nth-child(2)').html()
-            var secondHero = $(this).find('td:nth-child(5)').html();
-            if (!($searchBox.value.includes(firstHero)) || !($searchBox.value.includes(secondHero)))
-            {
-                $(this).hide();
-            }
-            console.log(firstHero, secondHero);
-        });
 		});
 });
