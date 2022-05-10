@@ -8,6 +8,7 @@ function insertHeroName(text, sound=true)
         $searchBox.value = text;
     }
     $('#sortTable').DataTable().search($searchBox.value).draw();
+    $('#heroTable').DataTable().search($searchBox.value).draw();
 
 
     if (sound===true) {
@@ -133,6 +134,19 @@ $(document).ready(function() {
     console.log(queryString);
     const urlParams = new URLSearchParams(queryString);
     heroes = urlParams.get('heroes').split(',');
+
+    $(heroTable).DataTable(
+    {
+        "paging": false,
+        "order": [[ 1, "asc" ]],
+        responsive: true,
+        oSearch: {"bRegex": true, "bSmart": false},
+        "columnDefs": [{ "searchable": false, "targets": [1]}],
+        rowCallback: function(row, data, index)
+        {
+            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1]), "color" : "#FFFFFF"});
+        }
+    });
 
     var $searchBox = document.getElementsByClassName("form-control form-control-sm")[0];
     heroes.forEach(element => insertHeroName(get_hero_name_from_id(element), false));

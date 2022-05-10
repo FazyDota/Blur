@@ -611,6 +611,31 @@
     </div>
 </div>
 </div>
+<br>
+
+<div style="width: 100%;">
+	<div style="width: 40%; float: left;">
+		<table id="heroTable" class="table table-striped table-bordered table-sm" cellspacing="0" width="40%">
+		<thead>
+		<tr>
+		<th class="text-center">Hero</th>
+		<th class="text-center">Winrate</th>
+		</tr>
+		</thead>
+		<tbody>
+
+		{% for hero in heroes %}
+
+		<tr>
+		<td class="text-center">{{ hero.name }}</td>
+		<td class="text-center">{{ hero.winrate }}</td>
+		</tr>
+		{% endfor %}
+
+		</tbody>
+		</table>
+	</div>
+</div>
 <br><br><br>
 <div style="width: 100%;">
 	<div style="width: 85%; float: left;">

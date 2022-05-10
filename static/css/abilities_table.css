@@ -24,6 +24,10 @@ a {
       width: 500%;
 }
 
+#heroTable_filter {
+display: none !important;
+}
+
 #comboTable_filter > label > input {
       width: 250%;
 }
@@ -114,14 +118,17 @@ td, th {
     column-width: 4rem;
     /*table-layout: fixed;*/
 }
+#heroTable_wrapper > div:nth-child(3){
+    display:none;
+}
 
-#sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
+#sortTable_wrapper > div:nth-child(3) {
     display:none;
 }
 #sortTable_wrapper > div:nth-child(1) > div:nth-child(2) {
     padding-left: 2rem;
 }
-#comboTable_wrapper > div:nth-child(1) > div:nth-child(1) {
+#comboTable_wrapper > div:nth-child(3) {
     display:none;
 }
 

@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from skills.models import Ability, AbilityCombo
+from skills.models import Ability, AbilityCombo, Hero
 from django.views.generic import TemplateView
 
 
@@ -10,10 +10,12 @@ class HomePageView(TemplateView):
 def abilities_index(request):
 
     abilities = Ability.objects.all()
+    heroes = Hero.objects.all()
 
     context = {
 
-        'abilities': abilities
+        'abilities': abilities,
+        'heroes': heroes
 
     }
 

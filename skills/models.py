@@ -31,3 +31,9 @@ class AbilityCombo(models.Model):
     ability_2_winrate = models.FloatField(null=True)
     total_winrate = models.FloatField(null=True)
     synergy = models.FloatField(null=True)
+
+
+class Hero(models.Model):
+    name = models.CharField(max_length=60)
+    winrate = models.FloatField(null=True)
+    image = models.CharField(max_length=60, null=True)
