@@ -21,10 +21,15 @@ a {
     color: #3391ff;
 }
 #sortTable_filter > label > input {
-      width: 500%;
+      width: 85rem;
+      margin-left: 0rem !important;
 }
 
-#heroTable_filter {
+#heroTableRadiant_filter {
+display: none !important;
+}
+
+#heroTableDire_filter {
 display: none !important;
 }
 
@@ -114,19 +119,43 @@ td, th {
     width: 15rem !important;
 }
 
+#heroTables {
+    margin-left: 0%;
+}
+
+.heroTableTitle {
+    text-align: center !important;
+    font-size: 18px !important;
+}
+
+.center-table {
+    margin: auto;
+}
+
 #sortTable {
     column-width: 4rem;
-    /*table-layout: fixed;*/
 }
-#heroTable_wrapper > div:nth-child(3){
+
+#heroTableRadiant_wrapper {
+    padding-bottom: 20px;
+}
+
+#heroTableRadiant_wrapper > div:nth-child(3){
+    display:none;
+}
+
+#heroTableDire_wrapper > div:nth-child(3){
     display:none;
 }
 
 #sortTable_wrapper > div:nth-child(3) {
     display:none;
 }
+
+#sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
+    display:none;
+}
 #sortTable_wrapper > div:nth-child(1) > div:nth-child(2) {
-    padding-left: 2rem;
 }
 #comboTable_wrapper > div:nth-child(3) {
     display:none;
