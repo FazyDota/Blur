@@ -1,8 +1,36 @@
+json_hero_map = {   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker", "5": "Crystal Maiden", "6": "Drow Ranger", "7": "Earthshaker",
+                    "8": "Juggernaut", "9": "Mirana", "10": "Morphling", "11": "Shadow Fiend", "12": "Phantom Lancer", "13": "Puck",
+                    "14": "Pudge", "15": "Razor", "16": "Sand King", "17": "Storm Spirit", "18": "Sven", "19": "Tiny", "20": "Vengeful Spirit",
+                    "21": "Windranger", "22": "Zeus", "23": "Kunkka", "25": "Lina", "26": "Lion", "27": "Shadow Shaman", "28": "Slardar",
+                    "29": "Tidehunter", "30": "Witch Doctor", "31": "Lich", "32": "Riki", "33": "Enigma", "34": "Tinker", "35": "Sniper",
+                    "36": "Necrophos", "37": "Warlock", "38": "Beastmaster", "39": "Queen of Pain", "40": "Venomancer", "41": "Faceless Void",
+                    "42": "Wraith King", "43": "Death Prophet", "44": "Phantom Assassin", "45": "Pugna", "46": "Templar Assassin", "47": "Viper",
+                    "48": "Luna", "49": "Dragon Knight", "50": "Dazzle", "51": "Clockwerk", "52": "Leshrac", "53": "Nature's Prophet",
+                    "54": "Lifestealer", "55": "Dark Seer", "56": "Clinkz", "57": "Omniknight", "58": "Enchantress", "59": "Huskar",
+                    "60": "Night Stalker", "61": "Broodmother", "62": "Bounty Hunter", "63": "Weaver", "64": "Jakiro", "65": "Batrider",
+                    "66": "Chen", "67": "Spectre", "68": "Ancient Apparition", "69": "Doom", "70": "Ursa", "71": "Spirit Breaker",
+                    "72": "Gyrocopter", "73": "Alchemist", "74": "Invoker", "75": "Silencer", "76": "Outworld Devourer", "77": "Lycan",
+                    "78": "Brewmaster", "79": "Shadow Demon", "80": "Lone Druid", "81": "Chaos Knight", "82": "Meepo", "83": "Treant Protector",
+                    "84": "Ogre Magi", "85": "Undying", "86": "Rubick", "87": "Disruptor", "88": "Nyx Assassin", "89": "Naga Siren",
+                    "90": "Keeper of the Light", "91": "Io", "92": "Visage", "93": "Slark", "94": "Medusa", "95": "Troll Warlord",
+                    "96": "Centaur Warrunner", "97": "Magnus", "98": "Timbersaw", "99": "Bristleback", "100": "Tusk", "101": "Skywrath Mage",
+                    "102": "Abaddon", "103": "Elder Titan", "104": "Legion Commander", "105": "Techies", "106": "Ember Spirit",
+                    "107": "Earth Spirit", "108": "Underlord", "109": "Terrorblade", "110": "Phoenix", "111": "Oracle", "112": "Winter Wyvern",
+                    "113": "Arc Warden", "114": "Monkey King", "119": "Dark Willow", "120": "Pangolier", "121": "Grimstroke", "123": "Hoodwink",
+                    "126": "Void Spirit", "128": "Snapfire", "129": "Mars", "135": "Dawnbreaker", "136": "Marci", "137": "Primal Beast"}
+const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick']
+
 function insertHeroName(text, sound=true)
 {
-    var $searchBox = document.getElementsByClassName("form-control form-control-sm")[0];
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
     if ($searchBox.value) {
+        if ($searchBox.value.slice(-1) == "|") {
+        $searchBox.value = $searchBox.value + text;
+        }
+        else
+        {
         $searchBox.value = $searchBox.value + "|" + text;
+        }
     }
     else {
         $searchBox.value = text;
@@ -23,19 +51,39 @@ function insertHeroName(text, sound=true)
     return text;
 }
 
+function propagateHeroFilters(main=false){
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+    search_array = ($searchBox.value).split("|");
+    search_array = search_array.filter(function(item) {
+    return item.length > 1;
+    });
 
-function propagateHeroFilters(){
-    var $searchBox = document.getElementsByClassName("form-control form-control-sm")[0];
-    const search_array = ($searchBox.value).split("|");
-    const radiantHeroes = search_array.slice(0,5).join('|');
-    console.log(radiantHeroes);
-    const direHeroes = search_array.slice(5,11).join('|');
-    console.log(direHeroes);
+    radiantHeroes = search_array.slice(0,5).join('|');
+    if (radiantHeroes.slice(-1) == "|") {
+    radiantHeroes = radiantHeroes.slice(0, -1)
+    }
 
-    $('#sortTable').DataTable().search($searchBox.value).draw();
+    direHeroes = search_array.slice(5,10).join('|');
+    if (direHeroes.slice(-1) == "|") {
+    direHeroes = direHeroes.slice(0, -1)
+    }
+
+    if (main==true)
+    {
+        $('#sortTable').DataTable().search($searchBox.value).draw();
+    }
+
+    if (radiantHeroes.length > 0) {
+    document.getElementById('heroTableRadiantBlock').style.display='block';
     $('#heroTableRadiant').DataTable().search(radiantHeroes).draw();
+    }
+
+    if (direHeroes.length > 0) {
+    document.getElementById('heroTableDireBlock').style.display='block';
     $('#heroTableDire').DataTable().search(direHeroes).draw();
+    }
 }
+
 function getWinrateColor(value) {
 
 value = parseFloat(value.replace("%", ""))
@@ -83,37 +131,17 @@ for (let i = 0; i < 5; i++) {
   return "#0f0f57"
 }
 
-json_hero_map = {   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker", "5": "Crystal Maiden", "6": "Drow Ranger", "7": "Earthshaker",
-                    "8": "Juggernaut", "9": "Mirana", "10": "Morphling", "11": "Shadow Fiend", "12": "Phantom Lancer", "13": "Puck",
-                    "14": "Pudge", "15": "Razor", "16": "Sand King", "17": "Storm Spirit", "18": "Sven", "19": "Tiny", "20": "Vengeful Spirit",
-                    "21": "Windranger", "22": "Zeus", "23": "Kunkka", "25": "Lina", "26": "Lion", "27": "Shadow Shaman", "28": "Slardar",
-                    "29": "Tidehunter", "30": "Witch Doctor", "31": "Lich", "32": "Riki", "33": "Enigma", "34": "Tinker", "35": "Sniper",
-                    "36": "Necrophos", "37": "Warlock", "38": "Beastmaster", "39": "Queen of Pain", "40": "Venomancer", "41": "Faceless Void",
-                    "42": "Wraith King", "43": "Death Prophet", "44": "Phantom Assassin", "45": "Pugna", "46": "Templar Assassin", "47": "Viper",
-                    "48": "Luna", "49": "Dragon Knight", "50": "Dazzle", "51": "Clockwerk", "52": "Leshrac", "53": "Nature's Prophet",
-                    "54": "Lifestealer", "55": "Dark Seer", "56": "Clinkz", "57": "Omniknight", "58": "Enchantress", "59": "Huskar",
-                    "60": "Night Stalker", "61": "Broodmother", "62": "Bounty Hunter", "63": "Weaver", "64": "Jakiro", "65": "Batrider",
-                    "66": "Chen", "67": "Spectre", "68": "Ancient Apparition", "69": "Doom", "70": "Ursa", "71": "Spirit Breaker",
-                    "72": "Gyrocopter", "73": "Alchemist", "74": "Invoker", "75": "Silencer", "76": "Outworld Devourer", "77": "Lycan",
-                    "78": "Brewmaster", "79": "Shadow Demon", "80": "Lone Druid", "81": "Chaos Knight", "82": "Meepo", "83": "Treant Protector",
-                    "84": "Ogre Magi", "85": "Undying", "86": "Rubick", "87": "Disruptor", "88": "Nyx Assassin", "89": "Naga Siren",
-                    "90": "Keeper of the Light", "91": "Io", "92": "Visage", "93": "Slark", "94": "Medusa", "95": "Troll Warlord",
-                    "96": "Centaur Warrunner", "97": "Magnus", "98": "Timbersaw", "99": "Bristleback", "100": "Tusk", "101": "Skywrath Mage",
-                    "102": "Abaddon", "103": "Elder Titan", "104": "Legion Commander", "105": "Techies", "106": "Ember Spirit",
-                    "107": "Earth Spirit", "108": "Underlord", "109": "Terrorblade", "110": "Phoenix", "111": "Oracle", "112": "Winter Wyvern",
-                    "113": "Arc Warden", "114": "Monkey King", "119": "Dark Willow", "120": "Pangolier", "121": "Grimstroke", "123": "Hoodwink",
-                    "126": "Void Spirit", "128": "Snapfire", "129": "Mars", "135": "Dawnbreaker", "136": "Marci", "137": "Primal Beast"}
-
 function get_hero_name_from_id(id)
 {
     return json_hero_map[parseInt(id)];
 }
 
-
+let heroSet = new Set();
 $(document).ready(function() {
     $(sortTable).DataTable(
         {
             "paging": false,
+            "name": "sortTable",
             "oLanguage": { "sSearch": ""},
             "order": [[ 8, "asc" ]],
             responsive: true,
@@ -123,6 +151,7 @@ $(document).ready(function() {
             { targets: [0], className: "smaller-font"}],
             rowCallback: function(row, data, index)
             {
+                heroSet.add(data[1]);
                 $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2]), "color" : "#FFFFFF"});
                 $(row).find("td:eq(2)").css({"background-color" : getWinrateColor(data[3]), "color" : "#FFFFFF"});
                 $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4]), "color" : "#FFFFFF"});
@@ -143,10 +172,6 @@ $(document).ready(function() {
         .draw();
         lastRun = new Date(); }
         });
-    const queryString = window.location.search;
-    console.log(queryString);
-    const urlParams = new URLSearchParams(queryString);
-    heroes = urlParams.get('heroes').split(',');
 
     $(heroTableRadiant).DataTable(
     {
@@ -174,7 +199,64 @@ $(document).ready(function() {
         }
     });
 
-    var $searchBox = document.getElementsByClassName("form-control form-control-sm")[0];
-    heroes.forEach(element => insertHeroName(get_hero_name_from_id(element), false));
-    propagateHeroFilters();
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    heroes = urlParams.get('heroes');
+    if (heroes)
+    {
+        heroes_array = heroes.split(',');
+        heroes_array.forEach(element => insertHeroName(get_hero_name_from_id(element), false));
+    }
+    propagateHeroFilters(true);
+});
+
+function updateSkippedUlts()
+{
+    var skippedUlts = 0;
+    var skippedString = '';
+    no_ult_heroes.forEach(function(element) {
+    if (heroSet.has(element))
+        {
+            skippedUlts = skippedUlts + 1;
+            if (skippedString.length == 0)
+            {
+                skippedString = element;
+            }
+            else
+            {
+                skippedString = skippedString + ", " + element;
+            }
+        }
+    });
+
+    var heroList = document.getElementById("heroList");
+    heroList.innerHTML = "Replaced ultimates count: " + skippedUlts;
+    if (skippedUlts > 0)
+    {
+        heroList.innerHTML = heroList.innerHTML + " (" + skippedString + ")";
+    }
+}
+
+let allowSearchEvent = true;
+$(document).on( 'search.dt', function ( e, settings ) {
+    var api = new $.fn.dataTable.Api( settings );
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+    if (e.target.id == "sortTable" && $searchBox.value.slice(-1) == "|" && allowSearchEvent==true) {
+        allowSearchEvent=false;
+        $('#sortTable').DataTable().search($searchBox.value.slice(0,-1)).draw();
+        allowSearchEvent=true;
+    }
+
+    if (e.target.id == "sortTable")
+    {
+        heroSet.clear();
+        propagateHeroFilters();
+    }
+} );
+
+$(document).on( 'draw.dt', function ( e, settings ) {
+    if (e.target.id == "sortTable")
+    {
+        updateSkippedUlts();
+    }
 });

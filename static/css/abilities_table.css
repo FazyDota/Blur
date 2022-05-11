@@ -25,6 +25,14 @@ a {
       margin-left: 0rem !important;
 }
 
+#heroTableRadiantBlock {
+display: none;
+}
+
+#heroTableDireBlock {
+display: none;
+}
+
 #heroTableRadiant_filter {
 display: none !important;
 }
