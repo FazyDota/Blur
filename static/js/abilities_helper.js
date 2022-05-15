@@ -164,7 +164,7 @@ $(document).ready(function() {
 
     var lastRun = null;
     $("#sortTable").on("click", "td.removable", function () {
-        if (lastRun == null || new Date() - lastRun > 500) {
+        if (lastRun == null || new Date() - lastRun > 300) {
         var table = $("#sortTable").DataTable();
         table
             .row($(this))
@@ -234,6 +234,10 @@ function updateSkippedUlts()
     if (skippedUlts > 0)
     {
         heroList.innerHTML = heroList.innerHTML + " (" + skippedString + ")";
+        heroList.style.color = 'red';
+    }
+    else {
+    heroList.style.color = 'white';
     }
 }
 
