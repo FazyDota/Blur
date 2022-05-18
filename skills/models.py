@@ -31,6 +31,8 @@ class AbilityCombo(models.Model):
     ability_2_winrate = models.FloatField(null=True)
     total_winrate = models.FloatField(null=True)
     synergy = models.FloatField(null=True)
+    native = models.BooleanField(null=True)
+    sample = models.IntegerField(null=True)
 
 
 class Hero(models.Model):

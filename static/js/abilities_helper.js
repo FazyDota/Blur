@@ -20,6 +20,49 @@ json_hero_map = {   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker
                     "126": "Void Spirit", "128": "Snapfire", "129": "Mars", "135": "Dawnbreaker", "136": "Marci", "137": "Primal Beast"}
 const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick']
 
+$.fn.dataTable.ext.search.push(
+    function( settings, searchData, index, rowData, counter ) {
+        if (settings.nTable.id !== 'comboTable'){
+            return true;
+        }
+
+        var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+        search_array = ($searchBox.value).split("|");
+        if (search_array.slice(-1) == "") {
+            search_array = search_array.slice(0, -1)
+        }
+
+
+        var hero1 = searchData[1];
+        var hero2 = searchData[2];
+
+        var has_hero1 = false;
+        var has_hero2 = false;
+
+        const match1 = search_array.findIndex(element => {
+          if (hero1.includes(element)) {
+            has_hero1 = true;
+            return true;
+          }
+        });
+        //search_array.splice(match1, 1);
+
+        const match2 = search_array.findIndex(element => {
+          if (hero2.includes(element)) {
+            has_hero2 = true;
+            return true;
+          }
+        });
+
+        //if (search_array.includes(hero1) && search_array.includes(hero2))
+        if (has_hero1 && has_hero2)
+        {
+            return true
+        }
+        return false
+    }
+);
+
 function insertHeroName(text, sound=true)
 {
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
@@ -77,10 +120,16 @@ function propagateHeroFilters(main=false){
     document.getElementById('heroTableRadiantBlock').style.display='block';
     $('#heroTableRadiant').DataTable().search(radiantHeroes).draw();
     }
+    else {
+    document.getElementById('heroTableRadiantBlock').style.display='none';
+    }
 
     if (direHeroes.length > 0) {
     document.getElementById('heroTableDireBlock').style.display='block';
     $('#heroTableDire').DataTable().search(direHeroes).draw();
+    }
+    else {
+    document.getElementById('heroTableDireBlock').style.display='none';
     }
 }
 
@@ -163,6 +212,19 @@ $(document).ready(function() {
         });
 
     var lastRun = null;
+
+    $(comboTable).DataTable(
+    {
+        "paging": false,
+        "info": false,
+        "order": [[ 1, "desc" ]],
+        responsive: true,
+        oSearch: {"bRegex": true, "bSmart": false},
+        "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
+        { targets: [1, 2], visible: false},
+        { targets: [3, 4], className: "bigger-font"}],
+    });
+
     $("#sortTable").on("click", "td.removable", function () {
         if (lastRun == null || new Date() - lastRun > 300) {
         var table = $("#sortTable").DataTable();
@@ -243,7 +305,6 @@ function updateSkippedUlts()
 
 let allowSearchEvent = true;
 $(document).on( 'search.dt', function ( e, settings ) {
-    var api = new $.fn.dataTable.Api( settings );
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
     if (e.target.id == "sortTable" && $searchBox.value.slice(-1) == "|" && allowSearchEvent==true) {
         allowSearchEvent=false;
@@ -255,6 +316,10 @@ $(document).on( 'search.dt', function ( e, settings ) {
     {
         heroSet.clear();
         propagateHeroFilters();
+        if ( $.fn.dataTable.isDataTable( '#comboTable' ) )
+        {
+            $('#comboTable').DataTable().search(" ").draw();
+        }
     }
 } );
 

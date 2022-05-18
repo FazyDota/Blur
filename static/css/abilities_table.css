@@ -41,10 +41,6 @@ display: none !important;
 display: none !important;
 }
 
-#comboTable_filter > label > input {
-      width: 250%;
-}
-
 html {
     background-color: #181a1b !important;
 }
@@ -97,13 +93,12 @@ td, th {
     font-size: 18px !important;
 }
 
-#comboTable_filter > label > .form-control-sm {
-    height: calc(2.5em + 0.5rem + 2px) !important;
-    font-size: 14px !important;
-}
-
 .smaller-font {
     font-size: 14px;
+}
+
+.bigger-font {
+    font-size: 20px;
 }
 
 .stat-cell-font {
@@ -137,13 +132,17 @@ td, th {
 }
 
 #heroList {
-font-weight: 400 !important;
-font-size: 24px !important;
-color: white;
+    font-weight: 400 !important;
+    font-size: 24px !important;
+    color: white;
 }
 
 .table {
-font-size: 18px !important;
+    font-size: 18px !important;
+}
+
+#comboTable > thead > tr {
+    font-size: 16px !important;
 }
 
 .center-table {
@@ -173,10 +172,8 @@ font-size: 18px !important;
 #sortTable_wrapper > div:nth-child(1) > div:nth-child(1) {
     display:none;
 }
+
 #sortTable_wrapper > div:nth-child(1) > div:nth-child(2) {
-}
-#comboTable_wrapper > div:nth-child(3) {
-    display:none;
 }
 
 #sortTable_filter > label {
@@ -185,7 +182,7 @@ font-size: 18px !important;
 }
 
 #comboTable_filter > label {
-    font-size: 0px !important;
+    display: none !important;
 }
 
 

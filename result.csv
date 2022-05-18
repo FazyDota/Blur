@@ -1,494 +1,494 @@
-Ability Name,Hero,Agi Winrate,Agi Avg Pick Order,Int Winrate,Int Avg Pick Order,Str Winrate,Str Avg Pick Order,Melee Winrate,Melee Avg Pickorder,Ranged Winrate,Ranged Avg Pickorder,Total Winrate,Total Avg Pickorder,Img_link
-Acid Spray,Alchemist,47.70%,30.66,48.84%,29.66,46.48%,30.37,45.93%,30.33,49.52%,31.63,51.62%,31.84,skills\alchemist_acid_spray.png
-Acorn Shot,Hoodwink,53.26%,14.54,48.04%,15.03,43.01%,16.76,43.21%,17.07,51.96%,14.44,54.32%,14.64,skills\hoodwink_acorn_shot.png
-Adaptive Strike (Agility),Morphling,49.09%,33.07,41.46%,31.44,37.54%,30.65,43.81%,32.54,48.99%,34.38,51.83%,34.6,skills\morphling_adaptive_strike_agi.png
-Adaptive Strike (Strength),Morphling,48.42%,32.52,47.20%,32.02,49.25%,32.69,49.01%,32.73,48.26%,32.89,53.75%,32.73,skills\morphling_adaptive_strike_str.png
-Aether Remnant,Void Spirit,52.57%,31.34,49.76%,30.48,51.25%,31.41,50.06%,31.17,51.75%,30.23,56.59%,30.56,skills\void_spirit_aether_remnant.png
-Aftershock,Earthshaker,54.55%,6.89,52.95%,7,56.05%,6.71,55.85%,6.68,52.95%,5.56,61.50%,5.25,skills\earthshaker_aftershock.png
-Alacrity (AD),Invoker,47.66%,17.55,53.42%,16.84,44.24%,18.33,44.97%,18.33,51.82%,18.49,53.26%,18.1,skills\invoker_alacrity.png
-Anchor Smash,Tidehunter,46.18%,17.7,46.10%,19.26,45.96%,15.01,46.02%,15.43,46.07%,16.54,51.13%,16.28,skills\tidehunter_anchor_smash.png
-Ancient Seal,Skywrath Mage,48.59%,27.37,51.12%,25.21,49.23%,27.41,48.54%,27.52,50.99%,27.13,53.90%,26.71,skills\skywrath_mage_ancient_seal.png
-Aphotic Shield,Abaddon,51.36%,28.95,51.30%,28.3,50.77%,28.21,50.53%,28.23,51.91%,27.53,57.49%,27.25,skills\abaddon_aphotic_shield.png
-Arc Lightning,Zeus,45.99%,24.56,45.70%,24.97,46.42%,23.81,46.94%,23.71,45.52%,25.27,49.63%,24.75,skills\zuus_arc_lightning.png
-Arcane Aura,Crystal Maiden,49.82%,28.11,49.08%,26.48,50.22%,27.94,50.53%,28.09,48.92%,28.81,54.52%,28.53,skills\crystal_maiden_brilliance_aura.png
-Arcane Bolt,Skywrath Mage,44.96%,23.95,48.00%,22.48,45.53%,23.16,45.38%,23.13,47.82%,23.55,52.86%,23.4,skills\skywrath_mage_arcane_bolt.png
-Arcane Curse,Silencer,47.83%,27.44,50.78%,26.15,49.17%,27.81,47.44%,27.68,50.91%,27.48,54.18%,27.05,skills\silencer_curse_of_the_silent.png
-Arcane Orb,Outworld Devourer,45.59%,25.28,50.14%,24.15,44.09%,25.77,44.28%,26.06,49.44%,26.35,55.68%,26.47,skills\obsidian_destroyer_arcane_orb.png
-Arcane Supremacy,Rubick,47.37%,6.75,48.65%,5.85,51.22%,7.11,49.57%,6.94,48.71%,5.96,52.23%,6,skills\rubick_arcane_supremacy.png
-Arctic Burn,Winter Wyvern,57.95%,3.37,60.22%,3.3,52.83%,3.44,52.09%,3.45,60.09%,2.86,64.80%,2.77,skills\winter_wyvern_arctic_burn.png
-Arena Of Blood,Mars,49.03%,30.76,48.00%,30.02,51.79%,29.94,50.84%,30.08,49.09%,30.94,55.01%,30.88,skills\mars_arena_of_blood.png
-Assassinate,Sniper,47.34%,21.76,48.98%,19.17,46.43%,20.67,47.31%,20.62,48.05%,21.17,52.25%,21.89,skills\sniper_assassinate.png
-Astral Imprisonment,Outworld Devourer,45.94%,15.11,49.98%,14.43,49.73%,15.23,47.94%,15.11,49.72%,12.88,53.89%,12.25,skills\obsidian_destroyer_astral_imprisonment.png
-Astral Spirit,Elder Titan,48.93%,26.07,48.83%,26.21,46.99%,24.94,47.17%,25.15,49.18%,24.95,55.00%,24,skills\elder_titan_ancestral_spirit.png
-Astral Step,Void Spirit,55.58%,10.79,50.85%,9.34,56.31%,9.6,53.87%,9.14,54.07%,7.73,57.89%,7.75,skills\void_spirit_astral_step.png
-Atrophy Aura,Underlord,58.04%,4.9,55.43%,5.03,50.60%,4.96,51.12%,5,58.59%,5.14,60.73%,4.85,skills\abyssal_underlord_atrophy_aura.png
-Avalanche,Tiny,53.39%,17.99,51.62%,16.73,52.97%,16.94,53.16%,16.99,51.87%,16.09,58.32%,16.26,skills\tiny_avalanche.png
-Bad Juju,Dazzle,43.22%,19.79,42.72%,17.48,43.03%,19.02,42.01%,19.21,43.60%,12.63,46.93%,19.52,skills\dazzle_bad_juju.png
-Ball Lightning,Storm Spirit,46.99%,18.04,49.19%,13.68,47.10%,17.48,46.84%,17.35,49.00%,17.04,55.82%,15.39,skills\storm_spirit_ball_lightning.png
-Bash of the Deep,Slardar,54.65%,2.5,52.45%,2.54,47.21%,2.6,46.98%,2.59,55.10%,2.73,55.26%,2.77,skills\slardar_bash.png
-Battery Assault,Clockwerk,49.54%,23.88,48.57%,23.3,51.82%,21.92,51.59%,22.21,47.10%,21.89,55.10%,21.67,skills\rattletrap_battery_assault.png
-Battle Hunger,Axe,47.34%,28.93,47.28%,27.14,48.31%,28.27,48.08%,28.41,47.34%,29.43,52.46%,29.79,skills\axe_battle_hunger.png
-Battle Trance,Troll Warlord,49.58%,23.8,50.90%,24.48,46.30%,24.6,45.93%,24.41,50.85%,26.74,53.25%,26.91,skills\troll_warlord_battle_trance.png
-Berserker's Blood,Huskar,53.18%,4.85,54.04%,4.88,54.55%,4.26,54.27%,4.37,54.06%,4.56,57.55%,4.6,skills\huskar_berserkers_blood.png
-Berserker's Call,Axe,49.20%,19.85,51.36%,20.09,53.82%,18.84,53.37%,18.97,48.44%,17.66,56.33%,17.7,skills\axe_berserkers_call.png
-Black Hole,Enigma,49.25%,13.47,49.51%,11.76,52.44%,13.8,51.34%,13.86,49.61%,12.48,54.40%,12.47,skills\enigma_black_hole.png
-Blade Dance,Juggernaut,48.10%,20.56,47.78%,19.69,44.36%,20.68,46.11%,20.87,48.33%,23.19,53.12%,23.96,skills\juggernaut_blade_dance.png
-Blade Fury,Juggernaut,54.94%,7.85,52.43%,8.59,56.22%,7.74,55.69%,7.62,52.85%,6.16,59.30%,6.55,skills\juggernaut_blade_fury.png
-Blast Off!,Techies,46.12%,21.58,46.80%,20.74,49.74%,21.59,48.20%,21.54,47.25%,17.21,53.81%,19.72,skills\techies_suicide.png
-Blink,Anti-Mage,53.56%,5.67,53.42%,5.19,55.11%,5.22,54.07%,5.27,53.89%,4.62,59.41%,5.73,skills\antimage_blink.png
-Blink,Queen of Pain,49.84%,6.37,51.39%,6.59,52.20%,6.48,50.30%,6.29,52.18%,5.91,54.80%,4.63,skills\queenofpain_blink.png
-Blink Strike,Riki,47.76%,19.31,48.34%,21.44,49.87%,19.56,48.43%,19.07,49.77%,20.24,54.83%,20.51,skills\riki_blink_strike.png
-Blood Rite,Bloodseeker,49.72%,28.04,51.26%,27.53,51.02%,28.48,50.00%,28.2,51.37%,28.41,54.53%,28.5,skills\bloodseeker_blood_bath.png
-Bloodlust,Ogre Magi,50.17%,23.44,50.30%,22.63,47.16%,23.86,46.79%,23.46,52.02%,23.97,54.88%,23.97,skills\ogre_magi_bloodlust.png
-Bloodrage,Bloodseeker,46.97%,23.69,47.26%,22.9,44.09%,24.52,43.15%,23.95,49.47%,24.55,52.07%,24.53,skills\bloodseeker_bloodrage.png
-Blur,Phantom Assassin,53.13%,18.2,54.29%,17.53,52.59%,18.06,51.26%,18.15,55.52%,17.65,58.61%,17.68,skills\phantom_assassin_blur.png
-Borrowed Time,Abaddon,57.47%,11.91,58.44%,11.91,55.05%,10.55,55.34%,10.7,58.52%,10.67,60.07%,10.79,skills\abaddon_borrowed_time.png
-Boulder Smash,Earth Spirit,44.57%,33.17,44.23%,32.43,44.58%,32.47,44.84%,32.51,43.88%,33.76,50.82%,33.15,skills\earth_spirit_boulder_smash.png
-Boundless Strike,Monkey King,52.26%,17.47,51.99%,17.66,49.75%,17.03,51.05%,16.99,52.03%,18.02,56.99%,17.63,skills\monkey_king_boundless_strike.png
-Brain Sap,Bane,46.94%,26.68,50.07%,24.85,50.03%,27.4,48.35%,27.31,50.03%,26.51,54.29%,27.01,skills\bane_brain_sap.png
-Bramble Maze,Dark Willow,52.11%,23.94,52.52%,22.58,53.25%,23.79,52.42%,23.76,52.71%,24.24,56.99%,23.86,skills\dark_willow_bramble_maze.png
-Breathe Fire,Dragon Knight,45.45%,33.16,45.67%,32.19,45.50%,32.9,45.09%,32.97,46.15%,34.02,53.48%,34.45,skills\dragon_knight_breathe_fire.png
-Bristleback,Bristleback,49.29%,21.64,49.85%,22.49,50.00%,18.21,49.83%,18.55,49.94%,22.62,54.11%,22.76,skills\bristleback_bristleback.png
-Bulldoze,Spirit Breaker,50.35%,28.4,49.93%,28.29,48.44%,27.9,47.82%,28.08,51.73%,28.5,54.84%,27.76,skills\spirit_breaker_bulldoze.png
-Bulwark,Mars,49.83%,7.08,48.37%,7.68,56.24%,5.7,55.05%,5.81,49.05%,6.35,59.85%,6.43,skills\mars_bulwark.png
-Burning Barrage,Clinkz,45.99%,23.4,48.97%,23.7,45.34%,24.73,45.17%,24.73,47.28%,23.84,51.25%,24.07,skills\clinkz_strafe.png
-Burning Spear,Huskar,48.59%,24.25,47.61%,22.57,48.87%,24.86,49.07%,26.08,48.16%,26.09,53.77%,26.35,skills\huskar_burning_spear.png
-Burrowstrike,Sand King,53.09%,3.43,52.71%,3.5,54.59%,3.39,54.11%,3.36,53.03%,2.82,57.15%,2.68,skills\sandking_burrowstrike.png
-Bushwhack,Hoodwink,50.88%,29.26,48.50%,28.27,47.89%,29.5,47.35%,29.47,50.35%,27.36,54.27%,27.94,skills\hoodwink_bushwhack.png
-Call Down,Gyrocopter,48.67%,32.57,48.76%,32.25,48.20%,33.17,47.09%,33.03,49.47%,33.97,53.87%,33.93,skills\gyrocopter_call_down.png
-Call of the Wild Hawk,Beastmaster,49.59%,32.88,46.50%,32.72,45.25%,33.13,46.20%,32.96,47.22%,34.24,48.93%,34.28,skills\beastmaster_call_of_the_wild_hawk.png
-Caustic Finale,Sand King,53.47%,10.7,49.60%,10.64,48.89%,11.27,48.90%,11.31,52.40%,11.71,56.42%,11.88,skills\sandking_caustic_finale.png
-Celestial Hammer,Dawnbreaker,48.30%,30.08,48.66%,29.29,49.49%,29.57,49.24%,29.61,48.52%,28.63,54.96%,28.93,skills\dawnbreaker_celestial_hammer.png
-Chain Frost,Lich,55.58%,23.36,54.01%,20.43,54.46%,23.17,54.35%,23.2,54.48%,22.36,58.80%,23.12,skills\lich_chain_frost.png
-Chakra Magic,Keeper of the Light,48.58%,10.84,48.37%,9.82,49.20%,11.23,49.13%,11.13,48.34%,9.13,53.29%,9.77,skills\keeper_of_the_light_chakra_magic.png
-Chakram,Timbersaw,49.26%,27.61,50.94%,26.61,49.97%,27.66,50.05%,27.64,50.23%,26.27,55.42%,26.25,skills\shredder_chakram.png
-Chaos Bolt,Chaos Knight,48.52%,10.58,51.35%,9.57,51.76%,10.29,50.73%,10.28,51.00%,8.81,55.23%,8.78,skills\chaos_knight_chaos_bolt.png
-Chaos Meteor (AD),Invoker,48.56%,21.41,49.18%,19.37,48.05%,21.45,48.21%,21.51,49.08%,20.51,52.86%,20.31,skills\invoker_chaos_meteor.png
-Chaos Strike,Chaos Knight,54.59%,10.22,53.83%,10.68,49.45%,10.12,49.75%,10.13,55.48%,10.95,57.93%,11.93,skills\chaos_knight_chaos_strike.png
-Chaotic Offering,Warlock,52.17%,14.39,54.51%,11.52,53.12%,14.8,52.79%,14.49,54.24%,13.74,57.84%,13.6,skills\warlock_rain_of_chaos.png
-Charge of Darkness,Spirit Breaker,51.06%,9.16,50.90%,9.44,50.76%,8.01,50.93%,8.11,50.56%,8.22,54.89%,7.35,skills\spirit_breaker_charge_of_darkness.png
-Chemical Rage,Alchemist,56.03%,10.04,56.67%,10.56,50.33%,9.63,51.43%,9.66,56.78%,10.26,57.83%,10.51,skills\alchemist_chemical_rage.png
-Chilling Touch,Ancient Apparition,49.97%,10.95,49.69%,8.57,49.29%,12.41,45.79%,13.6,50.08%,10.17,52.95%,11.01,skills\ancient_apparition_chilling_touch.png
-Chronosphere,Faceless Void,48.86%,25.71,51.20%,25.21,50.98%,25.78,49.48%,25.7,50.73%,26.43,55.49%,25.95,skills\faceless_void_chronosphere.png
-Cinder Brew,Brewmaster,47.68%,29.64,49.85%,28.79,48.95%,28.65,48.10%,28.79,50.02%,30.36,52.78%,28.9,skills\brewmaster_cinder_brew.png
-Cloak and Dagger,Riki,56.69%,1.96,56.25%,1.89,56.32%,1.94,56.20%,1.95,56.76%,1.74,59.67%,1.77,skills\riki_backstab.png
-Cold Embrace,Winter Wyvern,47.72%,32.52,48.83%,31.39,47.81%,32.03,48.02%,32.26,48.46%,32.07,53.40%,32.23,skills\winter_wyvern_cold_embrace.png
-Cold Feet,Ancient Apparition,49.02%,29.94,50.52%,29.01,51.32%,29.82,50.00%,29.9,50.60%,29.32,54.70%,29.58,skills\ancient_apparition_cold_feet.png
-Cold Snap (AD),Invoker,48.63%,25.43,51.49%,23.14,51.07%,25.12,49.19%,25.34,51.40%,22.85,55.76%,23.5,skills\invoker_cold_snap.png
-Concussive Shot,Skywrath Mage,52.52%,26.6,52.55%,24.4,53.46%,26.78,53.08%,26.75,52.59%,24.87,56.28%,25.06,skills\skywrath_mage_concussive_shot.png
-Conjure Image,Terrorblade,50.34%,27.59,48.46%,27.46,43.64%,28.64,46.61%,27.64,50.92%,28.47,56.46%,28.37,skills\terrorblade_conjure_image.png
-Corrosive Haze,Slardar,50.66%,27.05,50.90%,26.99,49.57%,27.33,48.54%,27.32,52.31%,28.97,55.09%,29.2,skills\slardar_amplify_damage.png
-Corrosive Skin,Viper,54.59%,22.18,53.96%,22.24,54.70%,19.77,54.63%,20.24,54.39%,21.96,58.83%,23.23,skills\viper_corrosive_skin.png
-Counter Helix,Axe,50.11%,12.52,49.56%,14.06,52.16%,10.47,51.85%,10.72,49.26%,12.09,56.02%,12.23,skills\axe_counter_helix.png
-Counterspell,Anti-Mage,51.54%,24.27,51.42%,23.99,53.41%,23.13,51.71%,23.42,53.07%,24.09,57.35%,24.01,skills\antimage_counterspell.png
-Coup de Grace,Phantom Assassin,45.45%,12.92,45.88%,13.97,43.71%,14.06,43.69%,13.43,46.84%,16.56,50.68%,17.37,skills\phantom_assassin_coup_de_grace.png
-Crippling Fear,Night Stalker,46.14%,33.85,48.43%,33.43,48.53%,33.6,48.03%,33.75,47.19%,34.71,54.19%,34.8,skills\night_stalker_crippling_fear.png
-Crypt Swarm,Death Prophet,44.87%,30.24,48.27%,29.27,45.19%,29.87,44.04%,30.05,48.24%,30.56,53.26%,30.32,skills\death_prophet_carrion_swarm.png
-Crystal Nova,Crystal Maiden,50.88%,28.8,51.07%,27.56,52.74%,29.21,52.52%,29.01,50.91%,27.33,55.89%,27.04,skills\crystal_maiden_crystal_nova.png
-Culling Blade,Axe,45.62%,27.35,44.46%,26.83,47.82%,26.42,47.18%,26.61,45.55%,28.74,50.61%,28,skills\axe_culling_blade.png
-Curse of Avernus,Abaddon,51.10%,10.2,50.02%,10.15,46.78%,10.78,46.93%,10.62,51.29%,11.21,55.10%,11.48,skills\abaddon_frostmourne.png
-Cursed Crown,Dark Willow,48.22%,32.1,48.79%,31.23,46.44%,32.05,47.08%,32.12,48.63%,32.02,53.68%,32.11,skills\dark_willow_cursed_crown.png
-Dark Ascension,Night Stalker,48.99%,27.42,51.20%,27.19,48.10%,27.29,47.41%,27.56,51.26%,29.14,55.18%,29.35,skills\night_stalker_darkness.png
-Dark Pact,Slark,48.13%,30.09,50.95%,28.98,51.54%,29.9,49.48%,29.82,51.05%,29.38,55.42%,29.29,skills\slark_dark_pact.png
-Deafening Blast,Invoker,48.61%,31.04,47.70%,29.79,45.15%,30.25,46.14%,30.56,47.90%,31.62,49.55%,32.09,skills\invoker_deafening_blast_ad.png
-Death Pact,Clinkz,51.84%,20.91,54.26%,21.28,50.39%,21.3,49.83%,21.31,53.42%,20.91,57.61%,20.55,skills\clinkz_death_pact.png
-Death Pulse,Necrophos,49.91%,27.12,46.92%,26.36,54.31%,26.76,52.99%,26.97,47.35%,26.19,54.58%,26.12,skills\necrolyte_death_pulse.png
-Death Ward,Witch Doctor,48.26%,21.45,48.32%,19.44,50.12%,21.76,49.75%,21.6,48.19%,22.77,52.61%,22.91,skills\witch_doctor_death_ward.png
-Decay,Undying,46.01%,17.75,46.30%,16.56,47.92%,15.21,47.29%,15.53,47.20%,16.49,52.75%,16.74,skills\undying_decay.png
-Decrepify,Pugna,43.56%,24.05,47.08%,22.3,46.08%,24.45,45.79%,24.59,46.41%,23.78,49.91%,23.72,skills\pugna_decrepify.png
-Defense Matrix,Tinker,47.67%,34.01,48.37%,33.72,46.98%,33.21,45.96%,33.56,49.17%,35.1,52.16%,35.03,skills\tinker_defense_matrix.png
-Demonic Conversion,Enigma,44.03%,31.05,43.65%,30.78,45.38%,31.07,43.81%,31.22,44.30%,32.47,50.46%,33.25,skills\enigma_demonic_conversion.png
-Demonic Purge,Shadow Demon,48.60%,25.13,50.02%,23.43,49.83%,25.27,49.02%,25.18,49.99%,23.28,54.64%,22.71,skills\shadow_demon_demonic_purge.png
-Desolate,Spectre,51.16%,25.33,50.63%,25.42,46.64%,26.36,45.39%,25.8,53.70%,27.1,56.55%,26.98,skills\spectre_desolate.png
-Devour,Doom,51.21%,8.26,50.35%,8.26,49.96%,7.51,49.49%,7.52,51.92%,7.09,55.54%,6.15,skills\doom_bringer_devour.png
-Diabolic Edict,Leshrac,44.66%,30.35,46.53%,29.11,47.55%,31.21,46.43%,31.03,46.50%,31.64,53.19%,31.68,skills\leshrac_diabolic_edict.png
-Dismember,Pudge,47.74%,26.5,48.29%,25.7,48.75%,26.11,48.51%,26.17,48.33%,25.44,52.43%,25.75,skills\pudge_dismember.png
-Dispersion,Spectre,52.01%,7.18,55.41%,8.71,58.12%,6.87,55.28%,6.84,56.38%,7.45,59.48%,7.53,skills\spectre_dispersion.png
-Dispose,Marci,51.28%,18.59,49.49%,18.18,52.57%,17.77,52.11%,17.85,50.27%,15.81,55.80%,15.74,skills\marci_grapple.png
-Disruption,Shadow Demon,53.55%,20.14,53.91%,18.48,53.36%,20.3,52.88%,20,54.12%,16.07,58.00%,15.17,skills\shadow_demon_disruption.png
-Dissimilate,Void Spirit,48.76%,26.14,46.76%,24.7,48.47%,26.17,47.01%,25.67,48.60%,25.71,52.92%,25.67,skills\void_spirit_dissimilate.png
-Divine Favor,Chen,52.85%,32.27,52.39%,31.5,52.31%,31.54,51.99%,31.9,53.02%,33.55,55.97%,34.01,skills\chen_divine_favor.png
-Doom,Doom,49.59%,24.27,49.62%,23.09,47.95%,23.1,47.66%,23.31,50.53%,25.06,53.69%,24.9,skills\doom_bringer_doom.png
-Doppelganger,Phantom Lancer,54.41%,21.24,53.97%,21.27,52.16%,22.19,51.56%,21.61,55.96%,20.55,59.61%,20.15,skills\phantom_lancer_doppelwalk.png
-Double Edge,Centaur Warrunner,47.01%,28.75,48.44%,28.44,49.11%,27.68,48.95%,27.82,47.78%,28.73,53.63%,28.49,skills\centaur_double_edge.png
-Dragon Blood,Dragon Knight,50.14%,15.59,51.13%,16.04,50.48%,12.96,50.31%,13.22,51.08%,16.18,54.92%,16.56,skills\dragon_knight_dragon_blood.png
-Dragon Slave,Lina,42.97%,28.95,46.22%,28.01,42.91%,28.97,43.38%,29.26,45.60%,29.81,51.58%,29.75,skills\lina_dragon_slave.png
-Dragon Tail,Dragon Knight,52.91%,20.94,51.16%,20.93,52.70%,20.71,53.13%,20.64,50.73%,17.82,57.06%,17.24,skills\dragon_knight_dragon_tail.png
-Dream Coil,Puck,49.08%,30.08,47.42%,28.34,48.30%,29.74,48.23%,29.91,47.94%,29.8,51.77%,29.06,skills\puck_dream_coil.png
-Drunken Brawler,Brewmaster,46.39%,13.72,46.01%,14.06,45.42%,13.14,44.90%,13.24,47.27%,17.56,51.44%,15,skills\brewmaster_drunken_brawler.png
-Dual Breath,Jakiro,48.63%,25.13,49.55%,23.25,48.92%,24.91,49.34%,25.06,49.22%,23.63,53.12%,23.56,skills\jakiro_dual_breath.png
-Duel,Legion Commander,47.05%,9.7,45.45%,10.62,49.11%,8.48,48.72%,8.57,45.58%,9.86,51.96%,9.38,skills\legion_commander_duel.png
-E.M.P. (AD),Invoker,53.59%,32.08,50.33%,31.52,51.66%,31.76,54.13%,31.6,49.86%,32.36,56.31%,32.07,skills\invoker_emp.png
-Earth Spike,Lion,54.55%,11.06,52.75%,10.68,56.08%,10.88,55.95%,10.8,52.86%,9.63,57.77%,9.24,skills\lion_impale.png
-Earth Splitter,Elder Titan,47.52%,32.83,49.04%,32.29,48.51%,32.91,48.09%,32.89,48.84%,34.24,53.02%,34.55,skills\elder_titan_earth_splitter.png
-Earthbind,Meepo,44.31%,32.93,41.21%,32.6,43.07%,33.12,44.55%,32.97,40.97%,35.35,50.59%,35.12,skills\meepo_earthbind.png
-Earthshock,Ursa,48.72%,28.23,50.09%,29.42,50.42%,28.3,49.04%,28.08,51.82%,27.95,55.14%,27.57,skills\ursa_earthshock.png
-Echo Slam,Earthshaker,46.92%,32.14,45.34%,31.38,48.41%,32.02,48.05%,32.13,45.78%,34.87,53.59%,35.36,skills\earthshaker_echo_slam.png
-Echo Stomp,Elder Titan,45.83%,31.61,47.06%,31.46,45.82%,31.51,46.45%,31.54,45.31%,32.48,50.55%,32.07,skills\elder_titan_echo_stomp_spirit.png
-Eclipse,Luna,48.58%,31.54,49.25%,31.66,48.26%,31.54,47.46%,31.5,49.45%,33.47,53.41%,33.49,skills\luna_eclipse.png
-Elder Dragon Form,Dragon Knight,52.17%,6.52,53.04%,6.48,46.56%,7.21,45.24%,7.29,54.38%,6.04,56.45%,6.3,skills\dragon_knight_elder_dragon_form.png
-Electric Vortex,Storm Spirit,50.60%,24.06,47.98%,23.13,50.56%,24.16,50.11%,24.08,48.81%,23.61,54.19%,23.84,skills\storm_spirit_electric_vortex.png
-Empower,Magnus,51.42%,13.95,51.47%,17.12,51.81%,12.81,51.80%,12.78,50.84%,12.87,56.75%,12.69,skills\magnataur_empower.png
-Enchant,Enchantress,48.78%,33.7,47.98%,32.87,46.65%,33.16,47.06%,33.21,48.34%,33.86,52.54%,33.55,skills\enchantress_enchant.png
-Enchant Totem,Earthshaker,44.61%,11.36,44.76%,11.3,48.03%,9.89,47.02%,10.06,45.11%,11.32,51.38%,11.56,skills\earthshaker_enchant_totem.png
-Enfeeble,Bane,48.52%,33.55,44.22%,33.43,44.96%,33.46,45.04%,33.57,45.82%,34.97,52.50%,35.1,skills\bane_enfeeble.png
-Enrage,Ursa,50.32%,23.59,53.37%,24.12,50.63%,22.99,49.08%,23,53.99%,23.44,55.87%,23.58,skills\ursa_enrage.png
-Ensnare,Naga Siren,50.73%,23.53,49.60%,22.19,48.30%,23.84,49.57%,23.62,49.67%,22.67,54.41%,22.46,skills\naga_siren_ensnare.png
-Epicenter,Sand King,48.72%,31.01,47.87%,30.56,49.78%,30.59,49.46%,30.74,48.30%,31.16,54.62%,32.03,skills\sandking_epicenter.png
-Essence Flux,Outworld Devourer,44.20%,7.89,49.52%,6.53,44.01%,7.61,43.59%,7.76,48.89%,7.63,52.87%,7.94,skills\obsidian_destroyer_equilibrium.png
-Essence Shift,Slark,50.39%,5.28,48.76%,6.49,46.64%,6.59,45.73%,5.84,52.77%,6.02,53.86%,6.31,skills\slark_essence_shift.png
-Ether Shock,Shadow Shaman,43.96%,30.66,47.54%,30.2,45.33%,30.73,45.60%,30.65,46.92%,31.62,50.27%,31.57,skills\shadow_shaman_ether_shock.png
-Exorcism,Death Prophet,49.59%,14.34,50.33%,12.52,51.01%,13.39,50.57%,13.51,50.27%,14.23,55.41%,15.2,skills\death_prophet_exorcism.png
-Eye of the Storm,Razor,48.08%,25.67,47.27%,25.59,52.04%,24.98,50.73%,25.03,47.94%,26.75,54.19%,26.27,skills\razor_eye_of_the_storm.png
-Fade Bolt,Rubick,44.30%,29.18,47.40%,28.06,46.69%,29.36,44.58%,29.48,47.50%,30.08,51.30%,29.56,skills\rubick_fade_bolt.png
-False Promise,Oracle,49.84%,32.99,51.65%,32.06,49.89%,32.81,47.88%,32.97,52.18%,32.93,56.53%,32.89,skills\oracle_false_promise.png
-Fatal Bonds,Warlock,48.19%,27.67,50.75%,26.02,47.69%,27.34,48.52%,27.37,50.04%,27.78,52.42%,27.89,skills\warlock_fatal_bonds.png
-Fate's Edict,Oracle,46.50%,33.97,45.96%,33.18,47.15%,33.37,45.81%,33.64,46.93%,34.17,51.25%,33.77,skills\oracle_fates_edict.png
-Feast,Lifestealer,51.67%,17.25,51.27%,18.18,47.49%,16.98,47.41%,16.94,52.84%,19.31,55.53%,19.99,skills\life_stealer_feast.png
-Feral Impulse,Lycan,52.31%,11.11,52.59%,11.23,47.18%,10.56,47.77%,10.65,53.56%,11.69,53.93%,11.25,skills\lycan_feral_impulse.png
-Fervor,Troll Warlord,47.81%,16.25,48.57%,16.65,45.50%,16.25,45.09%,16.06,48.67%,19.55,51.15%,19.95,skills\troll_warlord_fervor.png
-Fiend's Grip,Bane,47.22%,33.48,47.10%,32.92,45.20%,33.18,45.20%,33.13,47.62%,34.65,51.74%,34.18,skills\bane_fiends_grip.png
-Fiend’s Gate,Underlord,53.69%,16.51,55.21%,15.09,55.35%,17.06,54.99%,16.74,54.89%,13.94,58.42%,13.47,skills\abyssal_underlord_fiends_gate.png
-Fiery Soul,Lina,46.23%,6.82,49.95%,6.3,44.99%,7.02,44.83%,7.04,49.29%,6.83,55.10%,6.53,skills\lina_fiery_soul.png
-Finger of Death,Lion,42.53%,4.47,44.59%,4.23,43.66%,4.69,43.60%,4.55,44.21%,4.86,46.41%,4.98,skills\lion_finger_of_death.png
-Fire Remnant,Ember Spirit,47.72%,24.08,49.78%,23.65,49.42%,24.53,48.04%,24.1,49.78%,23.95,53.64%,23.05,skills\ember_spirit_fire_remnant.png
-Fire Spirits,Phoenix,43.35%,32.25,44.87%,31.38,43.49%,31.39,44.39%,32.23,43.56%,32.54,49.79%,32.53,skills\phoenix_fire_spirits.png
-Fireblast,Ogre Magi,48.05%,24.94,49.75%,21.62,49.06%,24.35,49.55%,22.72,48.80%,25.84,54.14%,26.22,skills\ogre_magi_fireblast.png
-Firefly,Batrider,48.62%,30.94,48.47%,29.47,48.39%,30.6,48.10%,30.6,48.78%,31.01,54.47%,31.45,skills\batrider_firefly.png
-Firesnap Cookie,Snapfire,47.21%,31.59,48.88%,31,49.94%,31.42,47.77%,31.3,50.19%,30.53,53.50%,30.54,skills\snapfire_firesnap_cookie.png
-Firestorm,Underlord,51.05%,12.56,53.07%,11.45,54.57%,11.72,53.78%,11.8,52.76%,9.76,59.20%,9.43,skills\abyssal_underlord_firestorm.png
-Fissure,Earthshaker,48.36%,20.32,51.77%,19.02,52.00%,19.73,50.91%,19.78,51.30%,19.36,56.24%,19.16,skills\earthshaker_fissure.png
-Flak Cannon,Gyrocopter,54.58%,9.09,46.48%,10.28,47.87%,12.21,47.07%,12.34,52.28%,8.99,56.16%,9.25,skills\gyrocopter_flak_cannon.png
-Flame Guard,Ember Spirit,46.73%,28.2,46.55%,26.9,47.79%,27.98,47.10%,27.85,47.15%,28.84,52.49%,29.12,skills\ember_spirit_flame_guard.png
-Flamebreak,Batrider,43.12%,32.86,44.76%,32.91,45.33%,32.61,44.04%,32.74,44.84%,33.52,50.23%,33.36,skills\batrider_flamebreak.png
-Flaming Lasso,Batrider,44.20%,30.53,45.24%,30.27,47.63%,31.25,46.57%,31.19,45.06%,31.92,53.01%,31.5,skills\batrider_flaming_lasso.png
-Flesh Golem,Undying,54.68%,15.54,54.91%,15.61,53.57%,15.06,52.47%,15.29,56.80%,15.34,59.25%,14.65,skills\undying_flesh_golem.png
-Flesh Heap,Pudge,47.52%,12.2,47.94%,11.82,48.38%,9.63,48.17%,9.9,48.25%,13.57,52.74%,12.67,skills\pudge_flesh_heap.png
-Flux,Arc Warden,46.94%,32.21,46.57%,31.42,46.27%,32.54,46.28%,32.73,46.86%,33.29,52.73%,33.19,skills\arc_warden_flux.png
-Focus Fire,Windranger,43.50%,18.13,44.37%,16.4,39.67%,18.52,38.50%,18.89,44.66%,20.54,48.81%,20.08,skills\windrunner_focusfire.png
-Forge Spirit (AD),Invoker,42.45%,30.37,43.04%,30.58,45.83%,30.04,45.36%,29.54,42.71%,32.71,49.40%,31.77,skills\invoker_forge_spirit.png
-Fortune's End,Oracle,51.40%,26.71,52.59%,25.31,51.80%,27.4,52.00%,27.2,52.26%,23.66,56.07%,23.72,skills\oracle_fortunes_end.png
-Freezing Field,Crystal Maiden,50.75%,26.61,49.35%,25.48,53.33%,26.41,52.97%,26.4,49.27%,26.48,55.51%,27.18,skills\crystal_maiden_freezing_field.png
-Frost Arrows,Drow Ranger,53.47%,22.61,49.86%,21.54,44.22%,23.59,43.60%,24.36,52.55%,23.56,55.54%,23.88,skills\drow_ranger_frost_arrows.png
-Frost Blast,Lich,48.06%,31.61,47.69%,30.18,49.52%,31.9,49.35%,31.9,47.64%,30.87,52.10%,31.2,skills\lich_frost_nova.png
-Frost Shield,Lich,46.78%,32.16,47.30%,30.96,48.33%,31.37,47.66%,31.57,47.51%,32.15,53.01%,31.71,skills\lich_frost_shield.png
-Frostbite,Crystal Maiden,51.56%,7.62,52.30%,7.06,53.96%,7.7,53.46%,7.58,52.04%,6.57,55.39%,6.51,skills\crystal_maiden_frostbite.png
-Fury Swipes,Ursa,54.64%,2.96,53.74%,3.03,48.29%,3.04,47.91%,3.07,56.52%,3.07,58.00%,3.07,skills\ursa_fury_swipes.png
-Geminate Attack,Weaver,48.24%,11.72,50.94%,12.12,46.89%,12.58,46.54%,12.54,49.75%,13.93,52.66%,14.01,skills\weaver_geminate_attack.png
-Geomagnetic Grip,Earth Spirit,44.85%,28.35,39.69%,28.91,43.07%,30.03,42.94%,29.49,41.96%,30.75,46.89%,28.29,skills\earth_spirit_geomagnetic_grip.png
-Ghost Shroud,Necrophos,48.34%,31.69,46.76%,30.32,52.80%,31.2,52.32%,31.41,46.50%,32.23,55.63%,32.14,skills\necrolyte_sadist.png
-Ghost Walk (AD),Invoker,43.03%,27.41,47.66%,25.58,50.70%,26.06,48.08%,26.38,46.86%,28.39,54.85%,27.78,skills\invoker_ghost_walk.png
-Ghostship,Kunkka,49.52%,30.84,50.74%,30.27,50.34%,30.35,49.38%,30.34,51.41%,31.14,55.83%,31.6,skills\kunkka_ghostship.png
-Ghoul Frenzy,Lifestealer,50.57%,19.04,49.77%,18.6,46.49%,19.18,46.72%,19.22,50.94%,20.55,53.54%,20.63,skills\life_stealer_ghoul_frenzy.png
-Glaives of Wisdom,Silencer,50.37%,4.77,59.24%,3.87,48.72%,4.94,48.24%,5.06,58.16%,3.7,62.04%,4.04,skills\silencer_glaives_of_wisdom.png
-Glimpse,Disruptor,46.57%,32.79,46.07%,32.19,47.94%,33.33,45.95%,33.2,46.95%,33.11,51.93%,33.64,skills\disruptor_glimpse.png
-Global Silence,Silencer,50.86%,32.6,51.90%,31.94,48.89%,32.25,48.65%,32.33,51.99%,33.48,55.84%,33.67,skills\silencer_global_silence.png
-God's Rebuke,Mars,46.29%,22.82,45.94%,23.45,48.66%,20.25,48.02%,20.69,46.63%,21.6,52.87%,22.01,skills\mars_gods_rebuke.png
-God's Strength,Sven,49.77%,20.47,49.79%,20.33,44.58%,19.56,44.88%,19.89,51.05%,22.03,54.03%,22.05,skills\sven_gods_strength.png
-Grave Chill,Visage,48.93%,30.23,47.77%,28.86,45.61%,30.39,46.20%,30.52,48.54%,30.8,52.32%,31.08,skills\visage_grave_chill.png
-Gravekeeper's Cloak,Visage,53.35%,23.26,52.54%,22.32,53.04%,21.69,53.04%,21.95,52.88%,23.3,58.20%,23.64,skills\visage_gravekeepers_cloak.png
-Great Cleave,Sven,50.46%,13.55,49.92%,16.82,47.36%,13.37,47.85%,13.11,52.53%,14.95,53.37%,14.73,skills\sven_great_cleave.png
-Greater Bash,Spirit Breaker,46.97%,12.14,47.79%,11.64,46.76%,12.75,45.93%,12.7,48.48%,14.52,50.82%,15.07,skills\spirit_breaker_greater_bash.png
-Greevil's Greed,Alchemist,46.82%,7.92,46.05%,7.77,45.73%,7.32,44.85%,7.44,47.99%,7.76,51.81%,7.51,skills\alchemist_goblins_greed.png
-Grow,Tiny,50.96%,12.11,50.78%,12.33,50.18%,11.58,49.62%,11.73,52.20%,12.56,55.15%,13.13,skills\tiny_grow.png
-Guardian Angel,Omniknight,50.75%,30.71,50.62%,30.26,51.43%,30.38,50.95%,30.4,51.06%,31.58,55.95%,31.19,skills\omniknight_guardian_angel.png
-Guardian Sprint,Slardar,51.35%,27.81,52.36%,27.01,49.93%,27.09,49.13%,27.3,53.50%,27.2,55.76%,27.23,skills\slardar_sprint.png
-Gush,Tidehunter,49.60%,15.26,51.03%,13.64,51.54%,14.71,51.05%,14.81,50.79%,14.05,53.88%,13.23,skills\tidehunter_gush.png
-Gust,Drow Ranger,52.60%,32.8,47.77%,32.33,48.93%,32.79,47.38%,32.94,51.35%,33.78,55.23%,33.67,skills\drow_ranger_wave_of_silence.png
-Hammer of Purity,Omniknight,46.03%,22.35,44.32%,20.68,44.49%,21.35,44.65%,21.75,45.24%,26.71,48.99%,22.36,skills\omniknight_hammer_of_purity.png
-Hand of God,Chen,50.89%,33.22,50.64%,32.86,49.82%,33.03,48.04%,32.85,51.77%,34.19,56.65%,33.83,skills\chen_hand_of_god.png
-Haunt,Spectre,53.46%,25.32,53.90%,25.17,51.52%,26.68,50.13%,26.14,56.24%,25.21,58.90%,24.47,skills\spectre_haunt.png
-Headshot,Sniper,50.30%,17.57,44.84%,17.11,45.06%,18.25,44.14%,18.38,48.96%,19.82,54.18%,20.56,skills\sniper_headshot.png
-Healing Ward,Juggernaut,52.87%,34.1,53.38%,32.97,51.30%,33.53,52.43%,33.94,52.76%,34.81,58.01%,35.18,skills\juggernaut_healing_ward.png
-Heartstopper Aura,Necrophos,58.70%,4.2,54.04%,4.04,61.94%,3.86,61.02%,3.9,54.83%,3.11,61.76%,3.06,skills\necrolyte_heartstopper_aura.png
-Heat-Seeking Missile,Tinker,41.53%,28.87,44.65%,27.82,44.25%,28.3,42.78%,28.66,44.53%,30.44,49.62%,30.44,skills\tinker_heat_seeking_missile.png
-Heavenly Grace,Omniknight,52.03%,29.08,51.73%,28.31,52.51%,27.37,51.94%,27.64,52.83%,26.84,56.84%,27.18,skills\omniknight_repel.png
-Heavenly Jump,Zeus,52.92%,29.05,51.47%,27.88,48.31%,29.13,49.28%,29.28,52.07%,31.4,54.02%,29.01,skills\zuus_heavenly_jump.png
-Hex,Lion,50.03%,27.48,50.10%,26.29,49.64%,28.05,49.33%,27.92,50.30%,27.39,54.66%,27.4,skills\lion_voodoo.png
-Hex,Shadow Shaman,51.33%,27.97,50.29%,26.52,49.50%,28.38,49.18%,28.33,51.00%,28.08,55.02%,28.1,skills\shadow_shaman_voodoo.png
-Holy Persuasion,Chen,44.12%,30.38,44.80%,28.54,41.41%,29.74,41.53%,30.04,45.08%,31.11,50.42%,30.59,skills\chen_holy_persuasion.png
-Homing Missile,Gyrocopter,52.92%,20.01,54.24%,18.29,51.92%,19.67,51.12%,19.84,54.52%,17.14,56.69%,18.51,skills\gyrocopter_homing_missile.png
-Hoof Stomp,Centaur Warrunner,51.30%,20.71,52.10%,20.68,52.23%,20.1,52.24%,20.13,51.05%,18.83,56.77%,18.85,skills\centaur_hoof_stomp.png
-Hookshot,Clockwerk,48.38%,27.81,48.24%,27.26,49.66%,26.54,49.17%,26.78,48.85%,25.97,53.39%,25.82,skills\rattletrap_hookshot.png
-Howl,Lycan,46.60%,33.95,47.64%,33.41,46.76%,33.65,46.37%,33.81,47.73%,35.23,52.82%,34.81,skills\lycan_howl.png
-Hunter in the Night,Night Stalker,51.55%,7.88,54.06%,8.4,50.90%,7.26,50.33%,7.35,54.29%,8.34,56.42%,8.19,skills\night_stalker_hunter_in_the_night.png
-Icarus Dive,Phoenix,49.46%,26.05,48.61%,24.09,48.35%,24.09,48.02%,25.62,49.08%,24.44,52.70%,24.53,skills\phoenix_icarus_dive.png
-Ice Blast,Ancient Apparition,53.67%,22.25,54.23%,20.56,54.38%,21.82,53.86%,21.77,54.32%,17.92,57.77%,17.23,skills\ancient_apparition_ice_blast.png
-Ice Path,Jakiro,51.63%,26.07,52.44%,24.86,53.01%,26,52.54%,26.04,52.34%,25.64,56.86%,25.86,skills\jakiro_ice_path.png
-Ice Shards,Tusk,49.62%,30.04,50.50%,28.53,50.90%,29.49,49.92%,29.64,51.04%,27.51,54.44%,28.4,skills\tusk_ice_shards.png
-Ice Vortex,Ancient Apparition,51.02%,30.27,51.60%,30.01,54.15%,30.05,53.04%,30.14,51.63%,30.22,57.55%,30.63,skills\ancient_apparition_ice_vortex.png
-Ice Wall (AD),Invoker,44.80%,33.54,45.13%,32.94,46.36%,33.17,44.89%,33.43,45.82%,34.07,53.67%,34.15,skills\invoker_ice_wall.png
-Ignite,Ogre Magi,46.60%,29.56,48.80%,27.33,47.75%,28.64,48.82%,28.59,47.23%,30.2,52.80%,30.63,skills\ogre_magi_ignite.png
-Illuminate,Keeper of the Light,44.49%,29.3,47.48%,28.25,48.44%,29.3,47.30%,29.29,47.06%,29.6,50.14%,30.16,skills\keeper_of_the_light_illuminate.png
-Illusory Orb,Puck,48.84%,26.86,49.04%,24.17,49.83%,26.71,49.21%,26.84,49.15%,25.68,54.19%,25.44,skills\puck_illusory_orb.png
-Impale,Nyx Assassin,48.95%,14.84,52.17%,14.4,52.03%,15.57,50.63%,14.99,51.34%,13.15,56.85%,12.87,skills\nyx_assassin_impale.png
-Impetus,Enchantress,47.31%,12.16,50.91%,9.87,47.00%,12.88,40.80%,14.87,50.44%,11.06,54.28%,11.93,skills\enchantress_impetus.png
-Infernal Blade,Doom,54.45%,6.57,56.12%,5.78,51.52%,7.47,50.90%,7.78,56.02%,5.8,58.92%,5.98,skills\doom_bringer_infernal_blade.png
-Infest,Lifestealer,48.59%,25.47,50.06%,23.31,50.25%,23.95,49.05%,24.51,51.03%,23.74,53.92%,24.32,skills\life_stealer_infest.png
-Ink Swell,Grimstroke,51.52%,21.78,51.50%,20.75,52.88%,21.39,52.32%,21.31,51.71%,18.62,56.35%,18.81,skills\grimstroke_spirit_walk.png
-Inner Beast,Beastmaster,50.19%,28.04,50.61%,27.53,47.07%,27.63,47.11%,27.79,51.15%,31.27,54.62%,31.16,skills\beastmaster_inner_beast.png
-Inner Fire,Huskar,51.53%,21.07,53.04%,20.62,51.84%,20.19,52.83%,20.44,51.20%,19.85,57.11%,20.65,skills\huskar_inner_fire.png
-Insatiable Hunger,Broodmother,52.40%,17.02,52.73%,17.78,47.33%,17.94,47.26%,17.44,54.67%,18.64,56.08%,18.8,skills\broodmother_insatiable_hunger.png
-Ion Shell,Dark Seer,49.15%,14.82,51.02%,13.05,50.75%,14.16,50.66%,13.45,50.32%,12.57,54.75%,12.44,skills\dark_seer_ion_shell.png
-Jinada,Bounty Hunter,46.56%,7.85,48.94%,7.56,46.31%,8.36,44.71%,8.18,49.20%,9.08,52.17%,9.27,skills\bounty_hunter_jinada.png
-Jingu Mastery,Monkey King,46.88%,12.95,45.08%,13.5,40.13%,13.23,43.78%,12.99,46.12%,16.76,50.79%,16.84,skills\monkey_king_jingu_mastery.png
-Juxtapose,Phantom Lancer,52.00%,9.79,50.73%,10.83,44.03%,11.68,46.13%,10.59,53.61%,12.16,56.14%,12.75,skills\phantom_lancer_juxtapose.png
-Kinetic Field,Disruptor,47.87%,31.3,47.86%,30.11,49.62%,30.98,48.44%,31.02,48.19%,31.72,51.86%,31.53,skills\disruptor_kinetic_field.png
-Kraken Shell,Tidehunter,55.43%,15.62,57.76%,16.05,56.43%,13.73,55.80%,13.9,58.16%,14.61,60.97%,14.55,skills\tidehunter_kraken_shell.png
-Laguna Blade,Lina,45.02%,27.11,46.00%,25.22,44.85%,26.77,44.85%,26.64,45.86%,29.18,49.89%,29.68,skills\lina_laguna_blade.png
-Laser,Tinker,47.73%,21.17,49.66%,19.16,50.47%,21.09,50.00%,21.16,49.25%,20.69,54.31%,19.55,skills\tinker_laser.png
-Last Word,Silencer,47.14%,27.13,50.69%,25.23,51.60%,27.14,49.15%,27.15,50.61%,26.71,52.73%,26.45,skills\silencer_last_word.png
-Leap,Mirana,53.11%,13.14,50.87%,13.71,50.81%,14.94,48.61%,15.11,53.34%,13.94,56.42%,13.65,skills\mirana_leap.png
-Leech Seed,Treant Protector,44.91%,34.04,47.88%,33.25,47.90%,33.67,47.35%,33.85,46.81%,34.67,53.43%,35.05,skills\treant_leech_seed.png
-Life Break,Huskar,47.64%,28.25,47.41%,27.87,51.00%,28.14,51.26%,28.23,47.28%,29.03,54.68%,29.67,skills\huskar_life_break.png
-Life Drain,Pugna,45.11%,20.02,47.92%,17.4,48.24%,20.03,47.80%,20.01,47.28%,22.11,51.11%,21.47,skills\pugna_life_drain.png
-Light Strike Array,Lina,50.95%,23.42,51.67%,22.38,52.82%,23.88,52.06%,23.84,51.65%,20.72,57.33%,20.58,skills\lina_light_strike_array.png
-Lightning Bolt,Zeus,48.57%,12.06,51.04%,10.07,52.47%,12.42,51.04%,12.28,50.86%,10.57,53.91%,10.86,skills\zuus_lightning_bolt.png
-Lightning Storm,Leshrac,45.82%,31.3,47.04%,30.9,44.45%,30.75,45.20%,30.97,46.76%,32.44,52.80%,32.41,skills\leshrac_lightning_storm.png
-Lil' Shredder,Snapfire,43.47%,12.11,45.13%,11.02,50.13%,8.14,41.87%,12.58,48.33%,10.41,53.54%,10.7,skills\snapfire_lil_shredder.png
-Liquid Fire,Jakiro,49.82%,25.07,49.26%,23.06,50.09%,25.38,47.57%,25.78,50.17%,26.11,55.03%,26.4,skills\jakiro_liquid_fire.png
-Living Armor,Treant Protector,44.34%,33.23,46.86%,32.37,46.60%,32.28,46.32%,32.48,45.95%,34.1,51.10%,34.26,skills\treant_living_armor.png
-Lucent Beam,Luna,50.22%,14.03,50.48%,13.47,49.41%,15.23,49.29%,15.12,50.57%,14.58,54.07%,14.89,skills\luna_lucent_beam.png
-Lucky Shot,Pangolier,47.77%,22.33,49.62%,22.42,48.11%,23,45.45%,23.01,50.87%,26.46,52.08%,26.41,skills\pangolier_lucky_shot.png
-Luminosity,Dawnbreaker,51.33%,20.88,48.86%,21.34,50.08%,20.67,49.05%,20.73,51.66%,22.93,56.01%,23.3,skills\dawnbreaker_luminosity.png
-Lunar Blessing,Luna,52.77%,27.59,49.84%,27.22,48.48%,27.64,47.84%,27.83,52.66%,30.22,57.39%,30.42,skills\luna_lunar_blessing.png
-Macropyre,Jakiro,52.50%,26.41,55.12%,24.71,54.93%,26.12,54.31%,26.31,54.57%,24.34,58.79%,25.11,skills\jakiro_macropyre.png
-Magic Missile,Vengeful Spirit,52.87%,9.57,53.73%,9.19,54.22%,9.7,54.05%,9.7,53.26%,7.99,58.01%,8.63,skills\vengefulspirit_magic_missile.png
-Magnetic Field,Arc Warden,49.95%,31.69,46.89%,31.47,44.89%,31.96,45.12%,32.23,49.02%,33.04,55.16%,33.73,skills\arc_warden_magnetic_field.png
-Magnetize,Earth Spirit,45.09%,30.82,42.43%,29.79,44.88%,31.33,44.44%,31.26,44.37%,32.59,51.39%,32.15,skills\earth_spirit_magnetize.png
-Maledict,Witch Doctor,49.44%,25.39,47.33%,23.23,48.65%,25.28,48.73%,25.5,47.76%,24.13,53.09%,24.5,skills\witch_doctor_maledict.png
-Malefice,Enigma,52.22%,28.9,50.97%,27.08,50.14%,28.87,49.91%,28.98,51.67%,26.83,56.70%,27.18,skills\enigma_malefice.png
-Mana Break,Anti-Mage,51.40%,11.76,51.17%,11.59,48.82%,13.79,46.92%,12.77,53.18%,13.14,56.25%,13.31,skills\antimage_mana_break.png
-Mana Burn,Nyx Assassin,46.42%,29.7,48.51%,29.24,48.76%,30.65,46.72%,29.88,48.92%,30.55,52.44%,30.04,skills\nyx_assassin_mana_burn.png
-Mana Drain,Lion,45.50%,29.44,45.37%,29.01,46.74%,29.52,46.52%,29.51,45.30%,30.79,49.92%,30.64,skills\lion_mana_drain.png
-Mana Shield,Medusa,54.76%,18.29,55.74%,18.1,48.29%,20.03,48.01%,20.1,55.86%,20.87,59.31%,20.94,skills\medusa_mana_shield.png
-Mana Void,Anti-Mage,46.66%,33.1,47.37%,32.61,45.28%,32.88,43.75%,32.76,49.28%,34.3,53.13%,34.22,skills\antimage_mana_void.png
-Marksmanship,Drow Ranger,58.63%,7.96,50.77%,9.96,46.15%,12.24,44.15%,12.82,56.64%,9.29,61.61%,9.54,skills\drow_ranger_marksmanship.png
-Mass Serpent Ward,Shadow Shaman,53.89%,19.63,54.22%,17.39,54.54%,19.69,54.37%,19.53,54.16%,18.54,57.74%,19.84,skills\shadow_shaman_mass_serpent_ward.png
-Meat Hook,Pudge,46.97%,12.67,48.83%,11.77,47.70%,12.65,47.56%,12.68,48.41%,11.74,52.96%,11.85,skills\pudge_meat_hook.png
-Meld,Templar Assassin,50.16%,25.54,48.86%,24.46,47.52%,26.58,46.18%,27.33,49.88%,25.92,55.66%,26.04,skills\templar_assassin_meld.png
-Metamorphosis,Terrorblade,46.15%,8.86,46.44%,9.23,40.62%,9.85,41.92%,9.24,47.99%,9.94,50.02%,10.22,skills\terrorblade_metamorphosis.png
-Midnight Pulse,Enigma,51.29%,26.7,51.40%,25.25,53.27%,26.98,53.06%,26.91,51.16%,27.46,55.08%,26.5,skills\enigma_midnight_pulse.png
-Mirror Image,Naga Siren,53.84%,19.26,53.85%,21.05,47.06%,20.98,50.40%,19.14,55.17%,19.98,57.29%,20.08,skills\naga_siren_mirror_image.png
-Mist Coil,Abaddon,46.96%,32.16,47.31%,31.93,48.15%,32.14,47.76%,32.23,47.66%,32.49,53.27%,33.37,skills\abaddon_death_coil.png
-Moment of Courage,Legion Commander,50.86%,17.78,51.22%,18.32,50.22%,17.56,50.10%,17.49,51.93%,19.57,53.80%,20.75,skills\legion_commander_moment_of_courage.png
-Moon Glaives,Luna,55.82%,6.32,52.19%,6.69,48.34%,7.54,49.75%,7.41,55.01%,6.33,58.19%,6.22,skills\luna_moon_glaive.png
-Moonlight Shadow,Mirana,51.51%,33.55,49.73%,33.24,48.72%,33.79,49.07%,33.76,50.93%,34.91,55.50%,34.85,skills\mirana_invis.png
-Mortal Strike,Wraith King,50.04%,11.15,48.72%,11.28,46.26%,10.69,45.89%,10.77,50.93%,12.48,53.18%,12.76,skills\skeleton_king_mortal_strike.png
-Mortimer Kisses,Snapfire,48.63%,28.33,50.25%,27.75,52.75%,28.73,51.06%,28.56,50.68%,28.7,54.15%,28,skills\snapfire_mortimer_kisses.png
-Multishot,Drow Ranger,49.06%,30.72,45.80%,30.45,42.43%,30.58,39.91%,29.64,48.44%,32.45,54.44%,32.34,skills\drow_ranger_multishot.png
-Mystic Flare,Skywrath Mage,47.20%,23.28,49.39%,21.58,48.65%,24.06,47.71%,23.72,49.34%,24.29,52.45%,24.39,skills\skywrath_mage_mystic_flare.png
-Mystic Snake,Medusa,49.06%,16.31,49.40%,14.81,50.70%,16.23,50.14%,16.3,49.33%,16.38,54.08%,16.63,skills\medusa_mystic_snake.png
-Natural Order,Elder Titan,52.45%,22.78,49.56%,23.31,52.95%,21.81,52.66%,21.89,51.40%,24.31,59.04%,24.63,skills\elder_titan_natural_order_spirit.png
-Nature's Attendants,Enchantress,53.58%,31.48,55.11%,30.79,52.16%,30.36,52.34%,30.67,54.89%,30.69,58.97%,31.12,skills\enchantress_natures_attendants.png
-Nature's Call,Nature's Prophet,37.30%,28.7,45.21%,28.19,40.46%,28.04,41.34%,28.43,42.97%,30.73,46.58%,31.36,skills\furion_force_of_nature.png
-Nature's Grasp,Treant Protector,49.23%,26.33,51.32%,24.66,50.26%,25.42,50.23%,25.53,50.63%,25.27,54.65%,24.75,skills\treant_natures_grasp.png
-Necromastery,Shadow Fiend,55.17%,7.34,48.78%,7.66,46.99%,8.42,47.71%,8.26,53.91%,7.65,55.45%,7.73,skills\nevermore_necromastery.png
-Nether Blast,Pugna,43.87%,27.41,47.24%,26.36,46.87%,27.57,45.33%,27.34,47.10%,26.94,50.12%,27.05,skills\pugna_nether_blast.png
-Nether Strike,Spirit Breaker,42.88%,32.95,44.66%,31.81,44.18%,32.08,43.37%,32.32,45.10%,34.27,47.19%,34.06,skills\spirit_breaker_nether_strike.png
-Nether Swap,Vengeful Spirit,47.86%,33.74,47.98%,33.08,48.00%,33.65,47.54%,33.66,48.28%,34.26,53.40%,34.22,skills\vengefulspirit_nether_swap.png
-Nether Ward,Pugna,56.01%,24.8,58.76%,22.82,57.17%,25.07,56.12%,24.97,58.67%,23.31,61.86%,23.64,skills\pugna_nether_ward.png
-Nethertoxin,Viper,50.00%,10.23,50.43%,9.72,51.56%,9.62,51.18%,9.71,50.21%,8.81,53.77%,8.78,skills\viper_nethertoxin.png
-Nightmare,Bane,47.21%,27.59,46.25%,26.58,46.31%,27.98,45.85%,27.86,46.95%,27.68,51.66%,27.67,skills\bane_nightmare.png
-Omnislash,Juggernaut,50.65%,16.92,47.47%,19.68,46.38%,18.03,48.82%,16.84,49.77%,20.34,53.39%,20.21,skills\juggernaut_omni_slash.png
-Onslaught,Primal Beast,43.84%,22.58,47.48%,22.21,46.21%,21.03,45.59%,21.23,46.79%,24.51,52.66%,20.52,skills\primal_beast_onslaught.png
-Overcharge,Io,47.94%,21.76,49.27%,21.02,47.40%,21.68,45.45%,22.46,49.51%,23.4,53.25%,23.48,skills\wisp_overcharge.png
-Overgrowth,Treant Protector,51.50%,24.5,51.87%,23.52,51.15%,23.41,51.20%,23.51,51.81%,23.11,55.93%,23.19,skills\treant_overgrowth.png
-Overload,Storm Spirit,45.48%,26.67,47.14%,25.1,45.51%,26.77,45.71%,26.88,46.79%,29.16,54.79%,28.61,skills\storm_spirit_overload.png
-Overpower,Ursa,43.77%,12.95,47.78%,12.71,44.72%,12.89,42.66%,12.94,47.29%,14.3,50.15%,14.11,skills\ursa_overpower.png
-Overwhelming Odds,Legion Commander,50.10%,31.64,48.24%,30.8,50.16%,31.63,49.87%,31.57,49.24%,32.24,55.13%,31.81,skills\legion_commander_overwhelming_odds.png
-Paralyzing Cask,Witch Doctor,51.87%,19.7,51.49%,17.98,53.18%,19.73,52.16%,19.68,51.86%,18.07,56.19%,18.85,skills\witch_doctor_paralyzing_cask.png
-Penitence,Chen,49.49%,29.08,50.31%,27.27,48.40%,29.11,48.19%,29.28,50.36%,28.97,51.67%,29.04,skills\chen_penitence.png
-Phantasm,Chaos Knight,54.74%,27.83,52.09%,28.37,46.64%,27.91,46.55%,27.81,55.63%,29.31,57.41%,29.56,skills\chaos_knight_phantasm.png
-Phantom Rush,Phantom Lancer,48.41%,26.55,46.70%,28.91,44.81%,27.4,45.74%,26.59,51.87%,28.95,52.15%,28.9,skills\phantom_lancer_phantom_edge.png
-Phantom Strike,Phantom Assassin,48.45%,11.81,50.29%,15.31,50.14%,12.21,49.44%,11.69,48.28%,12.67,53.92%,12.12,skills\phantom_assassin_phantom_strike.png
-Phantom's Embrace,Grimstroke,49.57%,26.58,53.02%,24.45,52.71%,26.25,51.33%,26.25,52.56%,25.01,57.45%,25.22,skills\grimstroke_ink_creature.png
-Phase Shift,Puck,51.53%,25.84,48.86%,23.37,49.89%,26.61,49.06%,26.81,49.91%,22.57,54.75%,22.57,skills\puck_phase_shift.png
-Pit of Malice,Underlord,49.46%,24.13,51.44%,23.07,52.01%,23.59,51.46%,23.59,50.95%,23.66,56.47%,24.42,skills\abyssal_underlord_pit_of_malice.png
-Plague Ward,Venomancer,47.28%,28.16,50.30%,28.3,46.65%,27.93,46.95%,28.05,48.71%,29.72,53.46%,29.39,skills\venomancer_plague_ward.png
-Plasma Field,Razor,51.55%,27.14,50.90%,25.01,50.71%,27.27,50.59%,27.34,51.38%,26.73,56.27%,26.51,skills\razor_plasma_field.png
-Poison Attack,Viper,53.87%,12.04,54.06%,11.18,51.08%,13.87,47.94%,14.8,54.43%,10.96,58.39%,11.04,skills\viper_poison_attack.png
-Poison Nova,Venomancer,52.14%,29.15,51.75%,28.87,54.51%,29.11,54.15%,29.23,51.68%,30.37,57.23%,30.91,skills\venomancer_poison_nova.png
-Poison Sting,Venomancer,52.79%,14.61,54.21%,13.82,48.93%,16.28,48.70%,16.3,53.93%,14.73,57.18%,15.08,skills\venomancer_poison_sting.png
-Poison Touch,Dazzle,49.41%,25.2,50.47%,23.62,48.17%,25.72,48.19%,25.75,50.42%,24.7,54.47%,25.97,skills\dazzle_poison_touch.png
-Poof,Meepo,46.46%,34.02,47.12%,33.71,47.32%,33.84,45.61%,33.86,48.80%,35.12,52.70%,35.22,skills\meepo_poof.png
-Pounce,Slark,47.01%,22.91,50.71%,22.7,47.82%,22.91,46.43%,22.72,51.13%,23.54,53.18%,23.58,skills\slark_pounce.png
-Power Cogs,Clockwerk,45.60%,32.8,49.56%,31.97,48.25%,31.84,47.97%,32.04,47.68%,33.4,52.60%,33.38,skills\rattletrap_power_cogs.png
-Powershot,Windranger,45.36%,30.03,45.42%,29.45,45.30%,29.99,44.98%,30.11,45.53%,30.91,51.11%,30.99,skills\windrunner_powershot.png
-Presence of the Dark Lord,Shadow Fiend,52.80%,27.14,49.70%,27.16,51.81%,27.11,49.83%,27.1,53.49%,28.93,59.07%,28.88,skills\nevermore_dark_lord.png
-Press The Attack,Legion Commander,50.68%,25,49.93%,23.83,49.73%,24.91,49.18%,25.01,51.19%,25.08,55.62%,24.28,skills\legion_commander_press_the_attack.png
-Primal Roar,Beastmaster,52.42%,28,51.54%,27.16,50.52%,27.43,50.51%,27.53,52.40%,27.7,56.13%,27.55,skills\beastmaster_primal_roar.png
-Primal Split,Brewmaster,52.85%,25.97,52.88%,24.98,54.27%,24.45,54.05%,24.76,52.68%,22.79,60.26%,22.93,skills\brewmaster_primal_split.png
-Proximity Mines,Techies,47.80%,28.06,49.68%,26.61,50.38%,27.43,50.00%,27.45,49.07%,27.21,55.15%,27.81,skills\techies_land_mines.png
-Psi Blades,Templar Assassin,52.44%,4.87,51.20%,5.07,51.04%,5.8,50.57%,5.68,52.23%,5.21,56.84%,5.1,skills\templar_assassin_psi_blades.png
-Psionic Trap,Templar Assassin,44.36%,34.2,47.11%,33.87,45.13%,33.87,44.86%,33.84,45.66%,34.77,51.08%,34.77,skills\templar_assassin_psionic_trap.png
-Pulse Nova,Leshrac,50.78%,10.99,53.42%,9.18,52.70%,9.68,52.40%,9.78,53.06%,9.61,57.34%,8.91,skills\leshrac_pulse_nova.png
-Pulverize,Primal Beast,47.87%,24.73,47.01%,23.75,48.18%,24.05,48.00%,24.05,47.60%,27.44,53.39%,24.88,skills\primal_beast_pulverize.png
-Purification,Omniknight,48.56%,30.45,48.74%,29.52,50.71%,30.05,50.36%,30.16,48.53%,30.86,55.19%,30.63,skills\omniknight_purification.png
-Purifying Flames,Oracle,42.30%,28.99,44.57%,28.08,44.68%,27.96,44.43%,28.32,44.06%,28.89,50.11%,28.68,skills\oracle_purifying_flames.png
-Quill Spray,Bristleback,48.33%,16.91,48.50%,16.68,47.45%,14.35,47.59%,14.6,48.52%,16.54,51.30%,15.68,skills\bristleback_quill_spray.png
-Rage,Lifestealer,54.80%,14.56,54.70%,14.32,51.88%,13.87,51.65%,13.95,56.22%,13.26,58.14%,13.17,skills\life_stealer_rage.png
-Ransack,Meepo,46.73%,28.87,49.75%,28.91,46.62%,29.52,43.97%,28.83,51.29%,32.72,57.50%,33.68,skills\meepo_ransack.png
-Ravage,Tidehunter,52.04%,21.18,51.69%,20.53,52.41%,21.19,52.18%,21.14,52.02%,21.1,56.05%,20.73,skills\tidehunter_ravage.png
-Reactive Armor,Timbersaw,48.41%,16.53,50.15%,16.89,48.93%,13.12,49.04%,13.53,48.62%,16.39,53.52%,16.88,skills\shredder_reactive_armor.png
-Reactive Tazer,Techies,50.36%,28.72,45.28%,28.06,49.06%,27.84,48.57%,28.06,47.30%,30.8,52.99%,28.35,skills\techies_reactive_tazer.png
-Reality Rift,Chaos Knight,48.75%,25.72,46.87%,26.82,48.25%,24.47,48.15%,24.55,48.81%,25.76,52.36%,26.34,skills\chaos_knight_reality_rift.png
-Reaper's Scythe,Necrophos,50.38%,16.4,48.29%,14.8,50.84%,16.33,50.66%,16.28,48.67%,14.73,53.31%,16.19,skills\necrolyte_reapers_scythe.png
-Rearm,Tinker,40.29%,10.62,42.33%,8.71,42.91%,10.13,42.36%,10.25,41.99%,10.04,47.51%,9.52,skills\tinker_rearm.png
-Rebound,Marci,45.69%,30.05,46.65%,29.8,46.84%,29.01,46.36%,29.18,46.72%,29.94,52.45%,28.98,skills\marci_companion_run.png
-Reflection,Terrorblade,52.27%,20.4,52.69%,19.41,53.08%,20.19,52.40%,20.2,52.95%,17.79,57.69%,17.96,skills\terrorblade_reflection.png
-Refraction,Templar Assassin,51.04%,18.44,53.18%,18.27,50.49%,18.89,50.11%,18.93,52.34%,19.77,55.58%,19.43,skills\templar_assassin_refraction.png
-Reincarnation,Wraith King,58.32%,5.96,59.32%,5.71,58.81%,5.7,58.35%,5.67,59.65%,5.76,63.50%,5.63,skills\skeleton_king_reincarnation.png
-Relocate,Io,42.56%,34.16,46.75%,33.79,43.75%,33.73,41.65%,33.52,45.77%,35.21,49.54%,34.41,skills\wisp_relocate.png
-Requiem of Souls,Shadow Fiend,51.94%,32.43,48.03%,31.18,45.97%,31.23,46.32%,31.37,51.23%,34,53.43%,34.24,skills\nevermore_requiem.png
-Resonant Pulse,Void Spirit,49.57%,23.95,48.44%,22.67,50.16%,23.47,49.24%,23.07,49.43%,23.64,53.01%,23.55,skills\void_spirit_resonant_pulse.png
-Retaliate,Centaur Warrunner,47.90%,17.69,46.54%,17.94,51.18%,13.67,50.88%,13.98,46.81%,16.23,53.61%,16.95,skills\centaur_return.png
-Reverse Polarity,Magnus,48.83%,25.25,48.55%,24.68,49.04%,24.63,49.22%,24.75,47.99%,24.67,53.69%,24.79,skills\magnataur_reverse_polarity.png
-Rip Tide,Naga Siren,48.82%,25.59,44.69%,26.64,42.54%,26.27,46.52%,25.6,46.38%,28.45,53.80%,28.85,skills\naga_siren_rip_tide.png
-Rocket Barrage,Gyrocopter,49.67%,24.24,49.19%,23.66,49.12%,24.32,48.29%,24.28,50.79%,23.4,54.61%,23.82,skills\gyrocopter_rocket_barrage.png
-Rocket Flare,Clockwerk,47.32%,33.21,46.66%,32.67,46.20%,33,46.21%,33.14,47.06%,34.22,49.31%,33.8,skills\rattletrap_rocket_flare.png
-Rolling Boulder,Earth Spirit,46.87%,30.79,45.18%,30.41,48.32%,29.28,47.98%,29.51,45.92%,29.33,54.29%,29.53,skills\earth_spirit_rolling_boulder.png
-Rolling Thunder,Pangolier,47.61%,26.35,49.50%,26.4,52.71%,26.78,50.54%,26.53,48.90%,23.97,56.59%,24.11,skills\pangolier_gyroshell.png
-Rot,Pudge,52.94%,12.25,50.75%,12.46,53.23%,11.79,53.33%,11.83,50.57%,10.19,57.57%,10.05,skills\pudge_rot.png
-Rupture,Bloodseeker,48.76%,22.58,49.56%,22.08,49.51%,22.65,49.06%,22.48,49.47%,24.95,54.72%,23.77,skills\bloodseeker_rupture.png
-Sacred Arrow,Mirana,50.52%,18.76,51.50%,17.19,50.52%,18.77,49.85%,18.69,51.54%,16.14,55.05%,16.16,skills\mirana_arrow.png
-Sand Storm,Sand King,52.56%,26.19,52.41%,25.19,53.76%,23.81,53.31%,24.14,52.88%,24.13,57.07%,24.66,skills\sandking_sand_storm.png
-Sanity's Eclipse,Outworld Devourer,40.78%,30.33,46.76%,33.02,41.07%,29.22,40.26%,29.44,46.38%,34.32,52.63%,34.43,skills\obsidian_destroyer_sanity_eclipse.png
-Savage Roar,Lone Druid,49.26%,33.62,49.67%,33.57,49.31%,33.7,49.09%,33.85,49.60%,33.85,54.73%,33.86,skills\lone_druid_savage_roar.png
-Scatterblast,Snapfire,48.24%,24.02,47.69%,23.15,50.55%,23.92,49.14%,23.8,48.98%,22.2,53.64%,22.72,skills\snapfire_scatterblast.png
-Scorched Earth,Doom,50.46%,28.96,49.42%,28.34,51.32%,27.34,50.69%,27.51,51.02%,27.71,56.14%,27.49,skills\doom_bringer_scorched_earth.png
-Scream Of Pain,Queen of Pain,45.73%,30.68,47.36%,30.02,47.26%,30.95,46.63%,30.89,47.24%,31.75,54.61%,30.61,skills\queenofpain_scream_of_pain.png
-Scurry,Hoodwink,52.72%,28.53,48.79%,28.78,49.44%,29.82,48.61%,29.86,51.92%,29.9,56.60%,29.81,skills\hoodwink_scurry.png
-Searing Arrows,Clinkz,46.03%,20.45,47.14%,20.23,44.22%,22.3,42.30%,23.37,46.86%,22.8,51.12%,23.46,skills\clinkz_searing_arrows.png
-Searing Chains,Ember Spirit,47.95%,27.28,48.99%,27.47,50.61%,27.88,49.27%,27.46,48.80%,27.72,54.48%,27.4,skills\ember_spirit_searing_chains.png
-Shackles,Shadow Shaman,52.55%,14.78,53.14%,13.25,53.42%,15.39,53.85%,15.25,52.73%,12.68,57.41%,12.67,skills\shadow_shaman_shackles.png
-Shackleshot,Windranger,49.86%,26.88,49.77%,26.22,50.43%,27.17,49.64%,26.99,50.07%,25.5,55.67%,25.38,skills\windrunner_shackleshot.png
-Shadow Dance,Slark,57.48%,12.02,59.40%,11.88,57.78%,11.41,56.03%,11.37,60.89%,10.29,62.81%,10.21,skills\slark_shadow_dance.png
-Shadow Poison,Shadow Demon,45.64%,26.64,43.17%,25.6,45.69%,24.93,45.30%,25.39,43.69%,26.6,50.45%,25.56,skills\shadow_demon_shadow_poison.png
-Shadow Realm,Dark Willow,53.36%,3,53.82%,2.91,50.25%,3.19,49.98%,3.28,53.93%,2.85,56.41%,2.76,skills\dark_willow_shadow_realm.png
-Shadow Strike,Queen of Pain,46.52%,28.65,47.95%,27.2,46.54%,28.37,46.44%,28.81,47.74%,29.76,51.16%,29.89,skills\queenofpain_shadow_strike.png
-Shadow Walk,Bounty Hunter,49.01%,18.8,52.92%,18.63,48.35%,19.04,48.29%,18.59,52.16%,21.74,55.00%,22.26,skills\bounty_hunter_wind_walk.png
-Shadow Wave,Dazzle,42.01%,33,44.45%,32.38,44.81%,32.47,44.46%,32.78,43.81%,33.62,50.15%,33.89,skills\dazzle_shadow_wave.png
-Shadow Word,Warlock,49.16%,31.38,52.49%,30.16,47.33%,30.97,47.28%,31.07,52.33%,30.42,55.49%,31.12,skills\warlock_shadow_word.png
-Shadowraze,Shadow Fiend,45.41%,24.59,46.64%,23.89,47.21%,24.62,45.92%,24.62,46.63%,23.59,51.78%,23.34,skills\nevermore_shadowraze2.png
-Shallow Grave,Dazzle,46.86%,32.92,48.87%,32.02,48.54%,32.59,47.47%,32.67,48.72%,34.25,54.01%,34.25,skills\dazzle_shallow_grave.png
-Shapeshift,Lycan,49.54%,23.12,47.72%,23.99,48.86%,21.73,49.15%,21.94,48.06%,24.62,54.29%,24.25,skills\lycan_shapeshift.png
-Sharpshooter,Hoodwink,49.57%,29.5,47.58%,28.59,47.16%,29.96,47.36%,29.68,48.74%,29.12,53.35%,29.79,skills\hoodwink_sharpshooter.png
-Shield Crash,Pangolier,51.10%,24.38,53.66%,25.02,55.51%,23.47,53.37%,23.66,53.85%,23.02,57.01%,23.16,skills\pangolier_shield_crash.png
-Shockwave,Magnus,50.57%,10.79,51.15%,9.54,51.15%,10.12,50.88%,10.17,51.18%,12.29,54.73%,9.68,skills\magnataur_shockwave.png
-Shrapnel,Sniper,57.26%,21.38,55.09%,19.71,55.80%,20.91,55.47%,20.6,56.43%,19.24,60.50%,19,skills\sniper_shrapnel.png
-Shukuchi,Weaver,53.96%,2.27,55.77%,2.1,56.99%,2.07,56.87%,2.13,54.31%,1.72,59.53%,1.74,skills\weaver_shukuchi.png
-Shuriken Toss,Bounty Hunter,45.36%,28.96,44.27%,28.88,46.01%,29.89,45.01%,29.14,45.37%,30.8,50.17%,31.2,skills\bounty_hunter_shuriken_toss.png
-Sidekick,Marci,48.52%,26.18,49.52%,25.7,45.97%,25.99,45.32%,26.13,50.13%,28.22,52.84%,27.78,skills\marci_guardian.png
-Silence,Death Prophet,48.22%,34.36,50.15%,34.18,49.51%,34.51,47.61%,34.43,50.51%,35.47,55.14%,35.63,skills\drow_ranger_silence.png
-Silken Bola,Broodmother,49.73%,30.31,53.89%,30.05,52.27%,31.2,49.97%,30.78,53.65%,30.35,57.70%,30.39,skills\broodmother_silken_bola.png
-Sinister Gaze,Lich,50.62%,28.34,51.53%,26.91,52.97%,28.32,52.25%,28.44,51.41%,27.29,55.69%,27.28,skills\lich_sinister_gaze.png
-Skeleton Walk,Clinkz,52.41%,12.15,53.98%,11.67,54.48%,12.27,54.13%,12.19,53.04%,12.4,59.55%,12.4,skills\clinkz_wind_walk.png
-Skewer,Magnus,47.48%,25.5,48.52%,24.95,50.27%,24.65,49.53%,24.74,48.52%,23.47,54.01%,23.82,skills\magnataur_skewer.png
-Sleight of Fist,Ember Spirit,50.49%,4.82,51.64%,5.42,51.28%,4.58,50.69%,4.61,51.89%,4.36,55.08%,4.54,skills\ember_spirit_sleight_of_fist.png
-Slithereen Crush,Slardar,48.31%,17.63,46.74%,17.77,49.78%,16.38,49.31%,16.52,47.68%,17.04,54.40%,17.18,skills\slardar_slithereen_crush.png
-Smoke Screen,Riki,51.25%,33.47,52.84%,33.31,51.87%,33.75,51.37%,33.51,52.63%,34.47,55.20%,33.86,skills\riki_smoke_screen.png
-Snowball,Tusk,50.55%,24.52,48.82%,23.85,53.10%,23.79,52.36%,23.86,49.90%,22.02,56.96%,22.25,skills\tusk_snowball.png
-Solar Bind,Keeper of the Light,48.45%,32.13,48.81%,31.58,48.53%,32.62,47.89%,32.48,49.06%,31.8,51.77%,32.32,skills\keeper_of_the_light_radiant_bind.png
-Solar Guardian,Dawnbreaker,48.33%,31.09,51.12%,30.52,51.48%,30.57,50.26%,30.62,51.05%,31.33,55.68%,31.69,skills\dawnbreaker_solar_guardian.png
-Song of the Siren,Naga Siren,48.20%,33.94,48.23%,33.56,48.58%,33.74,47.68%,33.66,48.96%,34.66,52.27%,34.64,skills\naga_siren_song_of_the_siren.png
-Sonic Wave,Queen of Pain,46.81%,27.4,45.89%,25.87,48.43%,27.47,46.81%,27.39,46.64%,29.07,50.82%,29.03,skills\queenofpain_sonic_wave.png
-Soul Assumption,Visage,46.74%,25.74,48.09%,23.69,47.29%,26.2,46.98%,26.18,47.97%,25.88,53.19%,26.18,skills\visage_soul_assumption.png
-Soul Catcher,Shadow Demon,47.83%,32.58,46.88%,31.89,47.84%,32.98,47.28%,33.12,47.36%,33.38,52.87%,33.6,skills\shadow_demon_soul_catcher.png
-Soul Rip,Undying,49.85%,33.01,47.27%,33.41,45.90%,33.47,46.58%,33.46,47.81%,34.53,53.39%,35,skills\undying_soul_rip.png
-Soulbind,Grimstroke,50.80%,29.02,50.23%,27.07,50.96%,29.2,50.16%,29.02,50.74%,27.69,54.50%,28.01,skills\grimstroke_soul_chain.png
-Spark Wraith,Arc Warden,48.69%,26.23,50.29%,25.59,48.48%,26.61,47.73%,26.82,50.15%,25.65,54.37%,26.03,skills\arc_warden_spark_wraith.png
-Spawn Spiderlings,Broodmother,44.94%,31.62,44.83%,31.77,45.64%,31.89,44.88%,31.49,45.37%,33.08,51.62%,33.01,skills\broodmother_spawn_spiderlings.png
-Spear of Mars,Mars,50.87%,20.94,49.84%,19.23,50.64%,20.42,50.74%,20.42,50.04%,16.87,56.61%,17.1,skills\mars_spear.png
-Spectral Dagger,Spectre,50.89%,27.91,53.32%,28.04,53.53%,28.92,51.18%,28.11,53.75%,27.32,57.81%,26.99,skills\spectre_spectral_dagger.png
-Spiked Carapace,Nyx Assassin,52.38%,20.91,54.50%,20.84,55.79%,20.67,53.43%,20.68,55.21%,19.25,58.26%,19.05,skills\nyx_assassin_spiked_carapace.png
-Spin Web,Broodmother,47.45%,11.64,51.73%,11.42,49.18%,12.32,47.16%,11.56,51.91%,11.64,53.79%,11.5,skills\broodmother_spin_web.png
-Spirit Form,Keeper of the Light,48.44%,29.31,49.14%,27.71,48.47%,29.17,47.78%,29.2,49.34%,28.93,53.78%,29.02,skills\keeper_of_the_light_spirit_form.png
-Spirit Lance,Phantom Lancer,50.37%,24.26,52.02%,23.67,51.64%,24.67,50.45%,24.04,52.04%,24.37,56.74%,24.69,skills\phantom_lancer_spirit_lance.png
-Spirit Link,Lone Druid,51.29%,24.83,50.84%,24.2,48.30%,25.27,49.12%,25.44,51.18%,26.8,55.22%,26.57,skills\lone_druid_spirit_link.png
-Spirit Siphon,Death Prophet,54.74%,15.98,53.54%,14.69,54.66%,15.01,54.26%,15.14,54.21%,13.14,59.35%,13.4,skills\death_prophet_spirit_siphon.png
-Spirits,Io,53.20%,24.53,52.33%,23.78,54.21%,23.03,53.45%,23.72,53.44%,21.87,58.47%,21.47,skills\wisp_spirits.png
-Splinter Blast,Winter Wyvern,44.65%,31.92,45.55%,31.11,45.74%,32.2,44.16%,32.04,45.80%,31.94,49.29%,31.89,skills\winter_wyvern_splinter_blast.png
-Split Earth,Leshrac,52.02%,14.08,53.02%,13.31,53.45%,14.51,53.05%,14.36,52.86%,11.41,56.97%,12.06,skills\leshrac_split_earth.png
-Split Shot,Medusa,49.54%,13.69,45.99%,15.49,43.47%,17.59,42.13%,18.47,48.86%,15.18,51.98%,15.47,skills\medusa_split_shot.png
-Sprout,Nature's Prophet,46.64%,31.89,51.11%,31.86,44.09%,31.66,43.56%,31.43,50.35%,33.14,54.08%,33.38,skills\furion_sprout.png
-Stampede,Centaur Warrunner,52.18%,32.5,51.39%,32.33,51.93%,32.08,51.36%,32.16,52.81%,33.11,57.58%,33.38,skills\centaur_stampede.png
-Starbreaker,Dawnbreaker,48.33%,22.66,46.93%,23.36,50.50%,20.55,50.00%,20.85,47.48%,19.81,53.91%,19.73,skills\dawnbreaker_fire_wreath.png
-Starstorm,Mirana,49.17%,28.75,49.02%,28.42,48.36%,28.84,48.38%,28.87,49.24%,29.34,53.25%,29.19,skills\mirana_starfall.png
-Static Link,Razor,47.62%,18.04,44.08%,18.91,44.99%,19.41,45.56%,19.48,46.55%,19.99,50.39%,19.7,skills\razor_static_link.png
-Static Remnant,Storm Spirit,46.33%,28.42,44.39%,27.96,46.54%,27.94,47.79%,28.11,44.02%,28.86,52.49%,28.24,skills\storm_spirit_static_remnant.png
-Static Storm,Disruptor,50.50%,30.59,48.98%,29.04,51.96%,30.7,50.11%,30.55,50.06%,30.75,54.81%,30.9,skills\disruptor_static_storm.png
-Sticky Bomb,Techies,45.04%,24.04,46.98%,22.03,47.17%,24.07,46.86%,23.94,46.48%,25.3,51.94%,22.64,skills\techies_sticky_bomb.png
-Sticky Napalm,Batrider,48.05%,7.25,48.70%,6.55,47.83%,7.19,47.89%,7.1,48.59%,7.37,52.62%,6.33,skills\batrider_sticky_napalm.png
-Stifling Dagger,Phantom Assassin,46.80%,21.94,48.84%,20.57,45.11%,22.1,45.31%,21.81,48.92%,22.9,51.66%,22.82,skills\phantom_assassin_stifling_dagger.png
-Stone Gaze,Medusa,50.77%,28.87,51.89%,28.24,51.08%,28.34,50.84%,28.51,51.41%,28.97,54.14%,29.19,skills\medusa_stone_gaze.png
-Storm Hammer,Sven,51.96%,4.81,52.63%,4.67,53.67%,4.58,53.33%,4.61,52.39%,4.11,56.95%,4.09,skills\sven_storm_bolt.png
-Storm Surge,Razor,54.44%,16.06,55.87%,16.02,54.53%,16.03,53.37%,16.14,56.01%,16.87,60.03%,17.01,skills\razor_unstable_current.png
-Stroke of Fate,Grimstroke,46.19%,23.32,48.50%,20.61,46.05%,23.95,45.54%,23.97,48.41%,22.33,51.93%,22.13,skills\grimstroke_dark_artistry.png
-Summon Familiars,Visage,45.08%,32.02,47.20%,30.66,48.24%,31.73,46.18%,31.36,47.31%,33.37,53.51%,33.66,skills\visage_summon_familiars.png
-Summon Spirit Bear,Lone Druid,44.00%,21.62,45.14%,22.16,45.16%,22.11,44.96%,22.27,44.50%,21.74,51.11%,22.23,skills\lone_druid_spirit_bear.png
-Summon Wolves,Lycan,43.52%,31.67,45.71%,31.07,45.81%,31.55,44.90%,31.66,45.75%,33.62,52.33%,33.96,skills\lycan_summon_wolves.png
-Sun Ray,Phoenix,45.92%,31.47,42.72%,30.04,46.67%,30.96,46.37%,31.47,44.60%,31.81,51.43%,31.95,skills\phoenix_sun_ray.png
-Sun Strike (AD),Invoker,46.26%,14.79,50.17%,13.91,47.89%,14.32,48.68%,14.56,48.79%,12.55,52.97%,12.77,skills\invoker_sun_strike.png
-Sunder,Terrorblade,47.52%,30.55,47.43%,30.29,47.54%,30.12,47.20%,30.12,47.97%,31.94,52.81%,32.01,skills\terrorblade_sunder.png
-Supernova,Phoenix,51.32%,25.77,53.12%,25.08,53.13%,24.45,52.57%,25.32,52.82%,23.89,57.14%,24.4,skills\phoenix_supernova.png
-Surge,Dark Seer,48.39%,32.21,46.78%,31.69,48.23%,31.77,46.42%,31.78,49.21%,31.83,54.57%,32.88,skills\dark_seer_surge.png
-Swashbuckle,Pangolier,46.54%,8.64,49.36%,9.59,46.42%,9,45.53%,8.46,50.42%,8.75,51.79%,8.76,skills\pangolier_swashbuckle.png
-Tag Team,Tusk,44.20%,26.76,42.41%,26.01,46.41%,27.29,45.40%,27.16,44.61%,28.68,49.98%,28.67,skills\tusk_tag_team.png
-Take Aim,Sniper,52.30%,8.41,46.68%,8.46,46.41%,9.96,46.16%,10.24,50.38%,9.45,54.36%,9.64,skills\sniper_take_aim.png
-Telekinesis,Rubick,49.60%,32.6,48.46%,31.28,49.29%,32.21,49.38%,32.21,48.65%,32.7,53.12%,33.17,skills\rubick_telekinesis.png
-Teleportation,Nature's Prophet,46.35%,18.03,51.94%,16.68,46.05%,17.93,44.29%,17.93,51.59%,17.29,53.55%,17.07,skills\furion_teleportation.png
-Terrorize,Dark Willow,49.97%,25.53,48.14%,25.5,54.53%,24.55,53.08%,24.59,48.66%,24.38,56.18%,23.54,skills\dark_willow_terrorize.png
-Tether,Io,52.38%,24.57,52.63%,23.55,54.66%,22.52,53.81%,23.43,53.47%,20.87,57.99%,21.35,skills\wisp_tether.png
-The Swarm,Weaver,50.81%,28.33,53.22%,28.19,50.46%,29.25,50.44%,29.01,52.11%,27.38,54.99%,27.37,skills\weaver_the_swarm.png
-Thirst,Bloodseeker,55.40%,2.75,53.85%,2.75,54.45%,2.7,54.24%,2.72,55.40%,2.56,58.28%,2.64,skills\bloodseeker_thirst.png
-Thunder Clap,Brewmaster,44.64%,30.61,44.15%,30.95,47.57%,30.52,47.08%,30.61,43.26%,31.33,54.15%,31.66,skills\polar_furbolg_ursa_warrior_thunder_clap.png
-Thunder Strike,Disruptor,52.21%,20.28,52.95%,17.03,52.49%,20.57,52.01%,20.71,53.00%,18.66,56.18%,17.89,skills\disruptor_thunder_strike.png
-Thundergod's Wrath,Zeus,48.31%,24,49.83%,21.8,50.88%,23.83,49.87%,23.9,49.72%,25.59,54.01%,25.72,skills\zuus_thundergods_wrath.png
-Tidebringer,Kunkka,49.68%,4.42,51.06%,4.75,49.40%,3.98,49.07%,4.01,52.30%,4.45,55.51%,4.5,skills\kunkka_tidebringer.png
-Timber Chain,Timbersaw,44.75%,30.78,45.36%,30.02,46.96%,29.6,45.75%,29.78,46.63%,30.79,51.14%,30.74,skills\shredder_timber_chain.png
-Time Dilation,Faceless Void,50.50%,34.63,49.02%,33.67,52.04%,34.66,51.24%,34.71,49.54%,35.15,56.80%,35.3,skills\faceless_void_time_dilation.png
-Time Lapse,Weaver,48.01%,30.75,49.29%,30.73,47.49%,31.29,47.11%,31.24,48.98%,32.29,53.83%,32.23,skills\weaver_time_lapse.png
-Time Lock,Faceless Void,47.10%,5.14,44.28%,5.25,45.70%,5.7,45.46%,5.44,46.55%,5.93,49.43%,5.82,skills\faceless_void_time_lock.png
-Time Walk,Faceless Void,51.68%,8.97,53.08%,8.77,54.34%,8.33,52.26%,8.44,54.20%,7.79,58.28%,7.54,skills\faceless_void_time_walk.png
-Tombstone,Undying,56.65%,6.3,59.42%,6.11,58.05%,5.86,57.70%,5.92,58.95%,5.61,60.97%,6.12,skills\undying_tombstone.png
-Tornado (AD),Invoker,47.71%,27.95,45.50%,26.32,49.57%,27.16,48.60%,27.81,46.10%,26.69,53.99%,27.19,skills\invoker_tornado.png
-Torrent,Kunkka,47.51%,23.11,48.61%,21.75,51.01%,22.3,50.25%,22.5,48.34%,20.98,53.38%,20.75,skills\kunkka_torrent.png
-Toss,Tiny,47.78%,26.38,44.40%,26.24,47.30%,25.95,47.39%,25.98,45.31%,26.03,52.03%,25.66,skills\tiny_toss.png
-Track,Bounty Hunter,51.64%,13.87,51.75%,14.1,51.30%,14.44,50.40%,13.87,52.94%,12.86,56.11%,12.86,skills\bounty_hunter_track.png
-Trample,Primal Beast,44.68%,19.51,46.82%,19.48,49.17%,18.34,48.31%,18.44,46.24%,12.21,53.30%,17.14,skills\primal_beast_trample.png
-Tree Dance,Monkey King,46.19%,32.05,44.65%,31.11,43.24%,31.95,44.31%,31.98,45.82%,32.53,49.76%,32.57,skills\monkey_king_tree_dance.png
-Tree Grab,Tiny,50.03%,11.27,45.21%,13.14,48.20%,10.42,48.64%,10.34,47.51%,9.56,54.11%,10.83,skills\tiny_tree_grab.png
-Tricks of the Trade,Riki,47.12%,28.38,47.70%,29.68,45.50%,29.48,44.98%,28.61,49.66%,29.93,50.44%,30.37,skills\riki_tricks_of_the_trade.png
-True Form,Lone Druid,47.31%,24.99,48.28%,26.34,49.78%,24.05,49.63%,24.22,46.24%,26.55,53.02%,26.39,skills\lone_druid_true_form.png
-Unleash,Marci,48.41%,8.14,49.87%,7.58,47.12%,8.31,46.29%,8.77,49.99%,9.45,53.83%,8.56,skills\marci_unleash.png
-Unstable Concoction,Alchemist,49.31%,28.03,49.53%,27.2,49.69%,27.56,49.67%,27.57,49.37%,26.11,54.24%,25.69,skills\alchemist_unstable_concoction.png
-Untouchable,Enchantress,48.12%,17.77,49.86%,17.79,48.79%,16.44,48.20%,16.54,49.71%,19.97,54.48%,20.08,skills\enchantress_untouchable.png
-Upheaval,Warlock,48.06%,32.29,47.60%,32.67,48.48%,32.44,48.14%,32.73,47.81%,34.37,57.18%,34.31,skills\warlock_upheaval.png
-Uproar,Primal Beast,51.52%,21.78,52.64%,22.32,50.02%,20.5,49.62%,20.62,53.88%,21.42,56.54%,21.41,skills\primal_beast_uproar.png
-Vacuum,Dark Seer,48.62%,26.4,50.25%,24.65,51.02%,26.19,50.14%,25.62,50.12%,24.83,55.73%,24.14,skills\dark_seer_vacuum.png
-Vampiric Spirit,Wraith King,52.82%,24.26,51.64%,25.01,48.22%,23.95,47.90%,23.93,54.36%,25.65,55.91%,25.68,skills\skeleton_king_vampiric_aura.png
-Vendetta,Nyx Assassin,46.02%,18.35,49.49%,19.39,47.80%,18.99,46.05%,18.2,49.47%,21.47,52.03%,21.63,skills\nyx_assassin_vendetta.png
-Vengeance Aura,Vengeful Spirit,55.50%,4.83,56.83%,4.48,56.52%,4.88,55.78%,4.87,56.57%,3.8,59.03%,3.84,skills\vengefulspirit_command_aura.png
-Venomous Gale,Venomancer,48.60%,23.32,50.07%,22.83,50.20%,24.57,49.79%,24.44,49.38%,23.51,54.40%,23.42,skills\venomancer_venomous_gale.png
-Viper Strike,Viper,46.50%,29.19,45.43%,28.05,47.95%,29.5,46.28%,29.51,46.66%,30.44,50.38%,30.29,skills\viper_viper_strike.png
-Viscous Nasal Goo,Bristleback,51.83%,17.76,50.01%,17.34,48.42%,17.74,48.67%,17.83,51.52%,18.02,55.61%,17.58,skills\bristleback_viscous_nasal_goo.png
-Void,Night Stalker,49.03%,24.92,52.21%,23.45,51.49%,23.93,51.12%,24.09,51.19%,23.87,55.26%,23.61,skills\night_stalker_void.png
-Voodoo Restoration,Witch Doctor,49.50%,29.44,52.32%,31.65,46.79%,30.38,47.53%,30.12,51.69%,31.44,56.25%,30.88,skills\witch_doctor_voodoo_restoration.png
-Wall of Replica,Dark Seer,55.58%,25.23,55.40%,24.25,53.25%,26.23,52.56%,25.68,57.01%,23.9,60.62%,24.72,skills\dark_seer_wall_of_replica.png
-Walrus PUNCH!,Tusk,45.86%,10.65,47.80%,9.96,48.18%,9.12,47.08%,9.37,48.10%,10.92,52.87%,11.5,skills\tusk_walrus_punch.png
-Waning Rift,Puck,49.95%,27.96,47.80%,26.05,51.36%,27.59,50.09%,27.68,48.78%,25.5,54.58%,26.31,skills\puck_waning_rift.png
-Warcry,Sven,51.99%,33.4,50.99%,33.06,50.54%,32.89,50.39%,32.91,52.26%,34.22,56.22%,34.11,skills\sven_warcry.png
-Warpath,Bristleback,53.20%,20.25,52.51%,19.9,49.32%,21.28,49.59%,21.31,53.68%,22.59,57.64%,22.62,skills\bristleback_warpath.png
-Wave of Terror,Vengeful Spirit,49.24%,33.21,50.54%,32.79,47.69%,33.31,47.43%,33.33,50.16%,33.98,52.69%,33.93,skills\vengefulspirit_wave_of_terror.png
-Waveform,Morphling,50.35%,14.65,50.75%,14.54,49.68%,15.27,47.50%,15.12,51.91%,14.87,54.87%,14.43,skills\morphling_waveform.png
-Whirling Axes (Melee),Troll Warlord,49.87%,29.85,48.65%,29.8,50.75%,29.01,50.61%,29.22,48.98%,29.55,55.42%,29.3,skills\troll_warlord_whirling_axes_melee.png
-Whirling Axes (Ranged),Troll Warlord,47.01%,33.14,49.31%,32.67,49.44%,33.56,46.72%,33.56,49.06%,33.77,52.84%,33.31,skills\troll_warlord_whirling_axes_ranged.png
-Whirling Death,Timbersaw,49.62%,18.15,50.72%,18.54,50.54%,16.03,50.53%,16.4,49.68%,16.54,55.35%,16.26,skills\shredder_whirling_death.png
-Wild Axes,Beastmaster,50.30%,6.19,53.16%,5.79,52.89%,5.76,52.34%,5.74,52.61%,4.94,56.78%,4.79,skills\beastmaster_wild_axes.png
-Windrun,Windranger,50.97%,7.29,52.64%,6.77,54.56%,6.82,52.95%,6.87,52.61%,7.16,58.37%,6.18,skills\windrunner_windrun.png
-Winter's Curse,Winter Wyvern,52.19%,22.62,52.68%,20.73,50.56%,22.42,50.78%,22.39,52.72%,20.86,56.67%,20.42,skills\winter_wyvern_winters_curse.png
-Wraithfire Blast,Wraith King,49.14%,14.38,51.11%,12.98,50.45%,14.19,50.19%,14.16,50.59%,13.24,54.89%,13.43,skills\skeleton_king_hellfire_blast.png
-Wrath of Nature,Nature's Prophet,50.49%,24.98,52.28%,24,50.76%,24.59,49.88%,24.64,52.29%,24.42,55.87%,25.07,skills\furion_wrath_of_nature.png
-Wukong's Command,Monkey King,49.36%,15.89,52.63%,13.88,44.81%,17.8,42.97%,18.99,52.58%,14.61,55.00%,15.75,skills\monkey_king_wukongs_command.png
-X Marks the Spot,Kunkka,45.73%,33.23,46.82%,32.58,44.57%,33.24,44.62%,33.34,46.81%,34.45,51.31%,34.61,skills\kunkka_x_marks_the_spot.png
+Ability Name,Hero,Img Link,Overall Win,HS Win,Overall Avg Pick,HS Avg Pick,Agi WR,Agi Avg Pick,Int WR,Int Avg Pick,Str WR,Str Avg Pick,Melee WR,Melee Avg Pick,Ranged WR,Ranged Avg Pick
+Acid Spray,Alchemist,skills\alchemist_acid_spray.png,47.44%,51.69%,29.92,31.55,47.80%,30.48,47.94%,29.41,46.89%,29.91,46.53%,29.94,48.60%,29.89
+Acorn Shot,Hoodwink,skills\hoodwink_acorn_shot.png,50.48%,54.27%,15.12,14.39,53.03%,14.61,48.82%,15.08,45.02%,16.93,44.21%,17.16,52.27%,14.54
+Adaptive Strike (Agility),Morphling,skills\morphling_adaptive_strike_agi.png,47.31%,52.04%,32.69,34.24,48.58%,33.09,43.48%,31.05,40.16%,30.81,43.12%,32.61,49.16%,32.73
+Adaptive Strike (Strength),Morphling,skills\morphling_adaptive_strike_str.png,48.93%,53.90%,32.37,32.9,47.89%,32.01,48.42%,32.27,49.39%,32.5,49.16%,32.53,48.53%,32.05
+Aether Remnant,Void Spirit,skills\void_spirit_aether_remnant.png,50.72%,56.22%,30.95,30.36,50.96%,31.33,50.22%,30.47,51.48%,31.47,50.17%,31.23,51.40%,30.62
+Aftershock,Earthshaker,skills\earthshaker_aftershock.png,55.52%,61.00%,7.16,5.57,54.93%,7.51,53.60%,7.17,56.71%,7.01,56.53%,7.03,53.36%,7.45
+Alacrity (AD),Invoker,skills\invoker_alacrity.png,48.99%,53.39%,17.67,18.54,48.67%,17.93,50.64%,17.15,45.97%,18.41,44.99%,18.42,50.86%,17.32
+Anchor Smash,Tidehunter,skills\tidehunter_anchor_smash.png,46.81%,51.03%,16.56,16.55,45.85%,18.06,46.20%,19.53,47.20%,15.76,46.90%,16.09,46.16%,20.89
+Ancient Seal,Skywrath Mage,skills\skywrath_mage_ancient_seal.png,49.92%,54.26%,26.17,27.25,49.27%,27.62,50.09%,25.26,50.10%,27.58,49.48%,27.63,50.13%,25.56
+Aphotic Shield,Abaddon,skills\abaddon_aphotic_shield.png,51.03%,57.53%,28.47,27.6,50.65%,29.26,51.68%,28.2,50.90%,28.24,50.61%,28.37,51.78%,28.65
+Arc Lightning,Zeus,skills\zuus_arc_lightning.png,45.46%,49.62%,24.72,25.26,44.66%,24.79,45.36%,24.95,46.60%,23.79,45.87%,23.97,45.34%,24.97
+Arcane Aura,Crystal Maiden,skills\crystal_maiden_brilliance_aura.png,49.58%,54.38%,27.01,28.93,50.10%,27.96,49.14%,26.2,49.98%,27.67,50.13%,27.83,49.24%,26.48
+Arcane Bolt,Skywrath Mage,skills\skywrath_mage_arcane_bolt.png,47.61%,52.43%,22.73,23.55,46.42%,24.1,47.95%,22.51,46.20%,23.16,46.62%,23.45,47.81%,22.59
+Arcane Curse,Silencer,skills\silencer_curse_of_the_silent.png,49.71%,54.36%,26.98,27.47,48.55%,27.84,50.61%,26.36,48.28%,27.96,48.01%,27.83,50.44%,26.63
+Arcane Orb,Outworld Devourer,skills\obsidian_destroyer_arcane_orb.png,48.90%,55.66%,24.16,26.33,46.29%,25.09,50.33%,23.66,43.89%,25.9,44.16%,26.18,49.73%,23.81
+Arcane Supremacy,Rubick,skills\rubick_arcane_supremacy.png,49.42%,52.41%,6.44,6,48.71%,7.13,49.49%,6,49.81%,7.19,49.51%,7.16,49.40%,6.15
+Arctic Burn,Winter Wyvern,skills\winter_wyvern_arctic_burn.png,59.80%,64.96%,3.51,2.84,59.89%,3.54,60.89%,3.46,55.43%,3.66,54.13%,3.7,61.19%,3.47
+Arena Of Blood,Mars,skills\mars_arena_of_blood.png,49.99%,54.87%,30.12,30.99,49.22%,30.69,48.79%,30.18,50.92%,29.79,50.18%,29.95,49.66%,30.42
+Assassinate,Sniper,skills\sniper_assassinate.png,47.68%,52.18%,20.22,21.09,47.31%,21.4,47.97%,19.06,47.75%,20.55,47.57%,20.39,47.76%,20.12
+Astral Imprisonment,Outworld Devourer,skills\obsidian_destroyer_astral_imprisonment.png,49.12%,53.78%,15.75,13.03,47.21%,16.45,49.94%,15.29,48.81%,16.27,48.15%,16.23,49.63%,15.5
+Astral Spirit,Elder Titan,skills\elder_titan_ancestral_spirit.png,49.35%,55.13%,26.12,25.08,50.60%,26.82,49.71%,26.71,48.39%,25.36,48.20%,25.69,51.02%,26.73
+Astral Step,Void Spirit,skills\void_spirit_astral_step.png,53.90%,58.09%,9.9,7.75,54.53%,10.86,51.82%,9.54,55.88%,9.59,53.79%,9.19,54.22%,11.63
+Atrophy Aura,Underlord,skills\abyssal_underlord_atrophy_aura.png,54.69%,60.11%,5.19,5.12,57.56%,5.13,55.96%,5.36,51.79%,5.15,51.85%,5.16,58.85%,5.23
+Avalanche,Tiny,skills\tiny_avalanche.png,53.07%,57.89%,17.27,16.1,53.17%,17.96,53.30%,16.96,52.90%,17.15,52.83%,17.2,53.48%,17.38
+Bad Juju,Dazzle,skills\dazzle_bad_juju.png,43.26%,46.83%,13.78,13.03,42.48%,14.85,43.66%,12.82,43.25%,14.52,42.61%,14.5,43.72%,13.28
+Ball Lightning,Storm Spirit,skills\storm_spirit_ball_lightning.png,50.41%,55.28%,16.94,16.98,50.70%,20.67,50.73%,15.52,48.65%,19.6,48.55%,19.53,50.93%,16.24
+Bash of the Deep,Slardar,skills\slardar_bash.png,51.69%,55.17%,2.5,2.72,54.82%,2.48,52.63%,2.48,47.64%,2.52,47.66%,2.53,55.09%,2.46
+Battery Assault,Clockwerk,skills\rattletrap_battery_assault.png,50.63%,55.21%,22.41,21.9,48.32%,23.77,48.01%,23.65,51.72%,21.83,51.09%,22.14,47.64%,24.24
+Battle Hunger,Axe,skills\axe_battle_hunger.png,47.61%,52.27%,28.17,29.37,47.18%,28.85,47.27%,27.21,48.07%,28.41,47.79%,28.54,47.38%,27.63
+Battle Trance,Troll Warlord,skills\troll_warlord_battle_trance.png,48.89%,53.16%,23.59,26.72,49.00%,23.49,51.54%,23.7,46.06%,23.68,45.65%,23.61,50.71%,23.57
+Berserker's Blood,Huskar,skills\huskar_berserkers_blood.png,53.83%,57.53%,4.29,4.56,53.11%,4.61,52.71%,4.66,54.35%,4.1,54.36%,4.18,53.13%,4.45
+Berserker's Call,Axe,skills\axe_berserkers_call.png,52.45%,56.12%,19.34,17.79,50.07%,20.27,48.72%,20.32,53.51%,18.99,53.15%,19.14,47.44%,20.79
+Black Hole,Enigma,skills\enigma_black_hole.png,50.68%,54.57%,12.8,12.53,51.29%,13.68,49.82%,11.93,51.90%,13.83,51.65%,13.8,50.07%,12.15
+Blade Dance,Juggernaut,skills\juggernaut_blade_dance.png,46.57%,52.79%,18.92,23.06,47.57%,18.97,46.62%,18.61,44.43%,19.11,45.48%,19.26,47.93%,18.51
+Blade Fury,Juggernaut,skills\juggernaut_blade_fury.png,55.09%,59.41%,7.84,6.16,55.07%,7.84,52.63%,8.35,56.25%,7.62,56.14%,7.55,51.84%,8.77
+Blast Off!,Techies,skills\techies_suicide.png,49.35%,53.91%,19.15,17.14,49.06%,19.62,48.63%,18.4,50.31%,19.62,49.97%,19.58,48.69%,18.66
+Blink (AM),Anti-Mage,skills\antimage_blink.png,51.18%,54.72%,6.62,5.91,49.88%,6.61,52.58%,6.63,51.75%,6.62,50.33%,6.46,52.68%,6.9
+Blink (QoP),Queen of Pain,skills\queenofpain_blink.png,54.20%,59.34%,5.44,4.63,53.12%,5.72,54.25%,5.34,55.02%,5.37,54.30%,5.38,54.16%,5.48
+Blink Strike,Riki,skills\riki_blink_strike.png,48.96%,54.48%,19.61,20.29,47.88%,19.31,47.56%,21.12,50.66%,19.54,48.94%,19.09,49.13%,21.87
+Blood Rite,Bloodseeker,skills\bloodseeker_blood_bath.png,49.99%,54.55%,28.01,28.45,49.44%,28.15,50.52%,27.48,50.12%,28.48,49.66%,28.23,50.43%,27.76
+Bloodlust,Ogre Magi,skills\ogre_magi_bloodlust.png,49.53%,54.63%,23.35,24.04,50.53%,23.59,50.24%,22.8,47.24%,23.85,46.37%,23.54,52.67%,23.15
+Bloodrage,Bloodseeker,skills\bloodseeker_bloodrage.png,46.67%,51.71%,23.64,24.55,47.48%,23.69,47.94%,23.05,43.75%,24.25,43.76%,23.85,49.59%,23.43
+Blur,Phantom Assassin,skills\phantom_assassin_blur.png,53.15%,58.39%,18,17.62,53.18%,18.16,54.40%,17.65,51.94%,18.13,51.25%,18.1,55.26%,17.9
+Borrowed Time,Abaddon,skills\abaddon_borrowed_time.png,56.12%,60.20%,11.51,10.7,56.80%,12.41,57.78%,12.36,55.22%,10.79,55.04%,10.94,58.50%,12.77
+Boulder Smash,Earth Spirit,skills\earth_spirit_boulder_smash.png,44.79%,50.09%,32.28,33.7,43.38%,32.56,45.00%,32.38,45.48%,32.08,44.81%,32.18,44.85%,32.45
+Boundless Strike,Monkey King,skills\monkey_king_boundless_strike.png,50.64%,56.65%,17.74,18.09,51.61%,17.88,51.10%,18.02,48.92%,17.34,50.09%,17.29,51.61%,18.5
+Brain Sap,Bane,skills\bane_brain_sap.png,50.14%,53.69%,25.27,26.5,48.36%,26.63,50.71%,24.25,50.14%,26.88,49.53%,26.93,50.44%,24.5
+Bramble Maze,Dark Willow,skills\dark_willow_bramble_maze.png,52.47%,57.10%,23.44,24.23,52.29%,24.2,52.02%,22.74,53.68%,24.26,53.04%,24.2,52.20%,23.04
+Breathe Fire,Dragon Knight,skills\dragon_knight_breathe_fire.png,46.43%,53.15%,32.43,34.02,45.83%,32.74,46.64%,31.9,46.64%,32.62,46.11%,32.66,46.89%,32.13
+Bristleback,Bristleback,skills\bristleback_bristleback.png,49.95%,54.18%,19,22.61,50.26%,21.24,51.07%,21.89,49.68%,17.86,49.81%,18.23,50.65%,22.54
+Bulldoze,Spirit Breaker,skills\spirit_breaker_bulldoze.png,49.99%,54.85%,28.86,28.58,50.40%,29.32,50.94%,29.11,49.35%,28.47,48.84%,28.7,51.89%,29.14
+Bulwark,Mars,skills\mars_bulwark.png,54.91%,59.80%,6.34,6.29,51.66%,7.28,51.48%,7.78,56.40%,5.84,55.63%,5.97,51.05%,8.39
+Burning Barrage,Clinkz,skills\clinkz_strafe.png,46.55%,51.37%,23.27,23.73,45.64%,23.05,48.44%,23.23,46.15%,24.04,45.44%,24.13,46.92%,23.01
+Burning Spear,Huskar,skills\huskar_burning_spear.png,47.80%,53.68%,23.66,26.1,47.90%,23.93,46.84%,22.25,48.32%,24.31,48.65%,25.71,47.42%,22.7
+Burrowstrike,Sand King,skills\sandking_burrowstrike.png,53.67%,57.28%,3.78,2.82,53.51%,3.81,52.74%,3.79,54.28%,3.75,54.15%,3.73,52.82%,3.86
+Bushwhack,Hoodwink,skills\hoodwink_bushwhack.png,49.16%,54.11%,28.44,27.45,50.86%,28.64,48.28%,27.86,47.61%,28.94,47.61%,28.96,50.00%,28.16
+Call Down,Gyrocopter,skills\gyrocopter_call_down.png,48.78%,53.92%,32.42,33.92,49.74%,32.41,48.01%,32.17,48.25%,32.71,47.33%,32.65,49.69%,32.27
+Call of the Wild Hawk,Beastmaster,skills\beastmaster_call_of_the_wild_hawk.png,45.09%,49.39%,32.74,34.29,45.95%,32.88,45.28%,32.73,44.46%,32.66,44.50%,32.62,45.77%,32.87
+Caustic Finale,Sand King,skills\sandking_caustic_finale.png,50.93%,56.43%,10.8,11.67,52.90%,10.68,51.01%,10.52,48.63%,11.23,48.57%,11.19,52.92%,10.48
+Celestial Hammer,Dawnbreaker,skills\dawnbreaker_celestial_hammer.png,49.03%,54.87%,29.6,28.72,48.96%,30.08,48.96%,29.28,49.12%,29.52,48.96%,29.59,49.20%,29.62
+Chain Frost,Lich,skills\lich_chain_frost.png,54.52%,58.52%,20.92,22.35,54.35%,22.61,54.33%,19.66,55.14%,22.49,54.90%,22.44,54.34%,20.16
+Chakra Magic,Keeper of the Light,skills\keeper_of_the_light_chakra_magic.png,48.57%,52.96%,9.86,9.03,48.61%,10.48,48.31%,9.35,49.17%,10.5,48.88%,10.47,48.42%,9.52
+Chakram,Timbersaw,skills\shredder_chakram.png,50.35%,55.47%,27.38,26.29,49.77%,27.9,50.37%,26.49,50.58%,27.72,50.66%,27.74,49.85%,26.76
+Chaos Bolt,Chaos Knight,skills\chaos_knight_chaos_bolt.png,51.19%,55.26%,10.1,8.79,50.25%,10.63,51.35%,9.56,51.64%,10.31,51.20%,10.29,51.22%,9.89
+Chaos Meteor (AD),Invoker,skills\invoker_chaos_meteor.png,48.54%,53.02%,20.12,20.48,47.37%,20.92,48.98%,19.33,48.50%,21.28,47.79%,21.3,48.94%,19.51
+Chaos Strike,Chaos Knight,skills\chaos_knight_chaos_strike.png,51.52%,57.36%,9.42,10.8,53.66%,9.34,51.82%,9.84,49.42%,9.27,49.34%,9.24,54.26%,9.65
+Chaotic Offering,Warlock,skills\warlock_rain_of_chaos.png,54.18%,57.89%,13.4,13.82,53.43%,15.09,54.93%,12.22,52.77%,15.32,52.98%,15.07,54.73%,12.66
+Charge of Darkness,Spirit Breaker,skills\spirit_breaker_charge_of_darkness.png,50.41%,54.48%,9.45,8.32,50.33%,10.24,49.91%,10.27,50.60%,8.96,50.49%,9.07,50.20%,10.74
+Chemical Rage,Alchemist,skills\alchemist_chemical_rage.png,53.33%,57.65%,9.84,10.22,55.87%,9.99,55.27%,10.45,50.40%,9.41,50.99%,9.5,56.65%,10.32
+Chilling Touch,Ancient Apparition,skills\ancient_apparition_chilling_touch.png,49.73%,53.39%,8.64,10.1,49.52%,10.1,50.15%,7.94,46.69%,11.27,44.85%,12.34,50.19%,8.3
+Chronosphere,Faceless Void,skills\faceless_void_chronosphere.png,49.59%,55.36%,25.7,26.41,49.56%,25.84,49.52%,25.45,49.74%,25.68,48.92%,25.7,50.46%,25.69
+Cinder Brew,Brewmaster,skills\brewmaster_cinder_brew.png,48.48%,52.45%,29.71,30.41,47.20%,30.2,49.15%,29.51,48.78%,29.57,48.12%,29.7,49.00%,29.73
+Cloak and Dagger,Riki,skills\riki_backstab.png,55.94%,59.04%,1.95,1.74,56.29%,2,55.44%,1.91,56.04%,1.93,55.85%,1.97,56.08%,1.93
+Cold Embrace,Winter Wyvern,skills\winter_wyvern_cold_embrace.png,48.50%,53.14%,31.54,32.06,47.74%,32.04,48.77%,31.14,48.68%,31.83,47.73%,31.91,49.01%,31.31
+Cold Feet,Ancient Apparition,skills\ancient_apparition_cold_feet.png,49.62%,55.03%,29.24,29.35,49.17%,29.83,49.77%,28.77,49.72%,29.82,49.30%,29.85,49.80%,28.93
+Cold Snap (AD),Invoker,skills\invoker_cold_snap.png,51.42%,56.20%,23.87,22.79,51.18%,25.16,51.78%,22.84,50.92%,24.81,49.72%,24.98,52.25%,23.35
+Concussive Shot,Skywrath Mage,skills\skywrath_mage_concussive_shot.png,52.42%,56.37%,24.91,24.9,51.41%,26.26,52.75%,23.96,52.45%,26.38,51.92%,26.41,52.64%,24.29
+Conjure Image,Terrorblade,skills\terrorblade_conjure_image.png,48.87%,56.32%,27.6,28.42,50.95%,27.43,47.98%,27.77,43.79%,27.9,47.05%,27.45,50.86%,27.75
+Corrosive Haze,Slardar,skills\slardar_amplify_damage.png,49.99%,54.97%,26.84,29.01,50.60%,26.89,50.19%,26.62,49.39%,26.95,48.71%,26.99,51.49%,26.67
+Corrosive Skin,Viper,skills\viper_corrosive_skin.png,54.28%,58.41%,19.95,21.89,54.19%,20.95,53.21%,21.24,54.76%,18.74,54.36%,19.05,54.19%,21.46
+Counter Helix,Axe,skills\axe_counter_helix.png,52.61%,55.96%,10.63,12,50.74%,12.31,49.94%,13.07,53.25%,10.08,52.90%,10.32,48.97%,14.81
+Counterspell,Anti-Mage,skills\antimage_counterspell.png,52.42%,56.77%,23.96,24.09,51.87%,24.52,52.48%,24.29,52.99%,23.19,51.79%,23.55,53.57%,24.68
+Coup de Grace,Phantom Assassin,skills\phantom_assassin_coup_de_grace.png,44.64%,50.50%,12.19,16.4,45.07%,11.72,44.91%,12.65,43.55%,12.77,43.28%,12.13,46.37%,12.26
+Crippling Fear,Night Stalker,skills\night_stalker_crippling_fear.png,48.14%,54.28%,33.43,34.66,47.47%,33.76,47.31%,32.93,48.66%,33.4,48.29%,33.53,47.64%,33.03
+Crypt Swarm,Death Prophet,skills\death_prophet_carrion_swarm.png,47.77%,52.95%,29.52,30.57,45.07%,30.14,48.86%,29.21,46.35%,30.07,45.91%,30.19,48.45%,29.29
+Crystal Nova,Crystal Maiden,skills\crystal_maiden_crystal_nova.png,51.37%,56.03%,28.15,27.35,51.11%,28.92,51.19%,27.65,52.23%,28.97,51.62%,28.98,51.29%,27.82
+Culling Blade,Axe,skills\axe_culling_blade.png,46.93%,50.79%,27.04,28.84,44.64%,27.58,44.33%,26.94,48.31%,26.86,47.54%,27,44.35%,27.22
+Curse of Avernus,Abaddon,skills\abaddon_frostmourne.png,49.83%,54.88%,9.97,11.18,52.12%,9.83,50.13%,9.7,46.54%,10.45,46.92%,10.33,51.92%,9.72
+Cursed Crown,Dark Willow,skills\dark_willow_cursed_crown.png,48.11%,53.85%,31.41,31.98,47.95%,31.96,48.27%,30.94,48.04%,31.83,47.60%,31.91,48.43%,31.13
+Dark Ascension,Night Stalker,skills\night_stalker_darkness.png,49.27%,55.09%,27.29,29.06,50.30%,27.47,50.31%,26.96,47.84%,27.33,47.29%,27.46,51.61%,27.08
+Dark Pact,Slark,skills\slark_dark_pact.png,49.77%,55.46%,29.95,29.38,48.08%,30.25,50.69%,29.13,51.28%,29.98,49.12%,29.97,51.42%,29.9
+Deafening Blast,Invoker,skills\invoker_deafening_blast_ad.png,47.37%,49.78%,30.12,31.54,47.03%,30.9,47.99%,29.68,45.97%,30.64,45.69%,30.66,48.04%,29.91
+Death Pact,Clinkz,skills\clinkz_death_pact.png,52.21%,57.19%,21.86,21.14,52.23%,21.6,54.05%,22.14,50.49%,22.06,50.38%,22,53.37%,21.78
+Death Pulse,Necrophos,skills\necrolyte_death_pulse.png,48.94%,54.76%,26.43,26.26,50.13%,26.97,46.40%,26.06,52.57%,26.74,52.08%,26.79,46.75%,26.18
+Death Ward,Witch Doctor,skills\witch_doctor_death_ward.png,49.06%,52.64%,19.84,22.64,48.24%,20.83,49.00%,18.78,49.87%,21.17,49.54%,21.05,48.79%,19.11
+Decay,Undying,skills\undying_decay.png,47.68%,52.30%,16.01,16.57,47.56%,17.94,47.47%,16.72,47.80%,15.31,47.66%,15.61,47.79%,17.04
+Decrepify,Pugna,skills\pugna_decrepify.png,45.35%,49.44%,23.32,23.88,44.89%,24.22,45.36%,22.47,45.77%,24.74,45.63%,24.73,45.24%,22.62
+Defense Matrix,Tinker,skills\tinker_defense_matrix.png,47.17%,51.48%,33.59,35.1,47.93%,33.99,46.44%,33.56,47.47%,33.29,46.76%,33.43,47.55%,33.73
+Demonic Conversion,Enigma,skills\enigma_demonic_conversion.png,44.03%,50.08%,30.4,32.63,44.01%,30.74,43.79%,30.26,44.74%,30.48,44.28%,30.65,43.94%,30.29
+Demonic Purge,Shadow Demon,skills\shadow_demon_demonic_purge.png,50.32%,54.43%,24.93,23.31,49.79%,26,50.41%,24.02,50.65%,25.67,50.03%,25.74,50.50%,24.44
+Desolate,Spectre,skills\spectre_desolate.png,49.97%,56.09%,25.16,27.11,50.34%,24.93,51.16%,25.01,47.67%,25.91,45.71%,25.34,53.53%,25.02
+Devour,Doom,skills\doom_bringer_devour.png,51.83%,55.58%,8.88,7.18,52.61%,9.32,52.69%,9.29,50.95%,8.41,50.58%,8.45,53.92%,9.58
+Diabolic Edict,Leshrac,skills\leshrac_diabolic_edict.png,47.04%,53.07%,29.72,31.64,45.80%,30.41,47.12%,28.79,47.77%,30.59,47.19%,30.63,46.94%,28.93
+Dismember,Pudge,skills\pudge_dismember.png,47.96%,52.65%,25.8,25.56,47.61%,26.05,47.34%,25.68,48.26%,25.76,48.27%,25.81,47.02%,25.77
+Dispersion,Spectre,skills\spectre_dispersion.png,56.64%,59.78%,7.42,7.41,54.38%,7.55,56.32%,8.95,58.51%,7.03,56.72%,7.08,56.27%,9.48
+Dispose,Marci,skills\marci_grapple.png,51.54%,55.71%,18.34,15.84,50.91%,18.88,49.72%,18.4,52.53%,18.07,52.07%,18.14,50.18%,18.86
+Disruption,Shadow Demon,skills\shadow_demon_disruption.png,53.49%,57.99%,19.76,16.11,53.26%,20.94,53.75%,18.83,53.18%,20.7,52.97%,20.5,53.78%,19.38
+Dissimilate,Void Spirit,skills\void_spirit_dissimilate.png,48.66%,53.09%,25.68,25.73,49.32%,26.4,48.06%,24.9,49.08%,26.32,47.61%,25.81,49.91%,25.53
+Divine Favor,Chen,skills\chen_divine_favor.png,51.14%,55.74%,31.37,33.57,51.01%,31.94,51.00%,31.24,51.39%,31.09,50.76%,31.33,51.59%,31.42
+Doom,Doom,skills\doom_bringer_doom.png,48.73%,53.70%,23.47,25.15,48.77%,24.31,49.31%,23.06,48.31%,23.26,47.92%,23.41,49.80%,23.53
+Doppelganger,Phantom Lancer,skills\phantom_lancer_doppelwalk.png,53.63%,59.09%,21.68,20.56,53.86%,21.4,54.50%,21.49,52.11%,22.55,51.04%,21.86,56.25%,21.49
+Double Edge,Centaur Warrunner,skills\centaur_double_edge.png,49.18%,53.37%,28.02,28.75,46.86%,28.99,46.08%,28.24,49.70%,27.89,49.60%,28,44.89%,28.2
+Dragon Blood,Dragon Knight,skills\dragon_knight_dragon_blood.png,50.26%,55.04%,13.28,16.01,49.51%,14.69,51.03%,15.12,50.37%,12.32,49.94%,12.55,51.31%,15.56
+Dragon Slave,Lina,skills\lina_dragon_slave.png,46.01%,50.79%,28.29,29.77,44.36%,28.74,47.02%,27.97,43.98%,29.07,43.71%,29.22,46.75%,28
+Dragon Tail,Dragon Knight,skills\dragon_knight_dragon_tail.png,52.26%,57.07%,20.93,17.91,52.21%,21.31,50.59%,20.87,52.97%,20.75,52.87%,20.74,50.85%,21.37
+Dream Coil,Puck,skills\puck_dream_coil.png,48.06%,51.87%,29.46,29.83,49.01%,30.23,47.21%,28.75,48.89%,30.14,48.48%,30.15,47.86%,29.09
+Drunken Brawler,Brewmaster,skills\brewmaster_drunken_brawler.png,46.52%,51.07%,15.86,17.7,46.43%,16.05,47.25%,16.34,46.23%,15.48,45.44%,15.57,48.01%,16.26
+Dual Breath,Jakiro,skills\jakiro_dual_breath.png,49.28%,53.41%,24.16,23.55,48.55%,25.33,49.79%,23.41,48.53%,25.3,48.44%,25.33,49.66%,23.66
+Duel,Legion Commander,skills\legion_commander_duel.png,47.31%,51.78%,8.97,9.9,47.01%,9.62,44.13%,10.63,47.93%,8.46,47.72%,8.54,45.26%,11.19
+E.M.P. (AD),Invoker,skills\invoker_emp.png,50.04%,56.00%,31.44,32.36,49.01%,31.66,50.24%,31.11,50.46%,32.01,50.16%,31.94,49.99%,31.19
+Earth Spike,Lion,skills\lion_impale.png,53.00%,57.55%,11.12,9.66,53.25%,11.43,52.62%,10.92,53.68%,11.3,53.70%,11.23,52.63%,11.06
+Earth Splitter,Elder Titan,skills\elder_titan_earth_splitter.png,48.28%,52.83%,32.68,34.24,48.56%,33.08,48.74%,32.34,47.84%,32.7,47.63%,32.74,49.13%,32.62
+Earthbind,Meepo,skills\meepo_earthbind.png,43.77%,50.34%,32.56,35.3,44.00%,32.66,42.77%,32.18,44.44%,32.81,43.98%,32.74,43.52%,32.32
+Earthshock,Ursa,skills\ursa_earthshock.png,49.31%,54.94%,28.52,27.91,48.45%,28.42,49.87%,29.27,50.10%,28.4,48.90%,28.2,51.04%,29.76
+Echo Slam,Earthshaker,skills\earthshaker_echo_slam.png,46.88%,52.92%,31.51,34.81,45.30%,31.72,44.87%,31.03,48.43%,31.62,47.78%,31.74,44.86%,30.98
+Echo Stomp,Elder Titan,skills\elder_titan_echo_stomp_spirit.png,45.62%,50.54%,31.34,32.62,45.10%,31.52,45.30%,31.17,46.01%,31.35,45.88%,31.41,45.10%,31.18
+Eclipse,Luna,skills\luna_eclipse.png,48.32%,53.31%,31.31,33.46,48.98%,31.18,47.98%,31.33,47.85%,31.5,47.14%,31.48,48.99%,31.22
+Elder Dragon Form,Dragon Knight,skills\dragon_knight_elder_dragon_form.png,51.00%,56.22%,6.68,6.01,52.95%,6.61,52.61%,6.39,47.19%,7.06,46.21%,7.18,54.29%,6.33
+Electric Vortex,Storm Spirit,skills\storm_spirit_electric_vortex.png,49.76%,54.19%,23.85,23.63,49.82%,24.52,48.79%,23.19,51.13%,24.32,50.70%,24.34,49.00%,23.44
+Empower,Magnus,skills\magnataur_empower.png,51.42%,56.25%,13.87,12.98,51.21%,14.18,49.13%,17.41,51.92%,13.13,51.73%,13.05,49.72%,18.53
+Enchant,Enchantress,skills\enchantress_enchant.png,46.36%,52.52%,32.99,34.03,47.18%,33.39,46.35%,32.79,45.55%,32.92,45.54%,33.03,46.90%,32.98
+Enchant Totem,Earthshaker,skills\earthshaker_enchant_totem.png,45.84%,51.52%,10.38,11.36,44.27%,11.02,44.23%,11.01,47.55%,9.72,46.61%,9.88,44.63%,11.21
+Enfeeble,Bane,skills\bane_enfeeble.png,46.50%,52.26%,33.37,35.06,47.02%,33.55,46.72%,33.34,45.75%,33.29,45.28%,33.33,47.31%,33.41
+Enrage,Ursa,skills\ursa_enrage.png,51.36%,56.16%,23.79,23.45,51.13%,23.81,52.70%,24.36,50.79%,23.38,49.62%,23.29,53.91%,24.51
+Ensnare,Naga Siren,skills\naga_siren_ensnare.png,49.77%,54.39%,23.04,22.6,50.54%,23.62,49.26%,22.12,49.54%,23.56,49.97%,23.5,49.62%,22.61
+Epicenter,Sand King,skills\sandking_epicenter.png,49.32%,53.98%,29.6,31.08,49.03%,30.07,47.69%,29.45,50.01%,29.45,49.80%,29.59,48.05%,29.62
+Essence Flux,Outworld Devourer,skills\obsidian_destroyer_equilibrium.png,47.89%,52.80%,6.93,7.56,45.26%,7.74,49.83%,6.54,43.66%,7.5,43.40%,7.54,49.39%,6.73
+Essence Shift,Slark,skills\slark_essence_shift.png,49.57%,53.41%,5.35,6,50.22%,4.95,48.87%,6.06,47.64%,6.17,45.70%,5.42,52.92%,5.28
+Ether Shock,Shadow Shaman,skills\shadow_shaman_ether_shock.png,45.42%,50.14%,30.09,31.63,44.19%,30.46,45.92%,29.93,44.68%,30.42,44.42%,30.46,45.76%,29.98
+Exorcism,Death Prophet,skills\death_prophet_exorcism.png,50.52%,54.86%,12.79,14.2,49.73%,14,50.62%,12.1,50.92%,12.91,50.64%,13.07,50.45%,12.55
+Eye of the Storm,Razor,skills\razor_eye_of_the_storm.png,49.08%,53.96%,25.66,26.77,48.28%,26.05,46.49%,25.73,51.02%,25.27,50.13%,25.4,47.60%,26.04
+Fade Bolt,Rubick,skills\rubick_fade_bolt.png,47.42%,50.73%,28.37,30.08,47.35%,29.28,47.69%,27.92,46.57%,29.21,46.91%,29.29,47.61%,28.07
+False Promise,Oracle,skills\oracle_false_promise.png,50.38%,56.24%,32.31,32.95,49.86%,32.81,50.98%,31.81,49.99%,32.61,48.91%,32.81,51.22%,32.04
+Fatal Bonds,Warlock,skills\warlock_fatal_bonds.png,49.38%,52.04%,26.61,27.85,47.98%,27.61,50.09%,25.86,48.95%,27.56,48.50%,27.54,49.83%,26.15
+Fate's Edict,Oracle,skills\oracle_fates_edict.png,46.46%,51.47%,33.4,34.16,46.83%,33.91,46.49%,33.08,46.16%,33.46,45.54%,33.56,47.13%,33.29
+Feast,Lifestealer,skills\life_stealer_feast.png,50.34%,55.71%,16.43,19.13,52.56%,16.41,51.31%,17.29,47.67%,15.96,47.49%,15.99,53.68%,16.94
+Feral Impulse,Lycan,skills\lycan_feral_impulse.png,49.94%,53.73%,11.08,11.69,51.94%,11.18,50.52%,11.64,48.14%,10.74,48.30%,10.79,52.40%,11.51
+Fervor,Troll Warlord,skills\troll_warlord_fervor.png,46.78%,51.50%,15.55,19.44,47.26%,15.41,48.04%,15.98,44.23%,15.44,44.13%,15.27,48.14%,15.69
+Fiend's Gate,Underlord,skills\abyssal_underlord_fiends_gate.png,45.09%,51.73%,33.21,34.59,45.91%,33.59,45.71%,32.87,44.13%,33.2,44.07%,33.11,46.31%,33.33
+Fiend's Grip,Bane,skills\bane_fiends_grip.png,53.99%,58.39%,16.28,13.93,52.95%,17.07,54.23%,15.49,54.42%,17.35,54.08%,17.21,53.97%,15.78
+Fiery Soul,Lina,skills\lina_fiery_soul.png,50.06%,54.68%,6.65,6.72,48.28%,6.9,52.12%,6.37,47.75%,6.95,47.74%,7.05,51.23%,6.44
+Finger of Death,Lion,skills\lion_finger_of_death.png,44.26%,46.29%,4.29,4.82,43.47%,4.54,44.66%,4.14,43.91%,4.47,43.74%,4.45,44.53%,4.21
+Fire Remnant,Ember Spirit,skills\ember_spirit_fire_remnant.png,48.13%,53.31%,24.79,23.92,47.29%,24.67,49.09%,24.42,48.47%,25.33,47.15%,24.77,49.45%,24.82
+Fire Spirits,Phoenix,skills\phoenix_fire_spirits.png,44.81%,50.82%,31.27,32.49,44.24%,31.8,44.38%,31.03,45.36%,31.2,45.29%,31.89,44.56%,30.9
+Fireblast,Ogre Magi,skills\ogre_magi_fireblast.png,48.19%,53.81%,22.73,25.82,47.99%,24.45,48.23%,21.51,48.28%,24.3,48.23%,22.56,48.14%,23.01
+Firefly,Batrider,skills\batrider_firefly.png,48.16%,54.62%,29.89,31.02,48.28%,30.74,47.93%,29.24,48.42%,30.15,48.06%,30.15,48.26%,29.69
+Firesnap Cookie,Snapfire,skills\snapfire_firesnap_cookie.png,48.90%,53.17%,31.18,30.6,48.23%,31.42,47.73%,30.82,49.97%,31.26,48.60%,31.22,49.24%,31.14
+Firestorm,Underlord,skills\abyssal_underlord_firestorm.png,54.45%,58.97%,12.33,9.72,52.93%,13.2,54.08%,11.97,55.44%,12.22,54.87%,12.33,53.94%,12.32
+Fissure,Earthshaker,skills\earthshaker_fissure.png,51.26%,56.43%,20,19.46,50.06%,20.88,51.74%,19.26,51.48%,20.28,50.92%,20.32,51.62%,19.7
+Flak Cannon,Gyrocopter,skills\gyrocopter_flak_cannon.png,51.69%,55.99%,10.23,8.94,54.23%,9.57,48.13%,10.52,48.35%,12.37,47.04%,12.68,52.72%,9.69
+Flame Guard,Ember Spirit,skills\ember_spirit_flame_guard.png,47.42%,52.16%,27.71,28.91,47.02%,27.95,46.84%,27.09,48.16%,27.74,47.44%,27.69,47.41%,27.78
+Flamebreak,Batrider,skills\batrider_flamebreak.png,44.27%,49.70%,32.62,33.44,43.43%,32.68,44.66%,32.62,44.08%,32.58,43.39%,32.57,44.72%,32.65
+Flaming Lasso,Batrider,skills\batrider_flaming_lasso.png,46.63%,52.06%,30.91,31.86,45.84%,31.02,46.27%,30.55,47.67%,31.29,46.96%,31.35,46.36%,30.53
+Flesh Golem,Undying,skills\undying_flesh_golem.png,54.75%,58.99%,15.99,15.39,55.21%,16.12,55.08%,16.13,54.35%,15.84,53.35%,16.01,56.94%,15.96
+Flesh Heap,Pudge,skills\pudge_flesh_heap.png,47.86%,52.20%,10.89,13.57,47.32%,12.75,47.74%,12.76,48.03%,10.14,47.79%,10.43,48.22%,12.92
+Flux,Arc Warden,skills\arc_warden_flux.png,46.97%,52.25%,31.82,33.33,48.13%,31.81,45.58%,31.33,46.47%,32.49,46.03%,32.56,47.44%,31.46
+Focus Fire,Windranger,skills\windrunner_focusfire.png,43.34%,48.81%,16.95,20.54,42.80%,17.71,44.23%,16.21,41.15%,18.2,40.36%,18.48,44.12%,16.55
+Forge Spirit (AD),Invoker,skills\invoker_forge_spirit.png,42.96%,47.33%,30.82,32.35,39.98%,31.38,43.96%,30.74,43.51%,30.51,42.95%,30.63,43.00%,30.92
+Fortune's End,Oracle,skills\oracle_fortunes_end.png,51.30%,56.00%,25.86,23.74,51.02%,26.79,51.45%,25.04,51.22%,27.23,51.28%,27.07,51.33%,25.32
+Freezing Field,Crystal Maiden,skills\crystal_maiden_freezing_field.png,51.83%,56.07%,25.38,26.33,52.22%,25.78,50.36%,24.89,53.64%,25.78,53.41%,25.73,50.54%,25.09
+Frost Arrows,Drow Ranger,skills\drow_ranger_frost_arrows.png,50.80%,55.64%,21.85,23.56,52.72%,22.13,49.34%,21,45.92%,23.06,44.24%,23.67,51.91%,21.55
+Frost Blast,Lich,skills\lich_frost_nova.png,47.89%,52.74%,30.47,30.91,47.21%,31.48,48.28%,29.98,47.05%,31.46,46.99%,31.53,48.19%,30.14
+Frost Shield,Lich,skills\lich_frost_shield.png,47.99%,53.23%,31.13,32.13,48.00%,31.79,47.87%,30.77,48.13%,31.09,47.94%,31.23,48.07%,31.02
+Frostbite,Crystal Maiden,skills\crystal_maiden_frostbite.png,52.25%,55.59%,7.53,6.61,52.17%,7.88,51.76%,7.23,53.39%,7.88,53.00%,7.79,51.83%,7.38
+Fury Swipes,Ursa,skills\ursa_fury_swipes.png,53.02%,58.46%,2.9,3.04,54.63%,2.87,53.71%,2.9,49.08%,2.98,48.75%,2.96,56.36%,2.85
+Geminate Attack,Weaver,skills\weaver_geminate_attack.png,47.95%,52.76%,11.51,13.86,47.78%,11.3,49.59%,11.55,46.08%,11.94,45.35%,11.97,49.12%,11.3
+Geomagnetic Grip,Earth Spirit,skills\earth_spirit_geomagnetic_grip.png,40.55%,46.30%,29.38,31.14,40.45%,28.81,40.47%,29.08,40.80%,29.92,40.26%,29.74,41.08%,28.91
+Ghost Shroud,Necrophos,skills\necrolyte_sadist.png,49.60%,55.36%,30.66,32.22,50.22%,31.41,47.62%,30.1,52.54%,31.11,52.35%,31.26,47.70%,30.24
+Ghost Walk (AD),Invoker,skills\invoker_ghost_walk.png,48.98%,55.12%,26.3,28.28,48.15%,27.09,49.90%,25.8,48.10%,26.48,47.26%,26.53,49.99%,26.17
+Ghostship,Kunkka,skills\kunkka_ghostship.png,50.49%,55.65%,30.21,31.01,49.68%,30.74,50.48%,30.02,50.98%,30.03,50.29%,30.13,50.79%,30.31
+Ghoul Frenzy,Lifestealer,skills\life_stealer_ghoul_frenzy.png,48.84%,53.47%,18.52,20.5,50.07%,18.53,50.30%,18.28,46.38%,18.71,46.11%,18.74,51.32%,18.33
+Glaives of Wisdom,Silencer,skills\silencer_glaives_of_wisdom.png,57.82%,62.43%,3.88,3.68,52.43%,4.41,60.04%,3.69,49.59%,4.46,48.86%,4.57,59.15%,3.78
+Glimpse,Disruptor,skills\disruptor_glimpse.png,47.15%,52.37%,32.23,33.11,47.38%,32.7,47.04%,31.81,47.21%,32.75,46.30%,32.67,47.60%,32.01
+Global Silence,Silencer,skills\silencer_global_silence.png,50.86%,55.48%,31.77,33.4,49.38%,32.32,52.23%,31.51,48.86%,31.89,47.96%,31.96,52.03%,31.7
+God's Rebuke,Mars,skills\mars_gods_rebuke.png,47.51%,52.88%,21.17,21.61,45.93%,22.66,45.27%,23.04,48.48%,20.3,47.83%,20.68,45.87%,23.81
+God's Strength,Sven,skills\sven_gods_strength.png,47.95%,53.95%,19.86,22.03,50.02%,20.11,49.28%,20.42,45.74%,19.41,45.40%,19.71,51.49%,20.08
+Grave Chill,Visage,skills\visage_grave_chill.png,46.80%,52.46%,29.65,30.79,48.00%,30.01,46.46%,28.85,45.68%,30.32,45.33%,30.41,47.78%,29.15
+Gravekeeper's Cloak,Visage,skills\visage_gravekeepers_cloak.png,52.90%,57.99%,21.85,23.19,53.28%,22.85,52.58%,22.02,52.93%,21.07,52.56%,21.39,53.35%,22.41
+Great Cleave,Sven,skills\sven_great_cleave.png,48.27%,53.71%,13.71,14.9,49.88%,13.67,48.83%,16.2,47.28%,13.31,47.48%,13.1,52.19%,16.68
+Greater Bash,Spirit Breaker,skills\spirit_breaker_greater_bash.png,46.44%,50.79%,11.6,14.57,46.94%,11.5,47.16%,11.24,45.59%,11.92,45.10%,11.96,48.00%,11.19
+Greevil's Greed,Alchemist,skills\alchemist_goblins_greed.png,46.76%,51.87%,7.7,7.75,48.20%,7.96,46.47%,7.7,45.99%,7.51,45.99%,7.56,47.90%,7.9
+Grow,Tiny,skills\tiny_grow.png,50.35%,54.86%,11.08,12.55,51.81%,11.31,50.13%,11.41,49.51%,10.8,49.41%,10.97,52.08%,11.26
+Guardian Angel,Omniknight,skills\omniknight_guardian_angel.png,50.70%,55.89%,30.79,31.61,50.50%,31.15,51.13%,30.67,50.58%,30.64,50.19%,30.75,51.35%,30.83
+Guardian Sprint,Slardar,skills\slardar_sprint.png,50.57%,55.58%,27.51,27.22,51.21%,28.05,51.00%,27.36,49.94%,27.25,49.35%,27.47,52.28%,27.57
+Gush,Tidehunter,skills\tidehunter_gush.png,50.49%,53.79%,15.51,14.1,49.67%,16.49,50.69%,14.57,50.80%,16,50.26%,16.07,50.72%,15.01
+Gust,Drow Ranger,skills\drow_ranger_wave_of_silence.png,50.42%,54.62%,32.46,33.88,52.48%,32.54,48.71%,32.24,47.72%,32.64,47.18%,32.69,51.47%,32.39
+Hammer of Purity,Omniknight,skills\omniknight_hammer_of_purity.png,45.01%,49.46%,25.64,26.99,44.35%,26.44,43.65%,24.96,45.89%,25.48,45.14%,25.83,44.77%,25.25
+Hand of God,Chen,skills\chen_hand_of_god.png,50.57%,56.43%,33.07,34.34,50.40%,33.25,50.64%,33.01,50.65%,33.01,49.63%,32.94,51.09%,33.13
+Haunt,Spectre,skills\spectre_haunt.png,52.84%,59.16%,26.28,25.3,53.09%,25.94,53.68%,25.86,51.62%,27.32,49.94%,26.71,56.12%,25.79
+Headshot,Sniper,skills\sniper_headshot.png,48.37%,53.68%,16.54,19.68,50.65%,16.49,45.72%,16.26,45.05%,17.28,43.77%,17.39,49.61%,16.31
+Healing Ward,Juggernaut,skills\juggernaut_healing_ward.png,52.19%,57.61%,33.49,34.86,52.28%,34.06,52.35%,32.84,51.95%,33.34,51.92%,33.82,52.56%,33.08
+Heartstopper Aura,Necrophos,skills\necrolyte_heartstopper_aura.png,58.32%,61.88%,4.08,3.1,59.22%,4.28,54.56%,4.15,61.65%,3.9,61.07%,3.93,55.25%,4.25
+Heat-Seeking Missile,Tinker,skills\tinker_heat_seeking_missile.png,44.47%,49.66%,27.67,30.58,43.48%,28.21,44.63%,27.33,44.88%,28.31,44.20%,28.31,44.59%,27.43
+Heavenly Grace,Omniknight,skills\omniknight_repel.png,51.86%,56.36%,27.79,26.93,51.33%,29.1,52.50%,28.41,51.86%,27.06,51.30%,27.4,53.04%,28.61
+Heavenly Jump,Zeus,skills\zuus_heavenly_jump.png,49.50%,53.92%,30.93,31.43,50.61%,31.36,48.73%,30.45,49.89%,31.39,49.56%,31.4,49.49%,30.65
+Hex (Lion),Lion,skills\lion_voodoo.png,50.13%,54.64%,26.93,27.34,51.13%,27.56,49.68%,26.28,50.14%,27.82,49.91%,27.8,50.25%,26.53
+Hex (Rhasta),Shadow Shaman,skills\shadow_shaman_voodoo.png,50.01%,55.50%,27.25,28.12,50.54%,27.99,49.90%,26.48,49.72%,28.17,49.64%,28.17,50.22%,26.8
+Holy Persuasion,Chen,skills\chen_holy_persuasion.png,42.98%,49.91%,29.24,31.27,43.10%,30.39,43.35%,28.49,42.16%,29.77,41.62%,29.92,43.77%,28.85
+Homing Missile,Gyrocopter,skills\gyrocopter_homing_missile.png,53.04%,56.33%,17.76,16.94,53.56%,18.3,53.09%,16.89,52.40%,18.39,52.22%,18.32,53.59%,17.4
+Hoof Stomp,Centaur Warrunner,skills\centaur_hoof_stomp.png,51.85%,56.99%,20.35,18.88,50.21%,20.77,51.53%,20.72,52.63%,20.08,52.20%,20.14,50.68%,21.12
+Hookshot,Clockwerk,skills\rattletrap_hookshot.png,49.12%,53.61%,26.95,26.02,48.73%,27.88,47.81%,27.19,49.71%,26.47,49.29%,26.7,48.67%,27.66
+Howl,Lycan,skills\lycan_howl.png,47.35%,52.97%,33.54,35.16,48.04%,33.65,48.13%,33.18,46.61%,33.6,46.57%,33.67,48.78%,33.31
+Hunter in the Night,Night Stalker,skills\night_stalker_hunter_in_the_night.png,51.58%,56.39%,7.82,8.37,52.53%,8.12,52.04%,8.42,50.85%,7.39,50.43%,7.49,53.73%,8.41
+Icarus Dive,Phoenix,skills\phoenix_icarus_dive.png,48.03%,52.38%,24.78,24.47,48.42%,26.2,48.16%,24.39,47.76%,24.33,47.48%,25.74,48.37%,24.23
+Ice Blast,Ancient Apparition,skills\ancient_apparition_ice_blast.png,53.46%,57.75%,21.58,18.07,52.92%,22.37,53.25%,21,54.35%,21.95,53.65%,21.96,53.36%,21.35
+Ice Path,Jakiro,skills\jakiro_ice_path.png,51.83%,57.05%,25.46,25.69,51.39%,26.13,51.89%,24.9,52.15%,26.22,51.61%,26.12,51.96%,25.16
+Ice Shards,Tusk,skills\tusk_ice_shards.png,50.25%,54.57%,28.52,27.4,50.20%,29.01,50.15%,27.75,50.39%,28.89,50.01%,28.9,50.54%,28.11
+Ice Vortex,Ancient Apparition,skills\ancient_apparition_ice_vortex.png,52.80%,57.67%,30.08,30.28,52.26%,30.44,52.67%,29.96,53.60%,30.05,53.00%,30.17,52.72%,30.04
+Ice Wall (AD),Invoker,skills\invoker_ice_wall.png,47.59%,54.38%,32.72,33.86,48.54%,32.89,46.26%,32.54,48.93%,32.86,48.40%,32.88,47.02%,32.6
+Ignite,Ogre Magi,skills\ogre_magi_ignite.png,47.59%,52.81%,27.65,30.12,46.32%,28.81,47.84%,26.91,48.08%,28.29,47.73%,28.05,47.46%,27.22
+Illuminate,Keeper of the Light,skills\keeper_of_the_light_illuminate.png,46.55%,50.98%,27.67,29.55,45.54%,28.38,46.91%,27.19,46.39%,28.57,46.20%,28.52,46.71%,27.34
+Illusory Orb,Puck,skills\puck_illusory_orb.png,48.76%,53.60%,25.53,25.76,49.47%,26.97,48.37%,24.41,49.14%,27.01,48.72%,27.01,48.80%,24.87
+Impale,Nyx Assassin,skills\nyx_assassin_impale.png,51.47%,56.73%,15.42,13.21,50.24%,15.41,51.96%,14.97,52.59%,16.02,51.12%,15.49,51.93%,15.34
+Impetus,Enchantress,skills\enchantress_impetus.png,49.76%,54.28%,9.63,10.97,48.31%,11.18,50.33%,9.05,47.26%,11.93,44.05%,13.64,50.04%,9.43
+Infernal Blade,Doom,skills\doom_bringer_infernal_blade.png,54.24%,58.97%,6.47,5.79,54.28%,6.61,55.78%,5.86,51.20%,7.53,50.41%,7.79,55.84%,5.93
+Infest,Lifestealer,skills\life_stealer_infest.png,49.50%,53.90%,24,23.76,48.61%,25.24,50.19%,22.98,49.72%,23.74,49.12%,24.29,50.21%,23.47
+Ink Swell,Grimstroke,skills\grimstroke_spirit_walk.png,51.61%,56.84%,21.31,18.66,51.30%,21.82,50.63%,20.85,52.67%,21.41,52.46%,21.4,50.47%,21.19
+Inner Beast,Beastmaster,skills\beastmaster_inner_beast.png,48.59%,54.23%,27.25,31.27,49.57%,27.48,50.37%,27.15,46.41%,27.1,46.09%,27.23,51.12%,27.27
+Inner Fire,Huskar,skills\huskar_inner_fire.png,52.75%,57.16%,20.41,19.85,52.76%,20.91,53.18%,20.63,52.55%,20.03,53.49%,20.25,51.95%,20.6
+Insatiable Hunger,Broodmother,skills\broodmother_insatiable_hunger.png,50.46%,55.85%,17.37,18.71,51.52%,16.99,51.87%,17.58,47.28%,17.85,47.01%,17.38,53.77%,17.36
+Ion Shell,Dark Seer,skills\dark_seer_ion_shell.png,49.98%,54.56%,14.04,12.64,48.27%,15.07,49.88%,13.23,51.08%,14.5,50.29%,13.72,49.20%,14.88
+Jinada,Bounty Hunter,skills\bounty_hunter_jinada.png,47.31%,51.99%,7.45,9.07,47.27%,7.45,48.36%,7.15,45.57%,7.97,44.51%,7.76,49.24%,7.24
+Jingu Mastery,Monkey King,skills\monkey_king_jingu_mastery.png,45.07%,50.94%,12.36,16.67,46.44%,12.14,45.11%,12.58,41.66%,12.63,43.90%,12.23,46.22%,12.49
+Juxtapose,Phantom Lancer,skills\phantom_lancer_juxtapose.png,49.93%,55.76%,9.96,12.07,51.42%,9.42,50.13%,10.38,44.99%,11.07,45.95%,10.03,53.34%,9.91
+Kinetic Field,Disruptor,skills\disruptor_kinetic_field.png,48.27%,52.05%,30.22,31.67,48.06%,30.98,48.49%,29.74,47.99%,30.7,47.55%,30.72,48.65%,29.97
+Kraken Shell,Tidehunter,skills\tidehunter_kraken_shell.png,55.96%,60.83%,14.1,14.54,55.88%,15.29,57.54%,15.79,55.63%,13.23,55.22%,13.46,58.34%,16.11
+Laguna Blade,Lina,skills\lina_laguna_blade.png,44.94%,49.86%,25.46,29.13,44.25%,26.58,45.29%,24.66,44.73%,26.48,44.29%,26.44,45.25%,25.01
+Laser,Tinker,skills\tinker_laser.png,49.65%,53.95%,20.94,20.79,49.55%,22.23,49.53%,20.07,50.20%,22.28,49.65%,22.26,49.68%,20.38
+Last Word,Silencer,skills\silencer_last_word.png,49.91%,52.76%,25.99,26.66,48.70%,27.16,50.67%,25.25,48.90%,27.05,48.62%,27.11,50.48%,25.51
+Leap,Mirana,skills\mirana_leap.png,51.88%,56.16%,14.55,13.98,53.18%,14.07,51.07%,14.59,49.55%,15.79,48.66%,15.88,53.14%,14.04
+Leech Seed,Treant Protector,skills\treant_leech_seed.png,46.87%,52.47%,33.35,34.73,46.22%,33.77,47.10%,32.93,47.09%,33.35,46.98%,33.53,46.68%,32.98
+Life Break,Huskar,skills\huskar_life_break.png,48.86%,54.84%,27.95,29,47.25%,28.47,45.27%,27.48,50.15%,27.86,50.62%,28.02,45.84%,27.83
+Life Drain,Pugna,skills\pugna_life_drain.png,46.99%,51.00%,19.05,22.12,46.23%,20.43,47.04%,17.91,47.50%,20.4,47.41%,20.4,46.77%,18.26
+Light Strike Array,Lina,skills\lina_light_strike_array.png,52.00%,57.70%,23.12,20.79,51.17%,23.64,52.07%,22.52,52.65%,23.91,52.32%,23.78,51.84%,22.75
+Lightning Bolt,Zeus,skills\zuus_lightning_bolt.png,50.74%,53.89%,10.94,10.55,49.83%,12.34,50.86%,10.22,51.20%,12.78,50.48%,12.53,50.85%,10.45
+Lightning Storm,Leshrac,skills\leshrac_lightning_storm.png,46.46%,52.28%,30.88,32.44,44.57%,31,47.33%,30.9,45.25%,30.72,45.12%,30.82,46.98%,30.9
+Lil' Shredder,Snapfire,skills\snapfire_lil_shredder.png,47.90%,52.79%,9.67,10.41,43.76%,11.83,44.97%,10.83,51.13%,8.19,41.45%,12.53,49.04%,9.16
+Liquid Fire,Jakiro,skills\jakiro_liquid_fire.png,49.30%,55.58%,23.08,26.05,50.20%,24.05,49.33%,22.14,47.87%,24.39,46.78%,24.74,50.11%,22.56
+Living Armor,Treant Protector,skills\treant_living_armor.png,46.43%,51.43%,32.29,34.14,45.89%,32.79,47.39%,32.1,46.18%,32.18,45.80%,32.28,47.43%,32.31
+Lucent Beam,Luna,skills\luna_lucent_beam.png,50.09%,54.04%,14.23,14.59,50.86%,14.13,49.57%,13.7,49.74%,15.24,49.17%,15.13,50.59%,13.75
+Lucky Shot,Pangolier,skills\pangolier_lucky_shot.png,48.01%,52.44%,22.35,26.45,48.06%,22.12,48.81%,22.16,47.07%,23.03,45.24%,22.83,50.45%,21.93
+Luminosity,Dawnbreaker,skills\dawnbreaker_luminosity.png,50.01%,56.06%,20.41,22.87,50.74%,20.37,48.97%,20.7,49.97%,20.29,49.25%,20.33,50.89%,20.51
+Lunar Blessing,Luna,skills\luna_lunar_blessing.png,50.31%,57.21%,27.07,30.18,52.13%,27.02,49.69%,26.9,46.98%,27.35,46.50%,27.35,52.29%,26.92
+Macropyre,Jakiro,skills\jakiro_macropyre.png,54.63%,58.69%,25.07,24.27,53.39%,26.06,55.26%,24.31,54.36%,25.96,53.43%,26.07,55.20%,24.62
+Magic Missile,Vengeful Spirit,skills\vengefulspirit_magic_missile.png,53.69%,57.95%,8.86,7.98,52.87%,8.99,53.75%,8.53,54.78%,9.19,54.16%,9.11,53.44%,8.71
+Magnetic Field,Arc Warden,skills\arc_warden_magnetic_field.png,47.97%,54.07%,31.37,33.03,49.12%,31.22,47.06%,31.34,46.17%,31.89,45.23%,32.04,48.78%,31.18
+Magnetize,Earth Spirit,skills\earth_spirit_magnetize.png,44.88%,51.58%,30.66,32.64,44.11%,30.79,42.66%,29.74,46.06%,30.97,45.59%,31.02,43.29%,29.84
+Maledict,Witch Doctor,skills\witch_doctor_maledict.png,47.93%,52.87%,23.57,24.13,48.29%,24.67,47.51%,22.59,48.57%,24.72,48.40%,24.83,47.68%,22.83
+Malefice,Enigma,skills\enigma_malefice.png,51.36%,56.57%,27.45,26.68,51.58%,28.49,51.62%,26.49,50.65%,28.45,50.48%,28.52,51.85%,26.87
+Mana Break,Anti-Mage,skills\antimage_mana_break.png,50.55%,55.97%,11.57,13,50.72%,11.39,51.26%,11.14,48.46%,13.08,46.64%,12.4,52.79%,11.09
+Mana Burn,Nyx Assassin,skills\nyx_assassin_mana_burn.png,47.45%,51.98%,30.13,30.74,46.54%,30.15,47.82%,29.65,48.63%,30.82,47.08%,30.28,47.95%,29.94
+Mana Drain,Lion,skills\lion_mana_drain.png,45.61%,49.88%,28.81,30.66,46.14%,29.05,44.91%,28.61,46.53%,28.99,46.53%,29.05,45.03%,28.66
+Mana Shield,Medusa,skills\medusa_mana_shield.png,53.78%,59.35%,18.73,20.78,54.20%,18.64,55.66%,18.2,48.13%,20.25,48.24%,20.27,55.42%,18.27
+Mana Void,Anti-Mage,skills\antimage_mana_void.png,47.01%,52.58%,32.66,34.3,46.88%,32.82,48.02%,32.43,45.97%,32.56,44.41%,32.48,49.52%,32.82
+Marksmanship,Drow Ranger,skills\drow_ranger_marksmanship.png,56.08%,61.00%,8.57,9.25,59.11%,7.79,51.05%,9.73,46.74%,11.61,43.83%,12.25,57.14%,8.26
+Mass Serpent Ward,Shadow Shaman,skills\shadow_shaman_mass_serpent_ward.png,53.67%,57.58%,17.75,18.56,52.96%,18.89,53.70%,16.8,54.22%,19.08,53.94%,18.89,53.55%,17.18
+Meat Hook,Pudge,skills\pudge_meat_hook.png,47.73%,52.95%,11.96,11.66,47.84%,12.47,48.03%,11.29,47.44%,12.29,47.56%,12.34,47.95%,11.53
+Meld,Templar Assassin,skills\templar_assassin_meld.png,49.15%,55.15%,25.13,25.95,49.37%,25.4,49.97%,24.4,46.28%,26.37,45.29%,27.12,49.99%,24.71
+Metamorphosis,Terrorblade,skills\terrorblade_metamorphosis.png,45.78%,50.25%,9.05,9.94,47.70%,8.77,45.57%,9.11,40.99%,9.72,43.58%,9.14,47.68%,8.97
+Midnight Pulse,Enigma,skills\enigma_midnight_pulse.png,51.72%,55.25%,26.72,27.61,51.72%,27.6,51.31%,26.04,52.59%,27.44,52.20%,27.47,51.45%,26.27
+Mirror Image,Naga Siren,skills\naga_siren_mirror_image.png,51.95%,57.36%,19.64,19.93,53.82%,18.9,51.65%,20.93,46.97%,20.53,50.73%,18.79,53.59%,20.74
+Mist Coil,Abaddon,skills\abaddon_death_coil.png,47.86%,53.28%,31.5,32.5,48.70%,31.67,47.58%,31.27,47.70%,31.52,47.68%,31.6,48.34%,31.26
+Moment of Courage,Legion Commander,skills\legion_commander_moment_of_courage.png,48.11%,53.88%,16.47,19.51,48.08%,16.44,47.71%,17.26,48.24%,16.33,47.74%,16.26,49.38%,17.15
+Moon Glaives,Luna,skills\luna_moon_glaive.png,53.26%,57.77%,6.8,6.36,55.62%,6.51,51.01%,6.83,49.14%,7.71,49.31%,7.53,54.76%,6.53
+Moonlight Shadow,Mirana,skills\mirana_invis.png,50.48%,55.43%,33.31,34.86,51.38%,33.38,50.33%,33.09,49.02%,33.46,48.66%,33.45,51.46%,33.24
+Mortal Strike,Wraith King,skills\skeleton_king_mortal_strike.png,48.03%,53.46%,10.66,12.46,49.59%,10.79,49.85%,10.95,45.76%,10.4,45.61%,10.46,51.09%,10.92
+Mortimer Kisses,Snapfire,skills\snapfire_mortimer_kisses.png,50.14%,54.26%,28.2,28.67,48.88%,28.49,49.44%,27.63,51.65%,28.58,50.01%,28.48,50.23%,28.04
+Multishot,Drow Ranger,skills\drow_ranger_multishot.png,47.17%,54.50%,30.29,32.49,49.08%,30.42,44.28%,30.25,41.22%,29.39,39.72%,29.02,48.01%,30.43
+Mystic Flare,Skywrath Mage,skills\skywrath_mage_mystic_flare.png,48.12%,51.98%,21.94,24.28,47.24%,23.29,48.60%,21.24,47.07%,23.5,47.05%,23.4,48.50%,21.45
+Mystic Snake,Medusa,skills\medusa_mystic_snake.png,48.80%,53.86%,15.59,16.36,48.23%,16.26,48.78%,14.71,49.63%,16.12,49.17%,16.08,48.61%,15.3
+Natural Order,Elder Titan,skills\elder_titan_natural_order_spirit.png,52.88%,59.13%,22.15,24.31,53.16%,22.66,49.14%,23.61,53.50%,21.62,53.35%,21.73,50.92%,23.97
+Nature's Attendants,Enchantress,skills\enchantress_natures_attendants.png,53.74%,58.84%,30.05,30.66,53.26%,30.72,54.47%,30.05,53.22%,29.57,52.84%,29.93,54.49%,30.14
+Nature's Call,Nature's Prophet,skills\furion_force_of_nature.png,40.44%,47.59%,27.82,30.62,39.49%,28.27,41.67%,27.7,38.55%,27.71,38.01%,27.86,41.69%,27.8
+Nature's Grasp,Treant Protector,skills\treant_natures_grasp.png,50.20%,54.23%,25.96,25.32,49.87%,26.85,51.08%,25.48,49.68%,25.9,49.64%,26.06,50.88%,25.83
+Necromastery,Shadow Fiend,skills\nevermore_necromastery.png,51.45%,55.41%,7.51,7.62,53.85%,7.25,49.59%,7.57,47.53%,8.09,47.19%,8.02,53.56%,7.25
+Nether Blast,Pugna,skills\pugna_nether_blast.png,45.85%,50.00%,26.79,26.85,44.83%,27.5,46.01%,26.36,46.27%,27.62,45.92%,27.57,45.84%,26.48
+Nether Strike,Spirit Breaker,skills\spirit_breaker_nether_strike.png,43.28%,47.62%,31.98,34.26,42.59%,32.41,43.28%,31.68,43.69%,31.83,42.98%,31.9,43.99%,32.14
+Nether Swap,Vengeful Spirit,skills\vengefulspirit_nether_swap.png,46.99%,53.41%,33.16,34.31,46.61%,33.26,46.55%,32.79,47.85%,33.35,47.15%,33.32,46.89%,33.01
+Nether Ward,Pugna,skills\pugna_nether_ward.png,57.78%,61.66%,23.61,23.3,56.78%,24.8,58.28%,22.64,57.66%,24.69,57.29%,24.65,58.09%,23.06
+Nethertoxin,Viper,skills\viper_nethertoxin.png,50.66%,53.64%,10.58,8.83,50.18%,10.95,50.47%,10.36,51.43%,10.43,51.08%,10.38,50.35%,10.74
+Nightmare,Bane,skills\bane_nightmare.png,45.74%,51.50%,27.27,27.7,46.72%,27.63,45.52%,26.65,44.91%,27.98,45.01%,27.93,46.16%,26.91
+Omnislash,Juggernaut,skills\juggernaut_omni_slash.png,47.90%,53.24%,17.79,20.27,49.04%,17.12,46.93%,19.61,45.93%,18.28,47.59%,17.03,48.70%,19.65
+Onslaught,Primal Beast,skills\primal_beast_onslaught.png,47.50%,52.46%,25.42,24.72,46.71%,26.38,47.33%,25.76,47.88%,24.95,47.53%,25.17,47.44%,26.12
+Overcharge,Io,skills\wisp_overcharge.png,48.19%,53.16%,21.66,23.44,48.18%,21.97,49.92%,21.16,46.82%,21.77,45.42%,22.62,49.65%,21.17
+Overgrowth,Treant Protector,skills\treant_overgrowth.png,51.74%,55.76%,23.39,23.17,51.50%,24.29,51.85%,23.25,51.82%,23.02,51.62%,23.17,51.95%,23.72
+Overload,Storm Spirit,skills\storm_spirit_overload.png,47.94%,54.93%,25.32,29.17,47.00%,26.16,48.65%,24.73,46.63%,26.4,45.83%,26.48,48.69%,24.92
+Overpower,Ursa,skills\ursa_overpower.png,45.71%,49.97%,12.86,14.29,44.69%,12.93,48.28%,12.73,44.15%,12.92,42.79%,12.95,48.03%,12.79
+Overwhelming Odds,Legion Commander,skills\legion_commander_overwhelming_odds.png,49.44%,55.04%,31.55,32.26,49.08%,31.87,49.65%,30.94,49.54%,31.74,49.20%,31.78,49.82%,31.21
+Paralyzing Cask,Witch Doctor,skills\witch_doctor_paralyzing_cask.png,52.46%,56.26%,18.01,17.95,52.89%,18.93,52.05%,17.21,53.12%,19.09,52.43%,18.94,52.50%,17.55
+Penitence,Chen,skills\chen_penitence.png,47.96%,51.71%,27.79,28.95,47.90%,28.63,48.64%,26.73,46.79%,28.72,46.28%,28.81,48.89%,27.25
+Phantasm,Chaos Knight,skills\chaos_knight_phantasm.png,51.15%,57.33%,27.47,29.3,53.43%,27.3,52.30%,27.85,48.26%,27.42,48.10%,27.29,54.45%,27.66
+Phantom Rush,Phantom Lancer,skills\phantom_lancer_phantom_edge.png,46.47%,51.79%,26.94,28.93,47.31%,26.59,46.35%,28.43,44.70%,27.21,45.29%,26.49,50.23%,28.33
+Phantom Strike,Phantom Assassin,skills\phantom_assassin_phantom_strike.png,48.77%,53.59%,12.88,12.74,48.24%,12.47,48.93%,15.45,49.45%,12.82,48.71%,12.31,49.25%,16.39
+Phantom's Embrace,Grimstroke,skills\grimstroke_ink_creature.png,52.88%,57.16%,24.57,24.88,52.60%,25.66,53.12%,23.6,52.71%,25.57,52.29%,25.6,53.23%,24.01
+Phase Shift,Puck,skills\puck_phase_shift.png,50.60%,55.24%,24.25,22.66,51.90%,25.4,49.94%,23.11,50.92%,26.28,49.65%,26.56,50.91%,23.52
+Pit of Malice,Underlord,skills\abyssal_underlord_pit_of_malice.png,51.39%,55.91%,22.85,23.5,50.46%,23.61,51.27%,22.4,52.03%,22.83,51.56%,22.88,51.24%,22.81
+Plague Ward,Venomancer,skills\venomancer_plague_ward.png,47.53%,52.93%,28.34,29.7,47.63%,28.47,48.17%,28.44,46.31%,27.93,46.46%,28,47.99%,28.49
+Plasma Field,Razor,skills\razor_plasma_field.png,51.26%,55.89%,26.94,26.76,51.87%,27.52,51.04%,25.85,50.75%,27.64,50.24%,27.62,51.89%,26.53
+Poison Attack,Viper,skills\viper_poison_attack.png,53.61%,58.28%,11.48,10.94,53.94%,11.73,54.04%,10.71,50.55%,13.55,47.31%,14.48,54.49%,11.07
+Poison Nova,Venomancer,skills\venomancer_poison_nova.png,53.28%,57.44%,28.77,30.45,52.05%,28.78,53.21%,28.59,54.85%,28.92,54.42%,28.94,52.38%,28.63
+Poison Sting,Venomancer,skills\venomancer_poison_sting.png,52.12%,56.95%,14.13,14.68,51.74%,14.12,53.50%,13.47,50.33%,15.55,49.45%,15.73,52.99%,13.61
+Poison Touch,Dazzle,skills\dazzle_poison_touch.png,49.99%,54.81%,23.2,24.5,48.92%,24.28,50.90%,22.28,48.80%,24.47,48.52%,24.58,50.64%,22.6
+Poof,Meepo,skills\meepo_poof.png,45.96%,52.27%,33.54,35.12,45.75%,33.51,46.95%,33.36,45.54%,33.75,44.78%,33.51,47.82%,33.61
+Pounce,Slark,skills\slark_pounce.png,47.93%,52.96%,23.06,23.49,46.32%,23.12,49.99%,22.96,48.67%,23.03,46.49%,22.9,50.60%,23.34
+Power Cogs,Clockwerk,skills\rattletrap_power_cogs.png,46.88%,52.53%,31.75,33.36,44.92%,32.3,45.44%,31.72,47.92%,31.57,47.21%,31.73,45.77%,31.81
+Powershot,Windranger,skills\windrunner_powershot.png,45.78%,50.62%,29.55,30.83,44.73%,29.99,46.38%,29.28,45.20%,29.92,45.05%,29.99,46.08%,29.39
+Presence of the Dark Lord,Shadow Fiend,skills\nevermore_dark_lord.png,53.38%,58.81%,26.52,28.77,55.34%,26.66,51.83%,26.38,51.36%,26.39,50.70%,26.51,55.59%,26.52
+Press The Attack,Legion Commander,skills\legion_commander_press_the_attack.png,49.92%,55.08%,25.12,25.19,50.14%,25.43,50.98%,24.41,49.18%,25.32,48.83%,25.48,51.34%,24.66
+Primal Roar,Beastmaster,skills\beastmaster_primal_roar.png,50.87%,55.64%,27.47,27.74,51.25%,27.91,51.70%,27.33,50.04%,27.26,49.71%,27.38,52.29%,27.58
+Primal Split,Brewmaster,skills\brewmaster_primal_split.png,53.93%,60.52%,24.68,22.71,52.61%,25.37,53.77%,24.85,54.76%,24.21,54.14%,24.34,53.62%,25.23
+Proximity Mines,Techies,skills\techies_land_mines.png,50.55%,55.64%,26.74,27.07,49.68%,27.31,50.09%,26.22,52.02%,27.12,51.50%,27.01,49.89%,26.55
+Psi Blades,Templar Assassin,skills\templar_assassin_psi_blades.png,51.60%,56.70%,5.24,5.22,52.16%,5.06,51.26%,5.24,50.52%,5.86,50.80%,5.8,51.88%,5.07
+Psionic Trap,Templar Assassin,skills\templar_assassin_psionic_trap.png,45.52%,50.89%,33.89,34.72,44.93%,34.05,46.42%,33.79,45.54%,33.71,44.77%,33.68,45.97%,34.01
+Pulse Nova,Leshrac,skills\leshrac_pulse_nova.png,52.15%,57.25%,10.59,9.65,50.04%,11.89,52.94%,10.07,52.04%,10.73,51.76%,10.72,52.50%,10.48
+Pulverize,Primal Beast,skills\primal_beast_pulverize.png,48.88%,53.43%,27,27.51,48.37%,27.49,47.24%,26.91,49.58%,26.84,49.38%,26.95,47.42%,27.16
+Purification,Omniknight,skills\omniknight_purification.png,49.40%,54.85%,29.85,30.98,48.46%,30.28,48.70%,29.46,50.16%,29.89,49.82%,29.99,48.63%,29.58
+Purifying Flames,Oracle,skills\oracle_purifying_flames.png,44.35%,49.71%,28.16,28.84,43.11%,29.07,44.19%,27.99,45.75%,27.86,44.82%,28.21,44.14%,28.14
+Quill Spray,Bristleback,skills\bristleback_quill_spray.png,46.76%,51.42%,15.46,16.66,47.10%,16.9,47.33%,16.97,46.54%,14.67,46.64%,14.9,47.25%,17.5
+Rage,Lifestealer,skills\life_stealer_rage.png,53.01%,57.97%,14.55,13.28,53.98%,14.96,54.06%,14.76,51.88%,14.17,51.54%,14.27,55.37%,14.99
+Ransack,Meepo,skills\meepo_ransack.png,46.66%,57.30%,28.47,32.32,46.87%,28.35,48.14%,28.78,44.98%,28.4,43.57%,27.99,50.08%,28.99
+Ravage,Tidehunter,skills\tidehunter_ravage.png,51.68%,56.04%,21.14,21.11,51.70%,21.56,51.37%,20.63,51.87%,21.21,51.57%,21.18,51.87%,21.06
+Reactive Armor,Timbersaw,skills\shredder_reactive_armor.png,49.23%,53.53%,13.38,16.31,49.23%,15.44,48.30%,15.83,49.40%,12.38,49.31%,12.74,48.94%,16.37
+Reactive Tazer,Techies,skills\techies_reactive_tazer.png,48.79%,53.18%,30.24,30.9,48.20%,30.49,49.17%,30.14,48.92%,30.13,48.44%,30.26,49.14%,30.21
+Reality Rift,Chaos Knight,skills\chaos_knight_reality_rift.png,48.27%,52.38%,25.13,25.79,48.31%,25.88,45.81%,26.86,48.62%,24.57,48.29%,24.7,48.25%,27.44
+Reaper's Scythe,Necrophos,skills\necrolyte_reapers_scythe.png,49.12%,53.53%,13.56,14.58,50.00%,14.56,47.96%,12.77,50.47%,14.14,50.24%,14.18,48.38%,13.13
+Rearm,Tinker,skills\tinker_rearm.png,42.10%,47.22%,9.93,10.25,41.68%,11.35,42.21%,9.2,42.19%,10.78,42.07%,10.87,42.13%,9.51
+Rebound,Marci,skills\marci_companion_run.png,46.56%,52.51%,30.19,30.1,46.01%,30.73,45.75%,30.45,47.18%,29.82,46.52%,29.94,46.69%,30.74
+Reflection,Terrorblade,skills\terrorblade_reflection.png,53.48%,57.55%,20.09,17.77,53.78%,20.59,52.97%,19.39,53.72%,20.27,53.62%,20.34,53.35%,19.8
+Refraction,Templar Assassin,skills\templar_assassin_refraction.png,51.17%,55.32%,18.5,19.82,51.06%,18.38,53.33%,18.37,48.95%,18.89,48.53%,18.92,52.72%,18.26
+Reincarnation,Wraith King,skills\skeleton_king_reincarnation.png,59.78%,63.74%,6.45,5.81,59.63%,6.83,60.75%,6.28,59.40%,6.34,59.23%,6.36,60.83%,6.62
+Relocate,Io,skills\wisp_relocate.png,44.98%,49.60%,33.58,35.25,44.38%,33.93,45.83%,33.32,44.88%,33.49,43.42%,33.38,45.95%,33.71
+Requiem of Souls,Shadow Fiend,skills\nevermore_requiem.png,48.24%,53.40%,31.72,33.94,50.70%,32.32,45.91%,31,45.38%,31.18,45.41%,31.28,49.79%,31.96
+Resonant Pulse,Void Spirit,skills\void_spirit_resonant_pulse.png,49.33%,53.07%,23.6,23.67,49.47%,24.48,48.31%,22.88,50.47%,23.86,49.30%,23.38,49.42%,24.08
+Retaliate,Centaur Warrunner,skills\centaur_return.png,50.98%,53.89%,13.48,16.15,48.26%,16.51,47.89%,16.48,51.65%,12.79,51.39%,13.07,47.46%,17.15
+Reverse Polarity,Magnus,skills\magnataur_reverse_polarity.png,48.45%,53.17%,24.63,24.69,48.38%,25.3,47.15%,24.38,48.93%,24.43,48.88%,24.59,47.28%,24.76
+Rip Tide,Naga Siren,skills\naga_siren_rip_tide.png,47.96%,54.54%,25.87,28.43,50.51%,25.44,44.42%,26.81,43.99%,26.42,48.20%,25.55,46.84%,27.48
+Rocket Barrage,Gyrocopter,skills\gyrocopter_rocket_barrage.png,49.51%,54.18%,23.38,23.32,50.09%,23.54,48.93%,23.03,49.40%,23.47,49.26%,23.53,49.85%,23.19
+Rocket Flare,Clockwerk,skills\rattletrap_rocket_flare.png,46.43%,49.81%,32.66,34.15,45.24%,32.97,46.53%,32.3,47.08%,32.83,46.44%,32.79,46.46%,32.55
+Rolling Boulder,Earth Spirit,skills\earth_spirit_rolling_boulder.png,48.20%,54.13%,29.52,29.37,47.21%,30.64,46.34%,30.16,49.13%,28.9,48.56%,29.16,47.21%,30.51
+Rolling Thunder,Pangolier,skills\pangolier_gyroshell.png,50.45%,56.50%,26.15,24.07,49.10%,26.15,50.46%,25.84,51.86%,26.33,50.70%,26.15,49.96%,26.15
+Rot,Pudge,skills\pudge_rot.png,52.59%,57.18%,12.33,10.16,52.58%,12.78,50.96%,12.63,52.99%,12.15,52.94%,12.21,51.22%,12.84
+Rupture,Bloodseeker,skills\bloodseeker_rupture.png,49.44%,54.46%,23.54,25.01,49.19%,23.54,49.40%,23.28,49.85%,23.79,49.30%,23.42,49.65%,23.69
+Sacred Arrow,Mirana,skills\mirana_arrow.png,51.16%,55.42%,17.94,16.14,51.03%,18.53,51.73%,17.1,50.44%,18.55,50.33%,18.45,51.64%,17.65
+Sand Storm,Sand King,skills\sandking_sand_storm.png,52.71%,56.86%,24.14,24.14,51.99%,25.58,52.71%,24.66,53.05%,23.29,52.50%,23.61,53.15%,25.11
+Sanity's Eclipse,Outworld Devourer,skills\obsidian_destroyer_sanity_eclipse.png,45.48%,52.74%,32.15,34.36,41.75%,30.1,46.60%,32.84,41.36%,29.27,40.66%,29,46.33%,32.7
+Savage Roar,Lone Druid,skills\lone_druid_savage_roar.png,49.45%,54.63%,33.54,33.84,49.73%,33.51,49.16%,33.45,49.35%,33.67,48.77%,33.72,50.00%,33.4
+Scatterblast,Snapfire,skills\snapfire_scatterblast.png,49.08%,53.71%,23.62,22.23,48.07%,23.98,47.99%,23.12,50.51%,23.79,49.14%,23.73,49.05%,23.53
+Scorched Earth,Doom,skills\doom_bringer_scorched_earth.png,49.89%,56.00%,28.01,27.72,50.06%,29.06,49.20%,28.3,50.06%,27.51,49.88%,27.68,49.99%,28.91
+Scream Of Pain,Queen of Pain,skills\queenofpain_scream_of_pain.png,47.61%,54.84%,30.66,31.72,46.26%,30.99,47.77%,30.31,48.37%,31.07,47.56%,31.05,47.67%,30.39
+Scurry,Hoodwink,skills\hoodwink_scurry.png,50.56%,56.16%,28.99,29.84,52.44%,28.71,49.01%,28.98,48.20%,29.66,47.51%,29.77,51.97%,28.64
+Searing Arrows,Clinkz,skills\clinkz_searing_arrows.png,46.23%,51.36%,19.78,22.61,45.74%,19.66,47.60%,19.43,44.69%,21.35,43.04%,22.31,46.80%,19.34
+Searing Chains,Ember Spirit,skills\ember_spirit_searing_chains.png,49.48%,54.59%,27.88,27.69,48.67%,27.76,49.03%,27.65,50.69%,28.13,49.77%,27.87,48.71%,27.89
+Shackles,Shadow Shaman,skills\shadow_shaman_shackles.png,53.10%,57.51%,13.91,12.63,52.88%,14.5,52.89%,13.23,53.87%,15.16,53.59%,14.98,52.88%,13.38
+Shackleshot,Windranger,skills\windrunner_shackleshot.png,50.11%,55.22%,26.43,25.51,50.08%,26.94,50.15%,25.95,50.11%,26.93,49.70%,26.9,50.32%,26.22
+Shadow Dance,Slark,skills\slark_shadow_dance.png,57.86%,62.81%,12.09,10.34,56.93%,12.31,60.26%,12.14,57.33%,11.7,55.40%,11.68,61.31%,12.64
+Shadow Poison,Shadow Demon,skills\shadow_demon_shadow_poison.png,43.91%,50.33%,25.89,26.59,43.40%,26.47,43.40%,25.92,45.70%,25.37,44.40%,25.66,43.71%,26
+Shadow Realm,Dark Willow,skills\dark_willow_shadow_realm.png,52.97%,56.33%,3.04,2.82,53.01%,3.05,53.51%,2.97,50.84%,3.25,50.30%,3.31,53.63%,2.97
+Shadow Strike,Queen of Pain,skills\queenofpain_shadow_strike.png,46.92%,51.72%,27.45,29.73,45.36%,28.21,47.62%,26.83,46.62%,28.42,46.21%,28.42,47.24%,27.04
+Shadow Walk,Bounty Hunter,skills\bounty_hunter_wind_walk.png,49.72%,55.22%,18.48,21.67,49.43%,18.41,50.89%,18.39,48.94%,18.67,48.74%,18.15,50.98%,18.88
+Shadow Wave,Dazzle,skills\dazzle_shadow_wave.png,45.51%,49.41%,32.29,33.73,44.19%,32.42,45.82%,32.25,45.96%,32.25,45.31%,32.43,45.65%,32.21
+Shadow Word,Warlock,skills\warlock_shadow_word.png,51.08%,55.36%,29.91,30.42,49.95%,30.79,52.06%,29.39,49.57%,30.52,49.61%,30.67,51.79%,29.56
+Shadowraze,Shadow Fiend,skills\nevermore_shadowraze2.png,46.62%,51.96%,24.62,23.74,46.37%,24.71,46.64%,24.2,46.96%,25.16,46.24%,25.09,46.86%,24.34
+Shallow Grave,Dazzle,skills\dazzle_shallow_grave.png,48.20%,54.00%,32.08,34.11,47.39%,32.81,48.87%,31.63,47.80%,32.2,46.99%,32.4,48.90%,31.9
+Shapeshift,Lycan,skills\lycan_shapeshift.png,48.43%,54.26%,22.29,24.59,48.37%,22.98,46.81%,23.54,48.83%,21.66,48.87%,21.84,46.95%,23.87
+Sharpshooter,Hoodwink,skills\hoodwink_sharpshooter.png,47.91%,52.94%,28.95,29.06,48.31%,29.34,47.33%,28.31,48.16%,29.31,47.60%,29.25,48.08%,28.8
+Shield Crash,Pangolier,skills\pangolier_shield_crash.png,52.79%,57.26%,24.02,23.02,51.05%,24.19,52.08%,25.01,54.65%,23.55,53.03%,23.63,52.01%,25.53
+Shockwave,Magnus,skills\magnataur_shockwave.png,51.33%,54.85%,13.17,12.46,50.68%,13.91,51.39%,12.62,51.66%,13.37,51.31%,13.39,51.38%,12.97
+Shrapnel,Sniper,skills\sniper_shrapnel.png,55.82%,60.27%,20.77,19.3,56.65%,21.5,54.97%,19.96,55.89%,20.87,55.51%,20.69,56.01%,20.81
+Shukuchi,Weaver,skills\weaver_shukuchi.png,55.67%,59.49%,2.31,1.72,53.89%,2.39,56.12%,2.27,57.31%,2.26,56.76%,2.29,54.77%,2.33
+Shuriken Toss,Bounty Hunter,skills\bounty_hunter_shuriken_toss.png,44.51%,49.71%,28.83,30.87,44.85%,28.83,44.10%,28.56,44.50%,29.2,44.24%,28.78,44.90%,28.91
+Sidekick,Marci,skills\marci_guardian.png,47.88%,52.79%,26.09,28.29,48.81%,26.17,48.75%,26.14,46.33%,25.97,45.51%,26.08,50.09%,26.1
+Silence,Death Prophet,skills\drow_ranger_silence.png,47.76%,55.15%,34.27,35.55,47.16%,34.62,48.42%,33.99,47.16%,34.47,46.87%,34.52,48.29%,34.14
+Silken Bola,Broodmother,skills\broodmother_silken_bola.png,52.13%,57.58%,30.39,30.37,51.69%,30.35,52.93%,30.1,51.94%,30.79,50.78%,30.58,53.67%,30.19
+Sinister Gaze,Lich,skills\lich_sinister_gaze.png,51.82%,55.73%,27.41,27.27,51.72%,28.03,51.28%,26.81,53.00%,28.12,52.67%,28.13,51.33%,26.97
+Skeleton Walk,Clinkz,skills\clinkz_wind_walk.png,54.30%,59.56%,12.19,12.37,52.50%,12.46,55.35%,11.79,55.77%,12.26,54.87%,12.29,53.94%,12.12
+Skewer,Magnus,skills\magnataur_skewer.png,48.39%,53.50%,24.31,23.42,47.70%,24.95,47.48%,24.37,49.09%,24.02,48.77%,24.13,47.58%,24.74
+Sleight of Fist,Ember Spirit,skills\ember_spirit_sleight_of_fist.png,50.02%,54.90%,4.73,4.33,49.34%,4.74,50.41%,5.13,50.76%,4.53,49.71%,4.53,51.06%,5.38
+Slithereen Crush,Slardar,skills\slardar_slithereen_crush.png,49.35%,54.64%,17.03,16.99,48.57%,17.82,48.33%,18.05,49.87%,16.52,49.61%,16.67,48.24%,18.66
+Smoke Screen,Riki,skills\riki_smoke_screen.png,51.02%,55.39%,33.31,34.51,50.69%,33.19,51.11%,33.26,51.55%,33.56,50.65%,33.29,51.74%,33.36
+Snowball,Tusk,skills\tusk_snowball.png,51.74%,56.97%,23.52,22.05,50.11%,24.23,50.44%,23.47,52.75%,23.27,52.09%,23.4,50.66%,23.93
+Solar Bind,Keeper of the Light,skills\keeper_of_the_light_radiant_bind.png,47.90%,51.75%,31.37,31.79,47.86%,31.96,47.84%,30.91,48.15%,31.92,47.91%,31.92,47.92%,31.1
+Solar Guardian,Dawnbreaker,skills\dawnbreaker_solar_guardian.png,50.64%,55.73%,30.69,31.35,49.53%,31.19,50.41%,30.74,51.35%,30.39,50.57%,30.52,50.80%,31
+Song of the Siren,Naga Siren,skills\naga_siren_song_of_the_siren.png,46.93%,51.82%,33.67,34.64,47.63%,33.88,46.94%,33.45,45.90%,33.57,46.30%,33.62,47.63%,33.72
+Sonic Wave,Queen of Pain,skills\queenofpain_sonic_wave.png,46.46%,50.71%,26.75,29.03,45.74%,27.56,46.64%,26.07,46.76%,27.53,46.15%,27.47,46.63%,26.38
+Soul Assumption,Visage,skills\visage_soul_assumption.png,48.00%,52.63%,24.56,25.82,47.17%,25.74,48.19%,23.59,48.26%,26.13,47.86%,26.06,48.09%,23.86
+Soul Catcher,Shadow Demon,skills\shadow_demon_soul_catcher.png,47.55%,53.02%,32.11,33.38,47.10%,32.62,47.82%,31.68,47.44%,32.57,47.08%,32.72,47.86%,31.75
+Soul Rip,Undying,skills\undying_soul_rip.png,47.14%,53.20%,33.04,34.62,47.68%,32.77,47.28%,32.93,46.93%,33.22,47.08%,33.2,47.35%,32.79
+Soulbind,Grimstroke,skills\grimstroke_soul_chain.png,50.35%,54.82%,27.92,27.71,50.36%,28.89,50.38%,27.07,50.35%,28.86,50.15%,28.83,50.49%,27.44
+Spark Wraith,Arc Warden,skills\arc_warden_spark_wraith.png,49.54%,54.27%,25.44,25.49,49.29%,25.58,49.96%,24.92,49.20%,26.13,49.15%,26.19,49.76%,25.04
+Spawn Spiderlings,Broodmother,skills\broodmother_spawn_spiderlings.png,44.88%,51.38%,31.7,33.09,43.92%,31.49,45.64%,31.69,45.38%,32,44.11%,31.52,45.80%,31.91
+Spear of Mars,Mars,skills\mars_spear.png,50.66%,56.53%,20.18,16.96,50.06%,20.93,50.61%,19.39,51.09%,20.43,50.99%,20.47,50.32%,19.86
+Spectral Dagger,Spectre,skills\spectre_spectral_dagger.png,52.60%,57.54%,28.44,27.3,51.41%,28.21,53.28%,28.26,54.08%,29.03,51.74%,28.35,53.91%,28.57
+Spiked Carapace,Nyx Assassin,skills\nyx_assassin_spiked_carapace.png,53.89%,57.91%,21.24,19.25,52.81%,21.37,54.43%,21.25,54.77%,21.08,53.33%,21.02,54.79%,21.56
+Spin Web,Broodmother,skills\broodmother_spin_web.png,49.37%,53.90%,12.38,11.66,48.20%,12.14,51.00%,12.19,49.46%,12.98,47.73%,12.12,51.59%,12.73
+Spirit Form,Keeper of the Light,skills\keeper_of_the_light_spirit_form.png,49.11%,53.69%,28.27,28.89,48.81%,29.38,49.20%,27.46,49.24%,29.12,48.56%,29.23,49.40%,27.81
+Spirit Lance,Phantom Lancer,skills\phantom_lancer_spirit_lance.png,51.12%,56.70%,24.24,24.32,50.90%,24.34,51.93%,23.64,50.49%,24.85,49.89%,24.26,52.46%,24.22
+Spirit Link,Lone Druid,skills\lone_druid_spirit_link.png,50.86%,55.26%,24.72,26.81,51.48%,24.74,51.98%,24.4,48.51%,25.03,48.07%,25.21,52.49%,24.44
+Spirit Siphon,Death Prophet,skills\death_prophet_spirit_siphon.png,54.02%,58.95%,15.02,13.18,54.02%,15.99,53.82%,14.58,54.27%,14.92,54.24%,15.08,53.81%,14.95
+Spirits,Io,skills\wisp_spirits.png,53.52%,58.47%,23.58,21.88,52.65%,24.42,52.20%,23.78,54.72%,23.07,53.74%,23.68,53.33%,23.48
+Splinter Blast,Winter Wyvern,skills\winter_wyvern_splinter_blast.png,45.25%,49.34%,31.24,31.97,44.67%,31.79,45.70%,31.03,44.11%,31.56,43.80%,31.65,45.71%,31.12
+Split Earth,Leshrac,skills\leshrac_split_earth.png,52.98%,57.07%,13.48,11.44,52.25%,13.99,53.27%,12.95,53.02%,14.23,52.94%,14.17,53.04%,13.1
+Split Shot,Medusa,skills\medusa_split_shot.png,47.55%,52.10%,14.48,15.16,48.75%,13.74,46.24%,15.1,43.80%,17.29,41.86%,17.94,48.45%,13.94
+Sprout,Nature's Prophet,skills\furion_sprout.png,48.95%,54.43%,31.41,33.05,47.04%,31.66,50.44%,31.35,45.90%,31.26,45.27%,31.1,49.87%,31.48
+Stampede,Centaur Warrunner,skills\centaur_stampede.png,51.56%,56.99%,32.18,33.14,50.58%,32.51,51.06%,32.23,52.22%,32.02,51.60%,32.09,51.51%,32.37
+Starbreaker,Dawnbreaker,skills\dawnbreaker_fire_wreath.png,49.51%,54.14%,21.23,19.86,47.57%,22.59,46.51%,23.59,50.52%,20.51,49.91%,20.82,46.59%,24.32
+Starstorm,Mirana,skills\mirana_starfall.png,48.65%,53.17%,28.79,29.37,48.75%,28.96,48.61%,28.46,48.66%,29.05,48.78%,29.07,48.60%,28.61
+Static Link,Razor,skills\razor_static_link.png,45.31%,50.25%,18.48,19.97,46.74%,18.02,43.87%,18.64,43.86%,19.19,44.09%,19.08,46.18%,18.06
+Static Remnant,Storm Spirit,skills\storm_spirit_static_remnant.png,46.14%,51.85%,28.68,28.99,45.92%,29.07,45.39%,28.77,48.53%,28.15,47.79%,28.47,45.42%,28.78
+Static Storm,Disruptor,skills\disruptor_static_storm.png,50.35%,55.01%,29.64,30.71,50.47%,30.45,50.17%,28.96,50.65%,30.34,50.09%,30.26,50.51%,29.29
+Sticky Bomb,Techies,skills\techies_sticky_bomb.png,47.80%,51.89%,25.5,25.64,47.19%,26.35,47.91%,24.73,48.16%,26.61,47.75%,26.54,47.84%,24.99
+Sticky Napalm,Batrider,skills\batrider_sticky_napalm.png,47.82%,51.89%,7.62,7.51,47.17%,8.24,47.92%,7.22,48.17%,7.88,47.75%,7.9,47.87%,7.44
+Stifling Dagger,Phantom Assassin,skills\phantom_assassin_stifling_dagger.png,47.20%,51.95%,21.45,22.9,46.84%,21.86,48.23%,20.6,46.75%,21.66,45.95%,21.49,48.79%,21.39
+Stone Gaze,Medusa,skills\medusa_stone_gaze.png,50.40%,54.14%,28.37,28.95,50.02%,28.79,50.64%,27.88,50.77%,28.27,49.98%,28.34,50.66%,28.39
+Storm Hammer,Sven,skills\sven_storm_bolt.png,53.06%,56.81%,5,4.13,51.98%,5.19,53.33%,4.97,53.44%,4.93,53.15%,4.94,52.96%,5.1
+Storm Surge,Razor,skills\razor_unstable_current.png,54.43%,59.85%,16.04,16.72,54.88%,16.16,53.88%,15.97,54.33%,15.94,53.67%,16.06,55.07%,16.02
+Stroke of Fate,Grimstroke,skills\grimstroke_dark_artistry.png,48.05%,52.29%,22.03,22.32,46.53%,23.93,48.57%,21.09,47.31%,24.37,46.66%,24.28,48.47%,21.38
+Summon Familiars,Visage,skills\visage_summon_familiars.png,46.06%,53.75%,30.8,33.31,45.85%,31.69,45.95%,30.19,46.49%,31,45.44%,31.01,46.43%,30.69
+Summon Spirit Bear,Lone Druid,skills\lone_druid_spirit_bear.png,45.40%,50.61%,21.32,21.81,45.49%,21.15,45.73%,21.4,44.98%,21.47,44.66%,21.65,45.96%,21.08
+Summon Wolves,Lycan,skills\lycan_summon_wolves.png,44.78%,51.86%,31.11,33.64,44.14%,31.61,45.59%,30.75,44.66%,31.08,44.08%,31.17,45.88%,31.03
+Sun Ray,Phoenix,skills\phoenix_sun_ray.png,45.65%,51.20%,30.56,31.69,44.96%,30.73,45.48%,30.1,46.06%,30.81,45.49%,31.02,45.76%,30.3
+Sun Strike (AD),Invoker,skills\invoker_sun_strike.png,48.48%,52.33%,14.44,12.53,47.03%,15.04,48.95%,13.98,48.71%,14.84,47.88%,14.92,48.84%,14.15
+Sunder,Terrorblade,skills\terrorblade_sunder.png,47.41%,52.65%,29.83,31.92,48.11%,29.96,46.13%,29.8,47.37%,29.68,47.75%,29.63,46.93%,30.14
+Supernova,Phoenix,skills\phoenix_supernova.png,52.46%,57.24%,24.59,23.91,51.67%,25.62,53.18%,24.52,52.43%,24.12,52.55%,25.12,52.43%,24.22
+Surge,Dark Seer,skills\dark_seer_surge.png,47.98%,53.61%,31.21,31.85,48.39%,31.78,47.87%,31.07,47.78%,30.88,46.63%,30.89,49.63%,31.6
+Swashbuckle,Pangolier,skills\pangolier_swashbuckle.png,46.66%,52.13%,8.98,8.67,45.89%,8.7,48.55%,9.67,46.62%,8.95,45.43%,8.49,49.31%,10.01
+Tag Team,Tusk,skills\tusk_tag_team.png,44.93%,49.92%,26.9,28.65,44.27%,26.77,42.00%,26.01,45.97%,27.16,45.27%,27.07,43.68%,26.23
+Take Aim,Sniper,skills\sniper_take_aim.png,50.06%,53.91%,8.45,9.39,52.59%,8.28,47.36%,8.25,46.16%,9.91,46.07%,10.2,50.75%,8.16
+Telekinesis,Rubick,skills\rubick_telekinesis.png,48.03%,53.94%,31.46,32.68,48.35%,32.21,47.78%,31.01,48.49%,32.02,48.18%,32.06,47.99%,31.22
+Teleportation,Nature's Prophet,skills\furion_teleportation.png,48.83%,53.35%,17.22,17.2,47.27%,18.08,50.64%,16.56,46.67%,17.72,45.89%,17.79,50.37%,16.93
+Terrorize,Dark Willow,skills\dark_willow_terrorize.png,51.10%,56.13%,25.8,24.53,50.42%,26.09,48.61%,26.16,53.57%,25.32,52.81%,25.26,48.74%,26.56
+Tether,Io,skills\wisp_tether.png,52.51%,57.93%,22.82,21.02,51.41%,24.01,52.70%,22.81,52.87%,22.35,52.15%,23.31,52.75%,22.53
+The Swarm,Weaver,skills\weaver_the_swarm.png,51.31%,55.41%,28.24,27.39,50.37%,28.17,52.34%,27.92,51.69%,28.77,51.01%,28.74,51.50%,27.96
+Thirst,Bloodseeker,skills\bloodseeker_thirst.png,54.93%,58.12%,2.65,2.55,55.36%,2.67,54.03%,2.64,55.15%,2.61,54.83%,2.64,55.13%,2.66
+Thunder Clap,Brewmaster,skills\polar_furbolg_ursa_warrior_thunder_clap.png,47.28%,54.03%,30.45,31.35,45.82%,30.78,45.52%,30.46,48.17%,30.33,47.74%,30.44,44.98%,30.52
+Thunder Strike,Disruptor,skills\disruptor_thunder_strike.png,52.08%,56.27%,19.09,18.71,51.05%,21.19,52.53%,17.93,51.37%,21.67,51.21%,21.54,52.38%,18.3
+Thundergod's Wrath,Zeus,skills\zuus_thundergods_wrath.png,49.47%,53.72%,22.6,25.57,48.70%,23.93,49.71%,21.86,49.42%,23.84,48.75%,23.8,49.75%,22.15
+Tidebringer,Kunkka,skills\kunkka_tidebringer.png,49.79%,55.48%,4.21,4.43,48.95%,4.44,49.25%,4.61,50.27%,4.02,49.42%,4.05,51.37%,4.82
+Timber Chain,Timbersaw,skills\shredder_timber_chain.png,45.82%,51.45%,30.04,30.83,45.44%,30.71,45.86%,30.22,46.00%,29.67,45.44%,29.84,46.61%,30.43
+Time Dilation,Faceless Void,skills\faceless_void_time_dilation.png,50.49%,56.96%,34.16,35.18,49.55%,34.25,49.81%,33.52,52.19%,34.4,50.67%,34.37,50.10%,33.64
+Time Lapse,Weaver,skills\weaver_time_lapse.png,48.34%,53.90%,30.76,32.24,47.94%,30.61,49.08%,30.73,48.24%,31.03,47.78%,31.04,48.71%,30.58
+Time Lock,Faceless Void,skills\faceless_void_time_lock.png,46.39%,48.88%,5.28,5.91,47.21%,5.17,45.27%,5.23,45.92%,5.64,45.38%,5.43,47.31%,5.15
+Time Walk,Faceless Void,skills\faceless_void_time_walk.png,52.96%,57.86%,9.1,7.79,52.15%,9.37,53.05%,9.08,53.89%,8.81,52.53%,8.84,53.75%,9.55
+Tombstone,Undying,skills\undying_tombstone.png,56.65%,60.72%,5.53,5.55,55.79%,5.76,57.30%,5.61,56.62%,5.37,56.22%,5.41,57.33%,5.7
+Tornado (AD),Invoker,skills\invoker_tornado.png,48.71%,54.14%,26.89,26.77,48.64%,28.08,49.01%,26.29,47.99%,27.43,48.10%,27.67,48.97%,26.57
+Torrent,Kunkka,skills\kunkka_torrent.png,49.63%,53.64%,22.77,21.03,48.37%,23.51,48.93%,22.2,50.93%,22.89,50.24%,22.99,48.97%,22.53
+Toss,Tiny,skills\tiny_toss.png,46.93%,51.39%,26.72,26.1,47.03%,27.13,46.33%,26.71,47.20%,26.56,47.27%,26.63,46.28%,26.92
+Track,Bounty Hunter,skills\bounty_hunter_track.png,51.50%,55.79%,14.27,12.87,51.69%,14.06,51.91%,14.3,50.76%,14.56,50.25%,14.02,52.94%,14.55
+Trample,Primal Beast,skills\primal_beast_trample.png,48.47%,52.43%,13.57,12.06,46.06%,14.48,45.76%,14.79,49.74%,13.06,49.11%,13.2,45.55%,15.29
+Tree Dance,Monkey King,skills\monkey_king_tree_dance.png,44.04%,49.55%,31.43,32.63,45.12%,31.76,43.69%,30.9,42.81%,31.44,43.82%,31.56,44.41%,31.23
+Tree Grab,Tiny,skills\tiny_tree_grab.png,48.66%,53.68%,9.82,9.49,49.50%,10.12,45.29%,12.13,48.79%,9.29,49.04%,9.25,46.58%,12.94
+Tricks of the Trade,Riki,skills\riki_tricks_of_the_trade.png,45.89%,50.38%,28.98,29.99,45.97%,28.4,46.54%,29.61,45.33%,29.59,44.34%,28.65,48.40%,29.49
+True Form,Lone Druid,skills\lone_druid_true_form.png,49.10%,53.17%,24.63,26.47,48.05%,24.79,47.99%,26.18,50.22%,24.1,49.72%,24.16,47.64%,25.77
+Unleash,Marci,skills\marci_unleash.png,49.93%,54.17%,8.93,9.55,49.93%,9.11,50.82%,8.39,49.05%,9.33,48.12%,9.69,51.21%,8.4
+Unstable Concoction,Alchemist,skills\alchemist_unstable_concoction.png,49.74%,54.12%,27.52,26.12,49.86%,28.09,49.29%,27.11,49.95%,27.49,49.97%,27.61,49.39%,27.38
+Untouchable,Enchantress,skills\enchantress_untouchable.png,49.72%,54.46%,16.6,19.86,49.79%,16.99,50.26%,17.1,49.05%,15.67,48.56%,15.76,50.70%,17.3
+Upheaval,Warlock,skills\warlock_upheaval.png,46.84%,55.06%,32.33,34.26,44.93%,31.83,47.68%,32.6,46.78%,32.21,45.71%,32.22,47.52%,32.41
+Uproar,Primal Beast,skills\primal_beast_uproar.png,51.43%,56.36%,21.72,21.5,52.72%,22.43,51.82%,22.85,50.65%,21.02,50.15%,21.23,54.51%,22.88
+Vacuum,Dark Seer,skills\dark_seer_vacuum.png,50.57%,55.22%,26.01,24.91,50.25%,26.72,50.52%,25.32,50.92%,26.63,50.31%,26.09,50.95%,25.89
+Vampiric Spirit,Wraith King,skills\skeleton_king_vampiric_aura.png,50.30%,56.27%,23.56,25.58,52.06%,23.64,52.32%,24.14,47.97%,23.22,47.79%,23.24,54.01%,24.03
+Vendetta,Nyx Assassin,skills\nyx_assassin_vendetta.png,46.60%,51.67%,18.08,21.39,45.57%,17.56,48.28%,18.56,46.65%,18.41,45.23%,17.45,48.56%,18.95
+Vengeance Aura,Vengeful Spirit,skills\vengefulspirit_command_aura.png,56.01%,58.94%,4.85,3.79,54.82%,5.02,56.83%,4.65,56.75%,4.84,56.23%,4.88,55.87%,4.83
+Venomous Gale,Venomancer,skills\venomancer_venomous_gale.png,49.50%,53.61%,22.98,23.48,48.42%,22.97,50.01%,22.32,50.54%,23.95,50.20%,23.92,49.13%,22.46
+Viper Strike,Viper,skills\viper_viper_strike.png,46.28%,50.73%,28.59,30.45,45.98%,28.85,45.64%,27.87,47.58%,29.17,46.68%,29.22,46.05%,28.22
+Viscous Nasal Goo,Bristleback,skills\bristleback_viscous_nasal_goo.png,50.20%,55.52%,18.06,18.03,51.70%,18.18,50.81%,17.77,48.92%,18.14,49.21%,18.23,51.67%,17.81
+Void,Night Stalker,skills\night_stalker_void.png,50.60%,55.24%,24.52,23.89,49.43%,25.3,50.47%,24.1,51.30%,24.4,50.87%,24.53,50.24%,24.5
+Voodoo Restoration,Witch Doctor,skills\witch_doctor_voodoo_restoration.png,49.90%,57.01%,30.79,31.56,49.32%,30.26,50.75%,31.34,48.84%,30.19,47.86%,30.31,51.11%,31.08
+Wall of Replica,Dark Seer,skills\dark_seer_wall_of_replica.png,55.65%,60.47%,24.48,23.75,56.04%,24.7,55.96%,23.64,54.73%,25.65,53.40%,25.13,57.64%,23.92
+Walrus PUNCH!,Tusk,skills\tusk_walrus_punch.png,47.29%,52.94%,9.43,10.9,46.65%,10.34,46.99%,9.69,47.80%,8.82,47.01%,9.1,47.73%,9.92
+Waning Rift,Puck,skills\puck_waning_rift.png,50.08%,54.21%,26.39,25.51,50.19%,27.3,49.19%,25.55,51.55%,27.08,50.91%,27.08,49.52%,25.9
+Warcry,Sven,skills\sven_warcry.png,49.86%,56.03%,33.02,34.23,49.65%,33.34,51.02%,33.12,49.59%,32.82,49.21%,32.88,51.16%,33.31
+Warpath,Bristleback,skills\bristleback_warpath.png,50.67%,57.99%,20.95,22.65,52.29%,20.51,52.04%,20.44,48.86%,21.52,49.14%,21.47,52.87%,20.2
+Wave of Terror,Vengeful Spirit,skills\vengefulspirit_wave_of_terror.png,47.89%,52.78%,32.99,33.93,48.01%,33.07,48.39%,32.76,47.15%,33.1,46.54%,33.18,48.64%,32.89
+Waveform,Morphling,skills\morphling_waveform.png,50.67%,54.72%,15.51,14.9,51.94%,15.43,49.58%,15.27,49.56%,15.91,48.81%,15.95,51.79%,15.26
+Whirling Axes (Melee),Troll Warlord,skills\troll_warlord_whirling_axes_melee.png,50.26%,55.32%,29.75,29.57,49.58%,30.07,50.32%,30.24,50.82%,29.35,50.50%,29.49,49.76%,30.32
+Whirling Axes (Ranged),Troll Warlord,skills\troll_warlord_whirling_axes_ranged.png,48.17%,52.45%,33.12,33.74,48.01%,33.14,48.92%,32.98,47.59%,33.26,47.34%,33.34,48.60%,33.01
+Whirling Death,Timbersaw,skills\shredder_whirling_death.png,50.27%,55.17%,17.19,16.57,49.97%,18.37,48.90%,18.7,50.71%,16.44,50.61%,16.72,48.83%,19.31
+Wild Axes,Beastmaster,skills\beastmaster_wild_axes.png,52.56%,56.87%,6.31,4.96,52.35%,6.8,53.43%,6.2,51.95%,6.19,52.03%,6.22,53.25%,6.43
+Windrun,Windranger,skills\windrunner_windrun.png,54.05%,58.01%,8.17,7.23,53.31%,8.54,53.77%,7.96,55.22%,8.12,54.30%,8.18,53.90%,8.16
+Winter's Curse,Winter Wyvern,skills\winter_wyvern_winters_curse.png,51.67%,56.33%,22.2,20.93,52.32%,23.02,51.59%,21.42,51.22%,22.8,50.93%,22.81,52.13%,21.84
+Wraithfire Blast,Wraith King,skills\skeleton_king_hellfire_blast.png,50.53%,55.13%,13.94,13.25,50.47%,14.54,50.58%,13.15,50.53%,14.32,50.42%,14.31,50.66%,13.53
+Wrath of Nature,Nature's Prophet,skills\furion_wrath_of_nature.png,51.74%,55.83%,23.95,24.45,50.78%,24.55,53.27%,23.45,50.09%,24.23,49.56%,24.35,53.06%,23.72
+Wukong's Command,Monkey King,skills\monkey_king_wukongs_command.png,49.90%,54.62%,14.6,14.64,49.61%,15.06,52.05%,13.2,44.44%,17.36,43.11%,18.36,52.25%,13.31
+X Marks the Spot,Kunkka,skills\kunkka_x_marks_the_spot.png,45.19%,51.41%,32.85,34.44,44.50%,33.09,44.96%,32.38,45.78%,33.02,45.16%,33.06,45.28%,32.56
