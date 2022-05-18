@@ -12,6 +12,7 @@ class Command(BaseCommand):
         print("Importing: ")
         new_count = 1
         for index, row in abilities_df.iterrows():
+            new_count = new_count + 1
             ability = Ability(name=row['Ability Name'], hero=row['Hero'], image=row['Img Link'],
                               total_winrate=float(row['HS Win'].strip("%")), avg_pickorder=float(row['HS Avg Pick']),
                               agi_winrate=float(row['Agi WR'].strip("%")), agi_pickorder=float(row['Agi Avg Pick']),
@@ -20,8 +21,8 @@ class Command(BaseCommand):
                               melee_winrate=float(row['Melee WR'].strip("%")), melee_pickorder=float(row['Melee Avg Pick']),
                               ranged_winrate=float(row['Ranged WR'].strip("%")), ranged_pickorder=float(row['Ranged Avg Pick']))
             ability.save()
-            print(f"{index}: {ability.name} ({ability.hero}, {ability.image}, {ability.total_winrate}, {ability.avg_pickorder}) – SUCCESS")
-            new_count = new_count + 1
+            print(f"{new_count}: {ability.name} ({ability.hero}, {ability.image}, {ability.total_winrate}, {ability.avg_pickorder}) – SUCCESS")
+
         print(f"Imported {new_count} abilities. Previously {prev_count} abilities was deleted.")
 
 

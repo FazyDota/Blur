@@ -213,18 +213,6 @@ $(document).ready(function() {
 
     var lastRun = null;
 
-    $(comboTable).DataTable(
-    {
-        "paging": false,
-        "info": false,
-        "order": [[ 1, "desc" ]],
-        responsive: true,
-        oSearch: {"bRegex": true, "bSmart": false},
-        "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
-        { targets: [1, 2], visible: false},
-        { targets: [3, 4], className: "bigger-font"}],
-    });
-
     $("#sortTable").on("click", "td.removable", function () {
         if (lastRun == null || new Date() - lastRun > 300) {
         var table = $("#sortTable").DataTable();
@@ -303,6 +291,40 @@ function updateSkippedUlts()
     }
 }
 
+function generateComboTable()
+{
+    console.log("generateComboTable run")
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+    search_array = ($searchBox.value).split("|");
+
+    if (search_array.length < 1)
+    {
+        return false;
+    }
+
+    if (!($.fn.dataTable.isDataTable( '#comboTable' )))
+    {
+        console.log(" init comboTable")
+        $(comboTable).DataTable(
+        {
+            "paging": false,
+            "info": false,
+            "order": [[ 1, "desc" ]],
+            responsive: true,
+            oSearch: {"bRegex": true, "bSmart": false},
+            "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
+            { targets: [1, 2], visible: false},
+            { targets: [3, 4], className: "bigger-font"}],
+        });
+        document.getElementById('comboTableBlock').style.display='block';
+    }
+    else
+    {
+        console.log(" research comboTable")
+        $('#comboTable').DataTable().search(" ").draw();
+    }
+}
+
 let allowSearchEvent = true;
 $(document).on( 'search.dt', function ( e, settings ) {
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
@@ -316,10 +338,6 @@ $(document).on( 'search.dt', function ( e, settings ) {
     {
         heroSet.clear();
         propagateHeroFilters();
-        if ( $.fn.dataTable.isDataTable( '#comboTable' ) )
-        {
-            $('#comboTable').DataTable().search(" ").draw();
-        }
     }
 } );
 

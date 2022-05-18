@@ -10,9 +10,9 @@ class Command(BaseCommand):
         abilities_df = pd.read_csv("ability_combos.csv")
         print(f"Deleted {prev_count} ability combos.")
         print("Importing: ")
-        new_count = 1
+        new_count = 0
         for index, row in abilities_df.iterrows():
-
+            new_count = new_count + 1
             is_native = True
             if row['Native'] == "NO":
                 is_native = False
@@ -23,8 +23,8 @@ class Command(BaseCommand):
                                          total_winrate=float(row['WR'].strip("%")), synergy=float(row['Synergy Delta'].strip("%")),
                                          sample=row['Sample'], native=is_native)
             ability_combo.save()
-            print(f"{index}: {ability_combo.ability_1_name}-{ability_combo.ability_2_name}, "
+            print(f"{new_count}: {ability_combo.ability_1_name}-{ability_combo.ability_2_name}, "
                   f"({ability_combo.ability_1_image}, {ability_combo.ability_2_image}, "
                   f"{ability_combo.total_winrate}, {ability_combo.synergy}, {ability_combo.native} ) – SUCCESS")
-            new_count = new_count + 1
+
         print(f"Imported {new_count} ability combos. Previously {prev_count} combos was deleted.")
