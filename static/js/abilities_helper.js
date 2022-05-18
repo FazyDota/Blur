@@ -221,7 +221,7 @@ $(document).ready(function() {
             .remove()
         .draw();
         lastRun = new Date(); }
-        });
+    });
 
     $(heroTableRadiant).DataTable(
     {
@@ -323,6 +323,25 @@ function generateComboTable()
         console.log(" research comboTable")
         $('#comboTable').DataTable().search(" ").draw();
     }
+
+    var lastRunCombo = null;
+
+    $("#comboTable").on("click", "td.removable", function () {
+    if (lastRunCombo == null || new Date() - lastRunCombo > 300) {
+    var table = $("#comboTable").DataTable();
+    table
+        .row($(this))
+        .remove()
+    .draw();
+    lastRunCombo = new Date(); }
+    });
+
+}
+
+function removeModelTables()
+{
+    document.getElementById('heroTableRadiantBlock').style.display='none';
+    document.getElementById('heroTableDireBlock').style.display='none';
 }
 
 let allowSearchEvent = true;

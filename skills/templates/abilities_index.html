@@ -61,8 +61,8 @@
     Will find abilities of Axe, Lion, Crystal Maiden, Kunkka, Void Spirit and Terrorblade.<br>
     You can click on an ability (in the ability column) and its row will be deleted from the result.</p>
 </div>
-<div id="heroTables" style="width: 95rem;">
-	<div id="heroTableRadiantBlock" style="width: 30%; float: left;">
+<div id="heroTables" style="width: 90rem;">
+	<div id="heroTableRadiantBlock" style="width: 50%; float: left;">
 		<div class="heroTableTitle">Radiant Models</div>
 		<table id="heroTableRadiant" class="table center-table center table-striped table-bordered table-sm herotable" cellspacing="0" width="65%">
 		<thead>
@@ -84,7 +84,7 @@
 		</tbody>
 		</table>
 	</div>
-	<div id="heroTableDireBlock" style="width: 30%; float: left;">
+	<div id="heroTableDireBlock" style="width: 50%; float: left;">
 		<div class="heroTableTitle">Dire Models</div>
 		<table id="heroTableDire" class="table center-table center table-striped table-bordered table-sm herotable" cellspacing="0" width="65%">
 		<thead>
@@ -106,44 +106,45 @@
 		</tbody>
 		</table>
 	</div>
-	<div id="comboTableBlock" style="width: 40%; float: left;">
-		<div class="heroTableTitle">Strong Combos</div>
-		<table id="comboTable" class="table center-table center table-striped table-bordered table-sm herotable" cellspacing="0" width="65%">
-		<thead>
-		<tr>
-		<th style="width: 25%;" class="text-center">Combo</th>
-		<th style="width: 20%;"  class="text-center">Hero 1</th>
-		<th style="width: 20%;"  class="text-center">Hero 2</th>
-		<th style="width: 18%;"  class="text-center">Winrate</th>
-		<th style="width: 17%;"  class="text-center">Sample size</th>
-		</tr>
-		</thead>
-		<tbody>
-
-		{% for combo in combos %}
-
-		<tr>
-		<td class="text-center removable">
-			<img src="{% static combo.ability_1_image %}" width="45" height="45">
-			<img src="{% static combo.ability_2_image %}" width="45" height="45">
-			<br><p style="display: none"> {{ combo.ability_1_name }} – {{ combo.ability_2_name }} </p></td>
-		<td class="text-center">{{ combo.ability_1_hero }}</td>
-		<td class="text-center">{{ combo.ability_2_hero }}</td>
-		<td class="text-center">{{ combo.total_winrate }}%</td>
-		<td class="text-center">{{ combo.sample }}</td>
-		</tr>
-		{% endfor %}
-
-		</tbody>
-		</table>
-	</div>
 </div>
-<div style="margin-bottom: 1rem; margin-top: 3rem; clear: both">
+<div id="comboTableBlock" style="width: 90rem; margin-bottom: 2rem; float: left;">
+	<div class="heroTableTitle">Strong Combos</div>
+	<table id="comboTable" class="table center-table center table-striped table-bordered table-sm herotable" cellspacing="0" width="65%">
+	<thead>
+	<tr>
+	<th style="width: 25%;" class="text-center removable">Combo</th>
+	<th style="width: 20%;"  class="text-center">Hero 1</th>
+	<th style="width: 20%;"  class="text-center">Hero 2</th>
+	<th style="width: 18%;"  class="text-center">Winrate</th>
+	<th style="width: 17%;"  class="text-center">Sample size</th>
+	</tr>
+	</thead>
+	<tbody>
+
+	{% for combo in combos %}
+
+	<tr>
+	<td class="text-center removable">
+		<img src="{% static combo.ability_1_image %}" width="45" height="45">
+		<img src="{% static combo.ability_2_image %}" width="45" height="45">
+		<br><p style="display: none"> {{ combo.ability_1_name }} – {{ combo.ability_2_name }} </p></td>
+	<td class="text-center">{{ combo.ability_1_hero }}</td>
+	<td class="text-center">{{ combo.ability_2_hero }}</td>
+	<td class="text-center">{{ combo.total_winrate }}%</td>
+	<td class="text-center">{{ combo.sample }}</td>
+	</tr>
+	{% endfor %}
+
+	</tbody>
+	</table>
+</div>
+<div style="margin-bottom: 1rem; margin-top: 3rem; clear: both; font-size: 20px;">
 	<button onclick="generateComboTable()">Regenerate Combos</button>
+	<button onclick="removeModelTables()">Remove Model Table</button>
 </div>
 <div id="heroList" style="margin-bottom: 1rem; margin-top: 1rem; clear: both">Replaced ultimates count: </div>
 <div style="width: 100%;">
-	<div style="width: 85rem; float: left;">
+	<div style="width: 90rem; float: left;">
 		<table id="sortTable" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
 		<thead>
 		<tr>
