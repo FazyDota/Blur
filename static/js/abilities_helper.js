@@ -133,22 +133,28 @@ function propagateHeroFilters(main=false){
     }
 }
 
-function getWinrateColor(value) {
+function getWinrateColor(value, max, step) {
 
 value = parseFloat(value.replace("%", ""))
 
+var thresholdArray = [];
+
+for (let i = 0; i < 9; i++) {
+  thresholdArray.push(max-(step*i));
+}
+
 const SLIDER_COLORS = [
-{ val: 56.0, color: "#1A5800"},
-{ val: 54.5, color: "#2D5A00"},
-{ val: 53.0, color: "#415C00"},
+{ val: thresholdArray[0], color: "#1A5800"},
+{ val: thresholdArray[1], color: "#2D5A00"},
+{ val: thresholdArray[2], color: "#415C00"},
 
-{ val: 51.5, color: "#545E00"},
-{ val: 50.0, color: "#676000"},
-{ val: 48.5, color: "#674F00"},
+{ val: thresholdArray[3], color: "#545E00"},
+{ val: thresholdArray[4], color: "#676000"},
+{ val: thresholdArray[5], color: "#674F00"},
 
-{ val: 47.0, color: "#673F00"},
-{ val: 45.5, color: "#672E00"},
-{ val: 44.0, color: "#671D00"},
+{ val: thresholdArray[6], color: "#673F00"},
+{ val: thresholdArray[7], color: "#672E00"},
+{ val: thresholdArray[8], color: "#671D00"},
 ]
 
 for (let i = 0; i < 9; i++) {
@@ -201,12 +207,12 @@ $(document).ready(function() {
             rowCallback: function(row, data, index)
             {
                 heroSet.add(data[1]);
-                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(2)").css({"background-color" : getWinrateColor(data[3]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(4)").css({"background-color" : getWinrateColor(data[5]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7]), "color" : "#FFFFFF"});
+                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(2)").css({"background-color" : getWinrateColor(data[3], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(4)").css({"background-color" : getWinrateColor(data[5], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7], 60.0, 1.75), "color" : "#FFFFFF"});
                 $(row).find("td:eq(7)").css({"background-color" : getPickOrderColor(data[8]), "color" : "#FFFFFF"});
             }
         });
@@ -232,7 +238,7 @@ $(document).ready(function() {
         "columnDefs": [{ "searchable": false, "targets": [1]}],
         rowCallback: function(row, data, index)
         {
-            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1], 55.5, 1.65), "color" : "#FFFFFF"});
         }
     });
 
@@ -245,7 +251,7 @@ $(document).ready(function() {
         "columnDefs": [{ "searchable": false, "targets": [1]}],
         rowCallback: function(row, data, index)
         {
-            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1]), "color" : "#FFFFFF"});
+            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1], 55.5, 1.65), "color" : "#FFFFFF"});
         }
     });
 
@@ -315,6 +321,10 @@ function generateComboTable()
             "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
             { targets: [1, 2], visible: false},
             { targets: [3, 4], className: "bigger-font"}],
+            rowCallback: function(row, data, index)
+            {
+                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[3], 66.0, 4.0), "color" : "#FFFFFF"});
+            }
         });
         document.getElementById('comboTableBlock').style.display='block';
     }
