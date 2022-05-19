@@ -18,7 +18,7 @@ json_hero_map = {   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker
                     "107": "Earth Spirit", "108": "Underlord", "109": "Terrorblade", "110": "Phoenix", "111": "Oracle", "112": "Winter Wyvern",
                     "113": "Arc Warden", "114": "Monkey King", "119": "Dark Willow", "120": "Pangolier", "121": "Grimstroke", "123": "Hoodwink",
                     "126": "Void Spirit", "128": "Snapfire", "129": "Mars", "135": "Dawnbreaker", "136": "Marci", "137": "Primal Beast"}
-const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick']
+const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick', 'Ogre Magi']
 
 $.fn.dataTable.ext.search.push(
     function( settings, searchData, index, rowData, counter ) {
@@ -299,7 +299,6 @@ function updateSkippedUlts()
 
 function generateComboTable()
 {
-    console.log("generateComboTable run")
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
     search_array = ($searchBox.value).split("|");
 
@@ -310,12 +309,11 @@ function generateComboTable()
 
     if (!($.fn.dataTable.isDataTable( '#comboTable' )))
     {
-        console.log(" init comboTable")
         $(comboTable).DataTable(
         {
             "paging": false,
             "info": false,
-            "order": [[ 1, "desc" ]],
+            "order": [[ 3, "desc" ]],
             responsive: true,
             oSearch: {"bRegex": true, "bSmart": false},
             "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
@@ -330,7 +328,6 @@ function generateComboTable()
     }
     else
     {
-        console.log(" research comboTable")
         $('#comboTable').DataTable().search(" ").draw();
     }
 
