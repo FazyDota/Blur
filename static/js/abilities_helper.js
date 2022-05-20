@@ -199,7 +199,21 @@ for (let i = 0; i < 9; i++) {
   thresholdArray.push(max-(step*i));
 }
 
-const SLIDER_COLORS = [
+const SLIDER_COLORS= [
+{ val: thresholdArray[0], color: "#1A8800"},
+{ val: thresholdArray[1], color: "#247D00"},
+{ val: thresholdArray[2], color: "#2D7200"},
+
+{ val: thresholdArray[3], color: "#376600"},
+{ val: thresholdArray[4], color: "#415B00"},
+{ val: thresholdArray[5], color: "#4A5000"},
+
+{ val: thresholdArray[6], color: "#544500"},
+{ val: thresholdArray[7], color: "#5D3900"},
+{ val: thresholdArray[8], color: "#672E00"},
+]
+
+const SLIDER_COLORS_OLD = [
 { val: thresholdArray[0], color: "#1A5800"},
 { val: thresholdArray[1], color: "#2D5A00"},
 { val: thresholdArray[2], color: "#415C00"},
@@ -283,13 +297,13 @@ $(document).ready(function() {
             rowCallback: function(row, data, index)
             {
                 heroSet.add(data[1]);
-                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 60.0, 1.75), "color" : "#FFFFFF"});
+                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 58.0, 1.75), "color" : "#FFFFFF"});
                 $(row).find("td:eq(2)").css({"background-color" : getPickOrderColor(data[3]), "color" : "#FFFFFF"});
-                $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4], 56.0, 1.55), "color" : "#FFFFFF"});
-                $(row).find("td:eq(4)").css({"background-color" : getWinrateColor(data[5], 56.0, 1.55), "color" : "#FFFFFF"});
-                $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6], 56.0, 1.55), "color" : "#FFFFFF"});
-                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7], 56.0, 1.55), "color" : "#FFFFFF"});
-                $(row).find("td:eq(7)").css({"background-color" : getWinrateColor(data[8], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4], 56.0, 1.75), "color" : "#FFFFFF"});
+                $(row).find("td:eq(4)").css({"background-color" : getWinrateColor(data[5], 56.0, 1.75), "color" : "#FFFFFF"});
+                $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6], 56.0, 1.75), "color" : "#FFFFFF"});
+                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7], 56.0, 1.75), "color" : "#FFFFFF"});
+                $(row).find("td:eq(7)").css({"background-color" : getWinrateColor(data[8], 56.0, 1.75), "color" : "#FFFFFF"});
             }
         });
 
@@ -363,7 +377,8 @@ function updateSkippedUlts()
     var heroCount = heroSet.size;
     var heroCountDiv = document.getElementById("heroCount");
     heroCountDiv.innerHTML = "Hero count: " + String(heroCount);
-    if (heroCount < 12)
+
+    if (heroCount != 12)
     {
         heroCountDiv.innerHTML = heroCountDiv.innerHTML + " (12 heroes needed for a full draft)";
         heroCountDiv.style.color = 'red';
@@ -408,7 +423,7 @@ function generateComboTable()
             { targets: [3, 4], className: "bigger-font"}],
             rowCallback: function(row, data, index)
             {
-                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[3], 66.0, 4.0), "color" : "#FFFFFF"});
+                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[3], 62.0, 3.0), "color" : "#FFFFFF"});
             }
         });
         document.getElementById('comboTableBlock').style.display='block';
