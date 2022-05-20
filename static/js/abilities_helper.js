@@ -188,8 +188,12 @@ function propagateHeroFilters(main=false){
     document.getElementById('heroTableDireBlock').style.display='none';
     }
 }
-
+let colorsEnabled = true;
 function getWinrateColor(value, max, step) {
+if (!colorsEnabled)
+{
+    return rgb(36,39,41);
+}
 
 value = parseFloat(value.replace("%", ""))
 
@@ -447,10 +451,47 @@ function generateComboTable()
 
 }
 
-function removeModelTables()
+let modelTableOn = true;
+function switchHeroModelTable()
 {
-    document.getElementById('heroTableRadiantBlock').style.display='none';
-    document.getElementById('heroTableDireBlock').style.display='none';
+    if (modelTableOn)
+    {
+        modelTableOn = false;
+        document.getElementById('heroTableRadiantBlock').style.display='none';
+        document.getElementById('heroTableDireBlock').style.display='none';
+    }
+    else
+    {
+        modelTableOn = true;
+        document.getElementById('heroTableRadiantBlock').style.display='block';
+        document.getElementById('heroTableDireBlock').style.display='block';
+    }
+
+}
+
+let allExceptAbilitiesSwitch = true;
+function switchAllExceptAbilities()
+{
+    if (allExceptAbilitiesSwitch)
+    {
+        allExceptAbilitiesSwitch = false;
+        document.getElementById('heroTableRadiantBlock').style.display='none';
+        document.getElementById('heroTableDireBlock').style.display='none';
+        document.getElementById('heroCount').style.display='none';
+        document.getElementById('heroList').style.display='none';
+        document.getElementById('sortTable_filter').style.display='none';
+        document.getElementById('sortTable').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+    }
+    else
+    {
+        allExceptAbilitiesSwitch = true;
+        document.getElementById('heroTableRadiantBlock').style.display='block';
+        document.getElementById('heroTableDireBlock').style.display='block';
+        document.getElementById('heroCount').style.display='block';
+        document.getElementById('heroList').style.display='block';
+        document.getElementById('sortTable_filter').style.display='block';
+    }
+
 }
 
 let allowSearchEvent = true;

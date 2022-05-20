@@ -47,6 +47,8 @@
 <link rel="stylesheet" href="{% static 'css/abilities_table.css' %}">
 <script src="{% static 'js/abilities_helper.js' %}"></script>
 <audio id="audio" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Ward.mp3"></audio>
+
+
 <div style="display:none">
 <h1>Ability Draft Helper v2.14</h1>
 <h4>All data used come from <a href="abilitydraft.datdota.com">abilitydraft.datdota.com</a>,
@@ -140,8 +142,9 @@
 </div>
 <div style="margin-bottom: 1rem; margin-top: 3rem; clear: both; font-size: 20px;">
 	<button onclick="generateComboTable()">Regenerate Combos</button>
-	<button onclick="removeModelTables()">Remove Model Table</button>
+	<button onclick="switchHeroModelTable()">Switch Model Table</button>
 	<button onclick="generateShareableLink()">Generate Permanent Link</button>
+	<button onclick="switchAllExceptAbilities()">Switch All Except Abilities</button>
 </div>
 <div id="heroCount" style="margin-bottom: 1rem; margin-top: 1rem; clear: both">Hero count: </div>
 <div id="heroList" style="margin-bottom: 1rem; margin-top: 1rem; clear: both">Replaced ultimates count: </div>
