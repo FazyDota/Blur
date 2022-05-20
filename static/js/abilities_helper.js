@@ -1,4 +1,17 @@
-json_hero_map = {   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker", "5": "Crystal Maiden", "6": "Drow Ranger", "7": "Earthshaker",
+class TwoWayMap {
+    constructor(map) {
+       this.map = map;
+       this.reverseMap = {};
+       for(const key in map) {
+          const value = map[key];
+          this.reverseMap[value] = key;
+       }
+    }
+    get(key) { return this.map[key]; }
+    revGet(key) { return this.reverseMap[key]; }
+}
+
+json_hero_map = new TwoWayMap({   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker", "5": "Crystal Maiden", "6": "Drow Ranger", "7": "Earthshaker",
                     "8": "Juggernaut", "9": "Mirana", "10": "Morphling", "11": "Shadow Fiend", "12": "Phantom Lancer", "13": "Puck",
                     "14": "Pudge", "15": "Razor", "16": "Sand King", "17": "Storm Spirit", "18": "Sven", "19": "Tiny", "20": "Vengeful Spirit",
                     "21": "Windranger", "22": "Zeus", "23": "Kunkka", "25": "Lina", "26": "Lion", "27": "Shadow Shaman", "28": "Slardar",
@@ -17,8 +30,43 @@ json_hero_map = {   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4": "Bloodseeker
                     "102": "Abaddon", "103": "Elder Titan", "104": "Legion Commander", "105": "Techies", "106": "Ember Spirit",
                     "107": "Earth Spirit", "108": "Underlord", "109": "Terrorblade", "110": "Phoenix", "111": "Oracle", "112": "Winter Wyvern",
                     "113": "Arc Warden", "114": "Monkey King", "119": "Dark Willow", "120": "Pangolier", "121": "Grimstroke", "123": "Hoodwink",
-                    "126": "Void Spirit", "128": "Snapfire", "129": "Mars", "135": "Dawnbreaker", "136": "Marci", "137": "Primal Beast"}
-const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick', 'Ogre Magi']
+                    "126": "Void Spirit", "128": "Snapfire", "129": "Mars", "135": "Dawnbreaker", "136": "Marci", "137": "Primal Beast"});
+
+hero_list =  [   "Anti-Mage", "Axe", "Bane", "Bloodseeker", "Crystal Maiden", "Drow Ranger", "Earthshaker",
+                 "Juggernaut", "Mirana", "Morphling", "Shadow Fiend", "Phantom Lancer", "Puck",
+                 "Pudge", "Razor", "Sand King", "Storm Spirit", "Sven", "Tiny", "Vengeful Spirit",
+                 "Windranger", "Zeus", "Kunkka", "Lina", "Lion", "Shadow Shaman", "Slardar",
+                 "Tidehunter", "Witch Doctor", "Lich", "Riki", "Enigma", "Tinker", "Sniper",
+                 "Necrophos", "Warlock", "Beastmaster", "Queen of Pain", "Venomancer", "Faceless Void",
+                 "Wraith King", "Death Prophet", "Phantom Assassin", "Pugna", "Templar Assassin", "Viper",
+                 "Luna", "Dragon Knight", "Dazzle", "Clockwerk", "Leshrac", "Nature's Prophet",
+                 "Lifestealer", "Dark Seer", "Clinkz", "Omniknight", "Enchantress", "Huskar",
+                 "Night Stalker", "Broodmother", "Bounty Hunter", "Weaver", "Jakiro", "Batrider",
+                 "Chen", "Spectre", "Ancient Apparition", "Doom", "Ursa", "Spirit Breaker",
+                 "Gyrocopter", "Alchemist", "Invoker", "Silencer", "Outworld Devourer", "Lycan",
+                 "Brewmaster", "Shadow Demon", "Lone Druid", "Chaos Knight", "Meepo", "Treant Protector",
+                 "Ogre Magi", "Undying", "Rubick", "Disruptor", "Nyx Assassin", "Naga Siren",
+                 "Keeper of the Light", "Io", "Visage", "Slark", "Medusa", "Troll Warlord",
+                 "Centaur Warrunner", "Magnus", "Timbersaw", "Bristleback", "Tusk", "Skywrath Mage",
+                 "Abaddon", "Elder Titan", "Legion Commander", "Techies", "Ember Spirit",
+                 "Earth Spirit", "Underlord", "Terrorblade", "Phoenix", "Oracle", "Winter Wyvern",
+                 "Arc Warden", "Monkey King", "Dark Willow", "Pangolier", "Grimstroke", "Hoodwink",
+                  "Void Spirit", "Snapfire", "Mars", "Dawnbreaker", "Marci", "Primal Beast"];
+
+
+const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick', 'Ogre Magi'];
+
+function getClosestHeroNames(word){
+    var foundMatches = [];
+    hero_list.forEach(function(element){
+        if(element.includes(word))
+        {
+            foundMatches.push(element);
+        }
+    });
+    return foundMatches;
+}
+
 
 $.fn.dataTable.ext.search.push(
     function( settings, searchData, index, rowData, counter ) {
@@ -188,8 +236,32 @@ for (let i = 0; i < 5; i++) {
 
 function get_hero_name_from_id(id)
 {
-    return json_hero_map[parseInt(id)];
+    return json_hero_map.get([parseInt(id)]);
 }
+
+function generateShareableLink()
+{
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+    search_array = ($searchBox.value).split("|");
+    var oldUrl = window.location.href;
+    console.log(oldUrl);
+    var newUrl = oldUrl.split("?")[0];
+    console.log(newUrl);
+    newUrl = newUrl + "?heroes=";
+    console.log(newUrl);
+
+    search_array = search_array.filter(function(element)
+    {
+        var heroes = getClosestHeroNames(element);
+        heroes.forEach(element => newUrl = newUrl + json_hero_map.revGet(element) + ",");
+    });
+
+    if (newUrl.slice(-1) == ",") {
+        newUrl = newUrl.slice(0, -1)
+    }
+    console.log(newUrl);
+}
+
 
 let heroSet = new Set();
 $(document).ready(function() {
