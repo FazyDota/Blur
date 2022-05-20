@@ -20,10 +20,6 @@
 a {
     color: #3391ff;
 }
-#sortTable_filter > label > input {
-      width: 90rem;
-      margin-left: 0rem !important;
-}
 
 #heroTableRadiantBlock {
 display: none;
@@ -88,10 +84,7 @@ td, th {
     border-left-color: rgb(60, 65, 68);
 }
 
-#sortTable_filter > label > .form-control-sm {
-    height: calc(2.5em + 0.5rem + 2px) !important;
-    font-size: 18px !important;
-}
+
 
 .smaller-font {
     font-size: 14px;
@@ -99,10 +92,6 @@ td, th {
 
 .bigger-font {
     font-size: 20px;
-}
-
-.stat-cell-font {
-    font-size: 18px !important;
 }
 
 .table thead th {
@@ -118,9 +107,6 @@ td, th {
     border-color: rgb(120, 112, 99) !important;
 }
 
-#sortTable > thead > tr > th:nth-child(1) {
-    width: 15rem !important;
-}
 
 #heroTables {
     margin-left: 0%;
@@ -159,10 +145,6 @@ td, th {
     margin: auto;
 }
 
-#sortTable {
-    column-width: 4rem;
-}
-
 #heroTableRadiant_wrapper {
     padding-bottom: 20px;
 }
@@ -175,6 +157,8 @@ td, th {
     display:none;
 }
 
+/* Main table wrappers */
+
 #sortTable_wrapper > div:nth-child(3) {
     display:none;
 }
@@ -183,7 +167,16 @@ td, th {
     display:none;
 }
 
-#sortTable_wrapper > div:nth-child(1) > div:nth-child(2) {
+/* Main table search bar and its label */
+
+#sortTable_filter > label > input {
+      width: 90rem;
+      margin-left: 0rem !important;
+}
+
+#sortTable_filter > label > .form-control-sm {
+    height: calc(2.5em + 0.5rem + 2px) !important;
+    font-size: 18px !important;
 }
 
 #sortTable_filter > label {
@@ -191,6 +184,8 @@ td, th {
     font-size: 25px !important;
 }
 
+
+/* Combos table search bar and its label */
 #comboTable_filter > label {
     display: none !important;
 }

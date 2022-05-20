@@ -275,22 +275,21 @@ $(document).ready(function() {
             "paging": false,
             "name": "sortTable",
             "oLanguage": { "sSearch": ""},
-            "order": [[ 8, "asc" ]],
+            "order": [[ 3, "asc" ]],
             responsive: true,
             oSearch: {"bRegex": true, "bSmart": false},
             "columnDefs": [{ "searchable": false, "targets": [0,2,3,4,5,6,7]},
-            { targets: [1], visible: false},
-            { targets: [0], className: "smaller-font"}],
+            { targets: [1], visible: false}],
             rowCallback: function(row, data, index)
             {
                 heroSet.add(data[1]);
-                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 56.0, 1.55), "color" : "#FFFFFF"});
-                $(row).find("td:eq(2)").css({"background-color" : getWinrateColor(data[3], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 60.0, 1.75), "color" : "#FFFFFF"});
+                $(row).find("td:eq(2)").css({"background-color" : getPickOrderColor(data[3]), "color" : "#FFFFFF"});
                 $(row).find("td:eq(3)").css({"background-color" : getWinrateColor(data[4], 56.0, 1.55), "color" : "#FFFFFF"});
                 $(row).find("td:eq(4)").css({"background-color" : getWinrateColor(data[5], 56.0, 1.55), "color" : "#FFFFFF"});
                 $(row).find("td:eq(5)").css({"background-color" : getWinrateColor(data[6], 56.0, 1.55), "color" : "#FFFFFF"});
-                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7], 60.0, 1.75), "color" : "#FFFFFF"});
-                $(row).find("td:eq(7)").css({"background-color" : getPickOrderColor(data[8]), "color" : "#FFFFFF"});
+                $(row).find("td:eq(6)").css({"background-color" : getWinrateColor(data[7], 56.0, 1.55), "color" : "#FFFFFF"});
+                $(row).find("td:eq(7)").css({"background-color" : getWinrateColor(data[8], 56.0, 1.55), "color" : "#FFFFFF"});
             }
         });
 
