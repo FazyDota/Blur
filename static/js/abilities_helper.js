@@ -403,6 +403,7 @@ function updateSkippedUlts()
     }
 }
 
+let comboTableDisplayed = false;
 function generateComboTable()
 {
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
@@ -431,10 +432,12 @@ function generateComboTable()
             }
         });
         document.getElementById('comboTableBlock').style.display='block';
+        comboTableDisplayed = true;
     }
     else
     {
         $('#comboTable').DataTable().search(" ").draw();
+        comboTableDisplayed = true;
     }
 
     var lastRunCombo = null;
@@ -477,6 +480,7 @@ function switchAllExceptAbilities()
         allExceptAbilitiesSwitch = false;
         document.getElementById('heroTableRadiantBlock').style.display='none';
         document.getElementById('heroTableDireBlock').style.display='none';
+        document.getElementById('comboTableBlock').style.display='none';
         document.getElementById('heroCount').style.display='none';
         document.getElementById('heroList').style.display='none';
         document.getElementById('sortTable_filter').style.display='none';
@@ -487,6 +491,10 @@ function switchAllExceptAbilities()
         allExceptAbilitiesSwitch = true;
         document.getElementById('heroTableRadiantBlock').style.display='block';
         document.getElementById('heroTableDireBlock').style.display='block';
+        if (comboTableDisplayed)
+        {
+            document.getElementById('comboTableBlock').style.display='block';
+        }
         document.getElementById('heroCount').style.display='block';
         document.getElementById('heroList').style.display='block';
         document.getElementById('sortTable_filter').style.display='block';
