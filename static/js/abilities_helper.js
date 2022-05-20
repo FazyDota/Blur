@@ -145,18 +145,26 @@ function insertHeroName(text, sound=true)
 function propagateHeroFilters(main=false){
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
     search_array = ($searchBox.value).split("|");
+
+    var foundHeroes = [];
     search_array = search_array.filter(function(item) {
-    return item.length > 1;
+        return item.length > 1;
+    });
+    search_array = search_array.filter(function(element)
+    {
+        var heroes = getClosestHeroNames(element);
+        heroes.forEach(element => foundHeroes.push(element));
     });
 
-    radiantHeroes = search_array.slice(0,5).join('|');
+
+    radiantHeroes = foundHeroes.slice(0,5).join('|');
     if (radiantHeroes.slice(-1) == "|") {
-    radiantHeroes = radiantHeroes.slice(0, -1)
+        radiantHeroes = radiantHeroes.slice(0, -1)
     }
 
-    direHeroes = search_array.slice(5,10).join('|');
+    direHeroes = foundHeroes.slice(5,10).join('|');
     if (direHeroes.slice(-1) == "|") {
-    direHeroes = direHeroes.slice(0, -1)
+        direHeroes = direHeroes.slice(0, -1)
     }
 
     if (main==true)
@@ -244,11 +252,8 @@ function generateShareableLink()
     var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
     search_array = ($searchBox.value).split("|");
     var oldUrl = window.location.href;
-    console.log(oldUrl);
     var newUrl = oldUrl.split("?")[0];
-    console.log(newUrl);
     newUrl = newUrl + "?heroes=";
-    console.log(newUrl);
 
     search_array = search_array.filter(function(element)
     {
@@ -259,7 +264,7 @@ function generateShareableLink()
     if (newUrl.slice(-1) == ",") {
         newUrl = newUrl.slice(0, -1)
     }
-    console.log(newUrl);
+    window.open(newUrl, '_blank').focus();
 }
 
 
@@ -356,6 +361,17 @@ function updateSkippedUlts()
             }
         }
     });
+    var heroCount = heroSet.size;
+    var heroCountDiv = document.getElementById("heroCount");
+    heroCountDiv.innerHTML = "Hero count: " + String(heroCount);
+    if (heroCount < 12)
+    {
+        heroCountDiv.innerHTML = heroCountDiv.innerHTML + " (12 heroes needed for a full draft)";
+        heroCountDiv.style.color = 'red';
+    }
+    else {
+    heroCountDiv.style.color = 'white';
+    }
 
     var heroList = document.getElementById("heroList");
     heroList.innerHTML = "Replaced ultimates count: " + skippedUlts;
