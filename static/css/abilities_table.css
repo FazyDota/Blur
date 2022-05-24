@@ -41,6 +41,7 @@ body {
     display: flex;
     overflow-x: auto !important;
     justify-content: center;
+    flex-direction: column;
     width: 100%;
 }
 
