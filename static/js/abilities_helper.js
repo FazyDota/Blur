@@ -53,7 +53,6 @@ hero_list =  [   "Anti-Mage", "Axe", "Bane", "Bloodseeker", "Crystal Maiden", "D
                  "Arc Warden", "Monkey King", "Dark Willow", "Pangolier", "Grimstroke", "Hoodwink",
                   "Void Spirit", "Snapfire", "Mars", "Dawnbreaker", "Marci", "Primal Beast"];
 
-
 const no_ult_heroes = ['Arc Warden', 'Invoker', 'Meepo', 'Rubick', 'Ogre Magi'];
 
 function getClosestHeroNames(word){
@@ -67,7 +66,6 @@ function getClosestHeroNames(word){
     return foundMatches;
 }
 
-
 $.fn.dataTable.ext.search.push(
     function( settings, searchData, index, rowData, counter ) {
         if (settings.nTable.id !== 'comboTable'){
@@ -79,7 +77,6 @@ $.fn.dataTable.ext.search.push(
         if (search_array.slice(-1) == "") {
             search_array = search_array.slice(0, -1)
         }
-
 
         var hero1 = searchData[1];
         var hero2 = searchData[2];
@@ -93,7 +90,6 @@ $.fn.dataTable.ext.search.push(
             return true;
           }
         });
-        //search_array.splice(match1, 1);
 
         const match2 = search_array.findIndex(element => {
           if (hero2.includes(element)) {
@@ -102,7 +98,6 @@ $.fn.dataTable.ext.search.push(
           }
         });
 
-        //if (search_array.includes(hero1) && search_array.includes(hero2))
         if (has_hero1 && has_hero2)
         {
             return true
@@ -155,7 +150,6 @@ function propagateHeroFilters(main=false){
         var heroes = getClosestHeroNames(element);
         heroes.forEach(element => foundHeroes.push(element));
     });
-
 
     radiantHeroes = foundHeroes.slice(0,5).join('|');
     if (radiantHeroes.slice(-1) == "|") {
@@ -378,7 +372,22 @@ function updateSkippedUlts()
             }
         }
     });
-    var heroCount = heroSet.size;
+
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+    search_array = ($searchBox.value).split("|");
+
+    var foundHeroes = [];
+    search_array = search_array.filter(function(item) {
+        return item.length > 1;
+    });
+    search_array = search_array.filter(function(element)
+    {
+        var heroes = getClosestHeroNames(element);
+        heroes.forEach(element => foundHeroes.push(element));
+    });
+
+    // var heroCount = heroSet.size;
+    var heroCount = foundHeroes.length;
     var heroCountDiv = document.getElementById("heroCount");
     heroCountDiv.innerHTML = "Hero count: " + String(heroCount);
 
@@ -388,7 +397,7 @@ function updateSkippedUlts()
         heroCountDiv.style.color = 'red';
     }
     else {
-    heroCountDiv.style.color = 'white';
+        heroCountDiv.style.color = 'white';
     }
 
     var heroList = document.getElementById("heroList");

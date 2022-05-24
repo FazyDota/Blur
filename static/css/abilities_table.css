@@ -39,13 +39,13 @@ display: none !important;
 
 body {
     display: flex;
+    overflow-x: auto !important;
     justify-content: center;
     width: 100%;
 }
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
     color: rgb(209, 205, 199);
 }
 
