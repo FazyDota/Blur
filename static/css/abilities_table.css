@@ -38,6 +38,10 @@ display: none !important;
 }
 
 body {
+
+}
+
+#mainWrapper {
     display: flex;
     overflow-x: auto !important;
     justify-content: center;
@@ -72,8 +76,6 @@ td, th {
 
 
 #buttonsList {
-    display: flex;
-    justify-content: center;
     margin-bottom: 1rem;
     margin-top: 3rem;
     clear: both;
