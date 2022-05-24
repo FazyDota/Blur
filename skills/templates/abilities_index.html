@@ -63,6 +63,7 @@
     Will find abilities of Axe, Lion, Crystal Maiden, Kunkka, Void Spirit and Terrorblade.<br>
     You can click on an ability (in the ability column) and its row will be deleted from the result.</p>
 </div>
+
 <div id="heroTables" style="width: 90rem;">
 	<div id="heroTableRadiantBlock" style="width: 50%; float: left;">
 		<div class="heroTableTitle">Radiant Models</div>
@@ -114,11 +115,12 @@
 	<table id="comboTable" class="table center-table center table-striped table-bordered table-sm herotable" cellspacing="0" width="65%">
 	<thead>
 	<tr>
-	<th style="width: 25%;" class="text-center removable">Combo</th>
-	<th style="width: 20%;"  class="text-center">Hero 1</th>
-	<th style="width: 20%;"  class="text-center">Hero 2</th>
-	<th style="width: 18%;"  class="text-center">Winrate</th>
-	<th style="width: 17%;"  class="text-center">Sample size</th>
+	<th style="width: 34%;" class="text-center removable">Combo</th>
+	<th style="width: 0%;"  class="text-center">Hero 1</th>
+	<th style="width: 0%;"  class="text-center">Hero 2</th>
+	<th style="width: 22%;"  class="text-center">Winrate</th>
+	<th style="width: 22%;"  class="text-center">Synergy</th>
+	<th style="width: 22%;"  class="text-center">Sample size</th>
 	</tr>
 	</thead>
 	<tbody>
@@ -133,6 +135,7 @@
 	<td class="text-center">{{ combo.ability_1_hero }}</td>
 	<td class="text-center">{{ combo.ability_2_hero }}</td>
 	<td class="text-center">{{ combo.total_winrate }}%</td>
+	<td class="text-center">{{ combo.synergy }}%</td>
 	<td class="text-center">{{ combo.sample }}</td>
 	</tr>
 	{% endfor %}
@@ -140,7 +143,7 @@
 	</tbody>
 	</table>
 </div>
-<div style="margin-bottom: 1rem; margin-top: 3rem; clear: both; font-size: 20px;">
+<div id="buttonsList">
 	<button onclick="generateComboTable()">Regenerate Combos</button>
 	<button onclick="switchHeroModelTable()">Switch Model Table</button>
 	<button onclick="generateShareableLink()">Generate Permanent Link</button>

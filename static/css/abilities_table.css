@@ -42,6 +42,7 @@ body {
     overflow-x: auto !important;
     justify-content: center;
     flex-direction: column;
+    align-items: center;
     width: 100%;
 }
 
@@ -67,6 +68,16 @@ td, th {
     vertical-align: middle !important;
     padding-right: 0px !important;
     width: 10rem;
+}
+
+
+#buttonsList {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+    clear: both;
+    font-size: 20px;
 }
 
 .dataTables_wrapper .dataTables_filter{

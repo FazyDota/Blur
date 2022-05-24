@@ -11,7 +11,7 @@ def abilities_index(request):
 
     abilities = Ability.objects.all()
     heroes = Hero.objects.all()
-    strong_combos = AbilityCombo.objects.filter(native=False, total_winrate__gte=54.0, synergy__gte=2.0)
+    strong_combos = AbilityCombo.objects.filter(native=False, total_winrate__gte=53.0, synergy__gte=1.5)
 
     context = {
 
