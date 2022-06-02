@@ -30,10 +30,10 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 28,Stifling Dagger,Phantom Assassin,47.20%,Infernal Blade,Doom,54.24%,2954,60.26%,9.66%,NO,skills\phantom_assassin_stifling_dagger.png,skills\doom_bringer_infernal_blade.png
 29,Sleight of Fist,Ember Spirit,50.02%,Luminosity,Dawnbreaker,50.01%,3029,59.56%,9.54%,NO,skills\ember_spirit_sleight_of_fist.png,skills\dawnbreaker_luminosity.png
 30,Freezing Field,Crystal Maiden,51.83%,Shukuchi,Weaver,55.67%,3396,63.25%,9.53%,NO,skills\crystal_maiden_freezing_field.png,skills\weaver_shukuchi.png
-31,Infest,Lifestealer,49.50%,Tether,Io,52.51%,4186,60.49%,9.51%,NO,skills\life_stealer_infest.png,skills\wisp_tether.png
+31,Infest,Lifestealer,49.50%,Tether,Wisp,52.51%,4186,60.49%,9.51%,NO,skills\life_stealer_infest.png,skills\wisp_tether.png
 32,Death Pact,Clinkz,52.21%,Arctic Burn,Winter Wyvern,59.80%,2140,65.37%,9.50%,NO,skills\clinkz_death_pact.png,skills\winter_wyvern_arctic_burn.png
 33,Enchant Totem,Earthshaker,45.84%,Mortal Strike,Wraith King,48.03%,1989,56.01%,9.08%,NO,skills\earthshaker_enchant_totem.png,skills\skeleton_king_mortal_strike.png
-34,Reincarnation,Wraith King,59.78%,Spirits,Io,53.52%,2474,65.60%,9.04%,NO,skills\skeleton_king_reincarnation.png,skills\wisp_spirits.png
+34,Reincarnation,Wraith King,59.78%,Spirits,Wisp,53.52%,2474,65.60%,9.04%,NO,skills\skeleton_king_reincarnation.png,skills\wisp_spirits.png
 35,Searing Arrows,Clinkz,46.23%,Arctic Burn,Winter Wyvern,59.80%,2076,61.56%,8.98%,NO,skills\clinkz_searing_arrows.png,skills\winter_wyvern_arctic_burn.png
 36,Wild Axes,Beastmaster,52.56%,Macropyre,Jakiro,54.63%,2021,62.54%,8.96%,NO,skills\beastmaster_wild_axes.png,skills\jakiro_macropyre.png
 37,Bash of the Deep,Slardar,51.69%,Fervor,Troll Warlord,46.78%,2035,58.03%,8.86%,NO,skills\slardar_bash.png,skills\troll_warlord_fervor.png
@@ -60,7 +60,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 58,Wrath of Nature,Nature's Prophet,51.74%,Shadow Realm,Dark Willow,52.97%,2161,59.93%,7.57%,NO,skills\furion_wrath_of_nature.png,skills\dark_willow_shadow_realm.png
 59,Cloak and Dagger,Riki,55.94%,Spear of Mars,Mars,50.66%,2360,60.76%,7.53%,NO,skills\riki_backstab.png,skills\mars_spear.png
 60,Enchant Totem,Earthshaker,45.84%,Boundless Strike,Monkey King,50.64%,3134,55.68%,7.50%,NO,skills\earthshaker_enchant_totem.png,skills\monkey_king_boundless_strike.png
-61,Vengeance Aura,Vengeful Spirit,56.01%,Spirits,Io,53.52%,1955,62.20%,7.45%,NO,skills\vengefulspirit_command_aura.png,skills\wisp_spirits.png
+61,Vengeance Aura,Vengeful Spirit,56.01%,Spirits,Wisp,53.52%,1955,62.20%,7.45%,NO,skills\vengefulspirit_command_aura.png,skills\wisp_spirits.png
 62,Cloak and Dagger,Riki,55.94%,Ink Swell,Grimstroke,51.61%,2629,61.16%,7.43%,NO,skills\riki_backstab.png,skills\grimstroke_spirit_walk.png
 63,Freezing Field,Crystal Maiden,51.83%,Blink (QoP),Queen of Pain,54.20%,2183,60.33%,7.33%,NO,skills\crystal_maiden_freezing_field.png,skills\queenofpain_blink.png
 64,Marksmanship,Drow Ranger,56.08%,Insatiable Hunger,Broodmother,50.46%,2050,60.44%,7.24%,NO,skills\drow_ranger_marksmanship.png,skills\broodmother_insatiable_hunger.png
@@ -74,10 +74,10 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 72,Death Pact,Clinkz,52.21%,Flak Cannon,Gyrocopter,51.69%,2131,58.89%,6.94%,NO,skills\clinkz_death_pact.png,skills\gyrocopter_flak_cannon.png
 73,Magic Missile,Vengeful Spirit,53.69%,Vengeance Aura,Vengeful Spirit,56.01%,2629,61.77%,6.93%,YES,skills\vengefulspirit_magic_missile.png,skills\vengefulspirit_command_aura.png
 74,Aftershock,Earthshaker,55.52%,Rocket Barrage,Gyrocopter,49.51%,3653,59.35%,6.92%,NO,skills\earthshaker_aftershock.png,skills\gyrocopter_rocket_barrage.png
-75,Pulse Nova,Leshrac,52.15%,Spirits,Io,53.52%,2578,59.74%,6.90%,NO,skills\leshrac_pulse_nova.png,skills\wisp_spirits.png
-76,Infest,Lifestealer,49.50%,Spirits,Io,53.52%,3521,58.36%,6.89%,NO,skills\life_stealer_infest.png,skills\wisp_spirits.png
+75,Pulse Nova,Leshrac,52.15%,Spirits,Wisp,53.52%,2578,59.74%,6.90%,NO,skills\leshrac_pulse_nova.png,skills\wisp_spirits.png
+76,Infest,Lifestealer,49.50%,Spirits,Wisp,53.52%,3521,58.36%,6.89%,NO,skills\life_stealer_infest.png,skills\wisp_spirits.png
 77,Life Break,Huskar,48.86%,Dispersion,Spectre,56.64%,2205,59.46%,6.85%,NO,skills\huskar_life_break.png,skills\spectre_dispersion.png
-78,Glaives of Wisdom,Silencer,57.82%,Overcharge,Io,48.19%,2199,59.62%,6.83%,NO,skills\silencer_glaives_of_wisdom.png,skills\wisp_overcharge.png
+78,Glaives of Wisdom,Silencer,57.82%,Overcharge,Wisp,48.19%,2199,59.62%,6.83%,NO,skills\silencer_glaives_of_wisdom.png,skills\wisp_overcharge.png
 79,Light Strike Array,Lina,52.00%,Cloak and Dagger,Riki,55.94%,2802,60.74%,6.81%,NO,skills\lina_light_strike_array.png,skills\riki_backstab.png
 80,Heartstopper Aura,Necrophos,58.32%,Chakram,Timbersaw,50.35%,2004,60.98%,6.79%,NO,skills\necrolyte_heartstopper_aura.png,skills\shredder_chakram.png
 81,God's Strength,Sven,47.95%,Arctic Burn,Winter Wyvern,59.80%,2104,60.22%,6.67%,NO,skills\sven_gods_strength.png,skills\winter_wyvern_arctic_burn.png
@@ -85,13 +85,13 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 83,Bash of the Deep,Slardar,51.69%,Battle Trance,Troll Warlord,48.89%,3598,56.84%,6.57%,NO,skills\slardar_bash.png,skills\troll_warlord_battle_trance.png
 84,Moon Glaives,Luna,53.26%,Conjure Image,Terrorblade,48.87%,2635,57.57%,6.55%,NO,skills\luna_moon_glaive.png,skills\terrorblade_conjure_image.png
 85,Shukuchi,Weaver,55.67%,Hoof Stomp,Centaur Warrunner,51.85%,2532,60.27%,6.54%,NO,skills\weaver_shukuchi.png,skills\centaur_hoof_stomp.png
-86,Overcharge,Io,48.19%,Arctic Burn,Winter Wyvern,59.80%,2484,60.23%,6.54%,NO,skills\wisp_overcharge.png,skills\winter_wyvern_arctic_burn.png
+86,Overcharge,Wisp,48.19%,Arctic Burn,Winter Wyvern,59.80%,2484,60.23%,6.54%,NO,skills\wisp_overcharge.png,skills\winter_wyvern_arctic_burn.png
 87,Dispersion,Spectre,56.64%,Reactive Armor,Timbersaw,49.23%,2014,59.33%,6.53%,NO,skills\spectre_dispersion.png,skills\shredder_reactive_armor.png
 88,Infest,Lifestealer,49.50%,Bulwark,Mars,54.91%,3709,58.64%,6.51%,NO,skills\life_stealer_infest.png,skills\mars_bulwark.png
 89,Cloak and Dagger,Riki,55.94%,Inner Fire,Huskar,52.75%,1991,60.82%,6.50%,NO,skills\riki_backstab.png,skills\huskar_inner_fire.png
 90,Moon Glaives,Luna,53.26%,Mirror Image,Naga Siren,51.95%,2888,59.07%,6.47%,NO,skills\luna_moon_glaive.png,skills\naga_siren_mirror_image.png
 91,Omnislash,Juggernaut,47.90%,Bash of the Deep,Slardar,51.69%,2138,56.22%,6.46%,NO,skills\juggernaut_omni_slash.png,skills\slardar_bash.png
-92,Nature's Attendants,Enchantress,53.74%,Tether,Io,52.51%,2583,59.50%,6.38%,NO,skills\enchantress_natures_attendants.png,skills\wisp_tether.png
+92,Nature's Attendants,Enchantress,53.74%,Tether,Wisp,52.51%,2583,59.50%,6.38%,NO,skills\enchantress_natures_attendants.png,skills\wisp_tether.png
 93,Blade Fury,Juggernaut,55.09%,Hookshot,Clockwerk,49.12%,2180,58.39%,6.38%,NO,skills\juggernaut_blade_fury.png,skills\rattletrap_hookshot.png
 94,Blink (QoP),Queen of Pain,54.20%,Rolling Thunder,Pangolier,50.45%,1991,58.66%,6.37%,NO,skills\queenofpain_blink.png,skills\pangolier_gyroshell.png
 95,Pulse Nova,Leshrac,52.15%,Snowball,Tusk,51.74%,2300,58.30%,6.36%,NO,skills\leshrac_pulse_nova.png,skills\tusk_snowball.png
@@ -134,16 +134,16 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 132,Marksmanship,Drow Ranger,56.08%,Meld,Templar Assassin,49.15%,2393,58.25%,5.75%,NO,skills\drow_ranger_marksmanship.png,skills\templar_assassin_meld.png
 133,Vengeance Aura,Vengeful Spirit,56.01%,Death Ward,Witch Doctor,49.06%,2013,58.17%,5.75%,NO,skills\vengefulspirit_command_aura.png,skills\witch_doctor_death_ward.png
 134,Walrus PUNCH!,Tusk,47.29%,Natural Order,Elder Titan,52.88%,2421,55.72%,5.71%,NO,skills\tusk_walrus_punch.png,skills\elder_titan_natural_order_spirit.png
-135,Wild Axes,Beastmaster,52.56%,Spirits,Io,53.52%,1988,58.75%,5.71%,NO,skills\beastmaster_wild_axes.png,skills\wisp_spirits.png
+135,Wild Axes,Beastmaster,52.56%,Spirits,Wisp,53.52%,1988,58.75%,5.71%,NO,skills\beastmaster_wild_axes.png,skills\wisp_spirits.png
 136,Omnislash,Juggernaut,47.90%,Fury Swipes,Ursa,53.02%,2189,56.10%,5.70%,NO,skills\juggernaut_omni_slash.png,skills\ursa_fury_swipes.png
 137,Freezing Field,Crystal Maiden,51.83%,Skeleton Walk,Clinkz,54.30%,2120,58.73%,5.68%,NO,skills\crystal_maiden_freezing_field.png,skills\clinkz_wind_walk.png
-138,Tether,Io,52.51%,Shadow Dance,Slark,57.86%,2644,60.78%,5.66%,NO,skills\wisp_tether.png,skills\slark_shadow_dance.png
+138,Tether,Wisp,52.51%,Shadow Dance,Slark,57.86%,2644,60.78%,5.66%,NO,skills\wisp_tether.png,skills\slark_shadow_dance.png
 139,Burrowstrike,Sand King,53.67%,Hoof Stomp,Centaur Warrunner,51.85%,2424,58.42%,5.66%,NO,skills\sandking_burrowstrike.png,skills\centaur_hoof_stomp.png
 140,Moon Glaives,Luna,53.26%,Burning Barrage,Clinkz,46.55%,2542,55.43%,5.63%,NO,skills\luna_moon_glaive.png,skills\clinkz_strafe.png
 141,Presence of the Dark Lord,Shadow Fiend,53.38%,Grow,Tiny,50.35%,2046,57.48%,5.63%,NO,skills\nevermore_dark_lord.png,skills\tiny_grow.png
 142,Fury Swipes,Ursa,53.02%,Battle Trance,Troll Warlord,48.89%,3442,56.54%,5.62%,NO,skills\ursa_fury_swipes.png,skills\troll_warlord_battle_trance.png
 143,Blade Fury,Juggernaut,55.09%,Ink Swell,Grimstroke,51.61%,2667,58.94%,5.62%,NO,skills\juggernaut_blade_fury.png,skills\grimstroke_spirit_walk.png
-144,Spirits,Io,53.52%,Bulwark,Mars,54.91%,2479,59.82%,5.61%,NO,skills\wisp_spirits.png,skills\mars_bulwark.png
+144,Spirits,Wisp,53.52%,Bulwark,Mars,54.91%,2479,59.82%,5.61%,NO,skills\wisp_spirits.png,skills\mars_bulwark.png
 145,Epicenter,Sand King,49.32%,Shukuchi,Weaver,55.67%,2383,57.99%,5.60%,NO,skills\sandking_epicenter.png,skills\weaver_shukuchi.png
 146,Aftershock,Earthshaker,55.52%,Shrapnel,Sniper,55.82%,2178,61.25%,5.58%,NO,skills\earthshaker_aftershock.png,skills\sniper_shrapnel.png
 147,Feast,Lifestealer,50.34%,Split Shot,Medusa,47.55%,1958,54.49%,5.57%,NO,skills\life_stealer_feast.png,skills\medusa_split_shot.png
@@ -270,7 +270,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 269,Liquid Fire,Jakiro,49.30%,Infernal Blade,Doom,54.24%,2088,55.84%,4.13%,NO,skills\jakiro_liquid_fire.png,skills\doom_bringer_infernal_blade.png
 270,Bloodrage,Bloodseeker,46.67%,Shadow Realm,Dark Willow,52.97%,2287,53.83%,4.11%,NO,skills\bloodseeker_bloodrage.png,skills\dark_willow_shadow_realm.png
 271,Tidebringer,Kunkka,49.79%,Presence of the Dark Lord,Shadow Fiend,53.38%,2217,55.66%,4.11%,NO,skills\kunkka_tidebringer.png,skills\nevermore_dark_lord.png
-272,Rot,Pudge,52.59%,Spirits,Io,53.52%,2549,57.16%,4.10%,NO,skills\pudge_rot.png,skills\wisp_spirits.png
+272,Rot,Pudge,52.59%,Spirits,Wisp,53.52%,2549,57.16%,4.10%,NO,skills\pudge_rot.png,skills\wisp_spirits.png
 273,Omnislash,Juggernaut,47.90%,Great Cleave,Sven,48.27%,2481,52.16%,4.07%,NO,skills\juggernaut_omni_slash.png,skills\sven_great_cleave.png
 274,Elder Dragon Form,Dragon Knight,51.00%,Astral Spirit,Elder Titan,49.35%,2218,54.24%,4.07%,NO,skills\dragon_knight_elder_dragon_form.png,skills\elder_titan_ancestral_spirit.png
 275,Skeleton Walk,Clinkz,54.30%,Death Pact,Clinkz,52.21%,8563,57.27%,4.03%,YES,skills\clinkz_wind_walk.png,skills\clinkz_death_pact.png
@@ -341,7 +341,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 340,Curse of Avernus,Abaddon,49.83%,Borrowed Time,Abaddon,56.12%,7754,56.35%,3.46%,YES,skills\abaddon_frostmourne.png,skills\abaddon_borrowed_time.png
 341,Chaotic Offering,Warlock,54.18%,Pit of Malice,Underlord,51.39%,1990,56.23%,3.46%,NO,skills\warlock_rain_of_chaos.png,skills\abyssal_underlord_pit_of_malice.png
 342,Ice Path,Jakiro,51.83%,Macropyre,Jakiro,54.63%,15833,56.66%,3.45%,YES,skills\jakiro_ice_path.png,skills\jakiro_macropyre.png
-343,Overcharge,Io,48.19%,Shadow Realm,Dark Willow,52.97%,2795,53.95%,3.43%,NO,skills\wisp_overcharge.png,skills\dark_willow_shadow_realm.png
+343,Overcharge,Wisp,48.19%,Shadow Realm,Dark Willow,52.97%,2795,53.95%,3.43%,NO,skills\wisp_overcharge.png,skills\dark_willow_shadow_realm.png
 344,Life Drain,Pugna,46.99%,Arcane Supremacy,Rubick,49.42%,2535,51.60%,3.41%,NO,skills\pugna_life_drain.png,skills\rubick_arcane_supremacy.png
 345,Take Aim,Sniper,50.06%,Death Pact,Clinkz,52.21%,2078,54.52%,3.40%,NO,skills\sniper_take_aim.png,skills\clinkz_death_pact.png
 346,Moon Glaives,Luna,53.26%,Battle Trance,Troll Warlord,48.89%,2457,54.42%,3.39%,NO,skills\luna_moon_glaive.png,skills\troll_warlord_battle_trance.png
@@ -452,7 +452,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 451,Aftershock,Earthshaker,55.52%,Crypt Swarm,Death Prophet,47.77%,2061,54.05%,2.55%,NO,skills\earthshaker_aftershock.png,skills\death_prophet_carrion_swarm.png
 452,Disruption,Shadow Demon,53.49%,Demonic Purge,Shadow Demon,50.32%,13060,54.36%,2.49%,YES,skills\shadow_demon_disruption.png,skills\shadow_demon_demonic_purge.png
 453,Kraken Shell,Tidehunter,55.96%,Anchor Smash,Tidehunter,46.81%,12539,53.67%,2.49%,YES,skills\tidehunter_kraken_shell.png,skills\tidehunter_anchor_smash.png
-454,Tether,Io,52.51%,Spirits,Io,53.52%,7569,55.50%,2.49%,YES,skills\wisp_tether.png,skills\wisp_spirits.png
+454,Tether,Wisp,52.51%,Spirits,Wisp,53.52%,7569,55.50%,2.49%,YES,skills\wisp_tether.png,skills\wisp_spirits.png
 455,Tombstone,Undying,56.65%,Winter's Curse,Winter Wyvern,51.67%,2062,56.60%,2.49%,NO,skills\undying_tombstone.png,skills\winter_wyvern_winters_curse.png
 456,Cold Feet,Ancient Apparition,49.62%,Ice Blast,Ancient Apparition,53.46%,14049,53.98%,2.48%,YES,skills\ancient_apparition_cold_feet.png,skills\ancient_apparition_ice_blast.png
 457,Shukuchi,Weaver,55.67%,Geminate Attack,Weaver,47.95%,3162,54.14%,2.48%,YES,skills\weaver_shukuchi.png,skills\weaver_geminate_attack.png
@@ -479,7 +479,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 478,Thirst,Bloodseeker,54.93%,Rupture,Bloodseeker,49.44%,13932,54.42%,2.31%,YES,skills\bloodseeker_thirst.png,skills\bloodseeker_rupture.png
 479,Malefice,Enigma,51.36%,Midnight Pulse,Enigma,51.72%,7757,53.85%,2.31%,YES,skills\enigma_malefice.png,skills\enigma_midnight_pulse.png
 480,Lunar Blessing,Luna,50.31%,Elder Dragon Form,Dragon Knight,51.00%,2126,52.96%,2.31%,NO,skills\luna_lunar_blessing.png,skills\dragon_knight_elder_dragon_form.png
-481,Fury Swipes,Ursa,53.02%,Overcharge,Io,48.19%,2418,52.85%,2.30%,NO,skills\ursa_fury_swipes.png,skills\wisp_overcharge.png
+481,Fury Swipes,Ursa,53.02%,Overcharge,Wisp,48.19%,2418,52.85%,2.30%,NO,skills\ursa_fury_swipes.png,skills\wisp_overcharge.png
 482,Burrowstrike,Sand King,53.67%,Reverse Polarity,Magnus,48.45%,2122,53.30%,2.30%,NO,skills\sandking_burrowstrike.png,skills\magnataur_reverse_polarity.png
 483,Poison Sting,Venomancer,52.12%,Plague Ward,Venomancer,47.53%,25554,52.06%,2.29%,YES,skills\venomancer_poison_sting.png,skills\venomancer_plague_ward.png
 484,Frost Blast,Lich,47.89%,Chain Frost,Lich,54.52%,12079,53.39%,2.29%,YES,skills\lich_frost_nova.png,skills\lich_chain_frost.png
@@ -487,13 +487,13 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 486,Fiery Soul,Lina,50.06%,Arc Lightning,Zeus,45.46%,3537,49.96%,2.26%,NO,skills\lina_fiery_soul.png,skills\zuus_arc_lightning.png
 487,Grow,Tiny,50.35%,God's Rebuke,Mars,47.51%,2584,51.16%,2.25%,NO,skills\tiny_grow.png,skills\mars_gods_rebuke.png
 488,Chaotic Offering,Warlock,54.18%,Vacuum,Dark Seer,50.57%,2242,54.59%,2.25%,NO,skills\warlock_rain_of_chaos.png,skills\dark_seer_vacuum.png
-489,Exorcism,Death Prophet,50.52%,Spirits,Io,53.52%,2129,54.25%,2.25%,NO,skills\death_prophet_exorcism.png,skills\wisp_spirits.png
+489,Exorcism,Death Prophet,50.52%,Spirits,Wisp,53.52%,2129,54.25%,2.25%,NO,skills\death_prophet_exorcism.png,skills\wisp_spirits.png
 490,Mystic Snake,Medusa,48.80%,Mana Shield,Medusa,53.78%,10097,53.47%,2.24%,YES,skills\medusa_mystic_snake.png,skills\medusa_mana_shield.png
 491,Exorcism,Death Prophet,50.52%,Spirit Siphon,Death Prophet,54.02%,15901,54.46%,2.22%,YES,skills\death_prophet_exorcism.png,skills\death_prophet_spirit_siphon.png
 492,Summon Spirit Bear,Lone Druid,45.40%,Spirit Link,Lone Druid,50.86%,26224,50.26%,2.21%,YES,skills\lone_druid_spirit_bear.png,skills\lone_druid_spirit_link.png
 493,Berserker's Call,Axe,52.45%,Culling Blade,Axe,46.93%,20249,51.82%,2.21%,YES,skills\axe_berserkers_call.png,skills\axe_culling_blade.png
 494,Guardian Sprint,Slardar,50.57%,Bash of the Deep,Slardar,51.69%,12347,53.33%,2.21%,YES,skills\slardar_sprint.png,skills\slardar_bash.png
-495,Bash of the Deep,Slardar,51.69%,Overcharge,Io,48.19%,2856,52.10%,2.19%,NO,skills\slardar_bash.png,skills\wisp_overcharge.png
+495,Bash of the Deep,Slardar,51.69%,Overcharge,Wisp,48.19%,2856,52.10%,2.19%,NO,skills\slardar_bash.png,skills\wisp_overcharge.png
 496,Poison Touch,Dazzle,49.99%,Sticky Napalm,Batrider,47.82%,2475,51.07%,2.18%,NO,skills\dazzle_poison_touch.png,skills\batrider_sticky_napalm.png
 497,Reactive Armor,Timbersaw,49.23%,Bristleback,Bristleback,49.95%,2065,51.77%,2.18%,NO,skills\shredder_reactive_armor.png,skills\bristleback_bristleback.png
 498,Shukuchi,Weaver,55.67%,Skewer,Magnus,48.39%,2064,54.07%,2.17%,NO,skills\weaver_shukuchi.png,skills\magnataur_skewer.png
@@ -513,7 +513,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 512,Blink (AM),Anti-Mage,51.18%,Ravage,Tidehunter,51.68%,2441,53.50%,2.08%,NO,skills\antimage_blink.png,skills\tidehunter_ravage.png
 513,Kraken Shell,Tidehunter,55.96%,Corrosive Skin,Viper,54.28%,2292,57.20%,2.08%,NO,skills\tidehunter_kraken_shell.png,skills\viper_corrosive_skin.png
 514,Magic Missile,Vengeful Spirit,53.69%,Mystic Flare,Skywrath Mage,48.12%,2569,52.90%,2.07%,NO,skills\vengefulspirit_magic_missile.png,skills\skywrath_mage_mystic_flare.png
-515,Chemical Rage,Alchemist,53.33%,Overcharge,Io,48.19%,2185,52.77%,2.07%,NO,skills\alchemist_chemical_rage.png,skills\wisp_overcharge.png
+515,Chemical Rage,Alchemist,53.33%,Overcharge,Wisp,48.19%,2185,52.77%,2.07%,NO,skills\alchemist_chemical_rage.png,skills\wisp_overcharge.png
 516,Torrent,Kunkka,49.63%,Burrowstrike,Sand King,53.67%,2053,53.68%,2.07%,NO,skills\kunkka_torrent.png,skills\sandking_burrowstrike.png
 517,Slithereen Crush,Slardar,49.35%,Astral Step,Void Spirit,53.90%,1989,53.65%,2.07%,NO,skills\slardar_slithereen_crush.png,skills\void_spirit_astral_step.png
 518,Burning Barrage,Clinkz,46.55%,Essence Shift,Slark,49.57%,1978,50.10%,2.06%,NO,skills\clinkz_strafe.png,skills\slark_essence_shift.png
@@ -540,7 +540,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 539,Shadow Walk,Bounty Hunter,49.72%,Track,Bounty Hunter,51.50%,13552,52.52%,1.92%,YES,skills\bounty_hunter_wind_walk.png,skills\bounty_hunter_track.png
 540,Frost Shield,Lich,47.99%,Chain Frost,Lich,54.52%,8677,53.07%,1.92%,YES,skills\lich_frost_shield.png,skills\lich_chain_frost.png
 541,Surge,Dark Seer,47.98%,Wall of Replica,Dark Seer,55.65%,6682,53.59%,1.92%,YES,skills\dark_seer_surge.png,skills\dark_seer_wall_of_replica.png
-542,Tether,Io,52.51%,Overcharge,Io,48.19%,11739,52.22%,1.91%,YES,skills\wisp_tether.png,skills\wisp_overcharge.png
+542,Tether,Wisp,52.51%,Overcharge,Wisp,48.19%,11739,52.22%,1.91%,YES,skills\wisp_tether.png,skills\wisp_overcharge.png
 543,Shukuchi,Weaver,55.67%,Time Lapse,Weaver,48.34%,7231,53.78%,1.91%,YES,skills\weaver_shukuchi.png,skills\weaver_time_lapse.png
 544,Crystal Nova,Crystal Maiden,51.37%,Frostbite,Crystal Maiden,52.25%,8038,53.69%,1.89%,YES,skills\crystal_maiden_crystal_nova.png,skills\crystal_maiden_frostbite.png
 545,Wild Axes,Beastmaster,52.56%,Viper Strike,Viper,46.28%,2148,51.21%,1.89%,NO,skills\beastmaster_wild_axes.png,skills\viper_viper_strike.png
@@ -605,7 +605,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 604,Guardian Sprint,Slardar,50.57%,Slithereen Crush,Slardar,49.35%,17904,51.50%,1.54%,YES,skills\slardar_sprint.png,skills\slardar_slithereen_crush.png
 605,Untouchable,Enchantress,49.72%,Impetus,Enchantress,49.76%,14438,51.26%,1.52%,YES,skills\enchantress_untouchable.png,skills\enchantress_impetus.png
 606,Pounce,Slark,47.93%,Shadow Dance,Slark,57.86%,11186,54.17%,1.51%,YES,skills\slark_pounce.png,skills\slark_shadow_dance.png
-607,Marksmanship,Drow Ranger,56.08%,Overcharge,Io,48.19%,2400,53.50%,1.51%,NO,skills\drow_ranger_marksmanship.png,skills\wisp_overcharge.png
+607,Marksmanship,Drow Ranger,56.08%,Overcharge,Wisp,48.19%,2400,53.50%,1.51%,NO,skills\drow_ranger_marksmanship.png,skills\wisp_overcharge.png
 608,God's Strength,Sven,47.95%,Metamorphosis,Terrorblade,45.78%,2134,48.36%,1.51%,NO,skills\sven_gods_strength.png,skills\terrorblade_metamorphosis.png
 609,Guardian Sprint,Slardar,50.57%,Corrosive Haze,Slardar,49.99%,11716,51.78%,1.50%,YES,skills\slardar_sprint.png,skills\slardar_amplify_damage.png
 610,Malefice,Enigma,51.36%,Black Hole,Enigma,50.68%,12239,52.50%,1.49%,YES,skills\enigma_malefice.png,skills\enigma_black_hole.png
@@ -788,7 +788,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 787,Frostbite,Crystal Maiden,52.25%,Mystic Flare,Skywrath Mage,48.12%,3219,50.70%,0.56%,NO,skills\crystal_maiden_frostbite.png,skills\skywrath_mage_mystic_flare.png
 788,Frost Shield,Lich,47.99%,Pulse Nova,Leshrac,52.15%,1965,50.59%,0.56%,NO,skills\lich_frost_shield.png,skills\leshrac_pulse_nova.png
 789,Empower,Magnus,51.42%,Reverse Polarity,Magnus,48.45%,15618,50.46%,0.55%,YES,skills\magnataur_empower.png,skills\magnataur_reverse_polarity.png
-790,Summon Spirit Bear,Lone Druid,45.40%,Tether,Io,52.51%,2003,49.38%,0.55%,NO,skills\lone_druid_spirit_bear.png,skills\wisp_tether.png
+790,Summon Spirit Bear,Lone Druid,45.40%,Tether,Wisp,52.51%,2003,49.38%,0.55%,NO,skills\lone_druid_spirit_bear.png,skills\wisp_tether.png
 791,Smoke Screen,Riki,51.02%,Blink Strike,Riki,48.96%,8771,50.51%,0.53%,YES,skills\riki_smoke_screen.png,skills\riki_blink_strike.png
 792,Headshot,Sniper,48.37%,Lil' Shredder,Snapfire,47.90%,2285,48.67%,0.53%,NO,skills\sniper_headshot.png,skills\snapfire_lil_shredder.png
 793,Rupture,Bloodseeker,49.44%,Skewer,Magnus,48.39%,2428,49.42%,0.51%,NO,skills\bloodseeker_rupture.png,skills\magnataur_skewer.png
@@ -864,7 +864,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 863,Fervor,Troll Warlord,46.78%,Battle Trance,Troll Warlord,48.89%,23299,47.97%,0.15%,YES,skills\troll_warlord_fervor.png,skills\troll_warlord_battle_trance.png
 864,Avalanche,Tiny,53.07%,Grow,Tiny,50.35%,6579,51.85%,0.15%,YES,skills\tiny_avalanche.png,skills\tiny_grow.png
 865,Solar Guardian,Dawnbreaker,50.64%,Luminosity,Dawnbreaker,50.01%,10999,50.47%,0.14%,YES,skills\dawnbreaker_solar_guardian.png,skills\dawnbreaker_luminosity.png
-866,Elder Dragon Form,Dragon Knight,51.00%,Overcharge,Io,48.19%,2937,49.71%,0.14%,NO,skills\dragon_knight_elder_dragon_form.png,skills\wisp_overcharge.png
+866,Elder Dragon Form,Dragon Knight,51.00%,Overcharge,Wisp,48.19%,2937,49.71%,0.14%,NO,skills\dragon_knight_elder_dragon_form.png,skills\wisp_overcharge.png
 867,Solar Guardian,Dawnbreaker,50.64%,Celestial Hammer,Dawnbreaker,49.03%,6784,49.96%,0.13%,YES,skills\dawnbreaker_solar_guardian.png,skills\dawnbreaker_celestial_hammer.png
 868,Shadow Word,Warlock,51.08%,Sticky Napalm,Batrider,47.82%,3562,49.55%,0.13%,NO,skills\warlock_shadow_word.png,skills\batrider_sticky_napalm.png
 869,Desolate,Spectre,49.97%,Wukong's Command,Monkey King,49.90%,2004,50.05%,0.12%,NO,skills\spectre_desolate.png,skills\monkey_king_wukongs_command.png
@@ -909,7 +909,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 908,Nether Blast,Pugna,45.85%,Bad Juju,Dazzle,43.26%,2285,39.12%,-5.41%,NO,skills\pugna_nether_blast.png,skills\dazzle_bad_juju.png
 909,Enchant Totem,Earthshaker,45.84%,God's Strength,Sven,47.95%,2285,41.53%,-5.35%,NO,skills\earthshaker_enchant_totem.png,skills\sven_gods_strength.png
 910,Demonic Conversion,Enigma,44.03%,Rearm,Tinker,42.10%,2225,37.66%,-5.39%,NO,skills\enigma_demonic_conversion.png,skills\tinker_rearm.png
-911,Time Lock,Faceless Void,46.39%,Overcharge,Io,48.19%,2175,41.98%,-5.31%,NO,skills\faceless_void_time_lock.png,skills\wisp_overcharge.png
+911,Time Lock,Faceless Void,46.39%,Overcharge,Wisp,48.19%,2175,41.98%,-5.31%,NO,skills\faceless_void_time_lock.png,skills\wisp_overcharge.png
 912,Coup de Grace,Phantom Assassin,44.64%,Burning Barrage,Clinkz,46.55%,2121,40.26%,-5.32%,NO,skills\phantom_assassin_coup_de_grace.png,skills\clinkz_strafe.png
 913,Burning Barrage,Clinkz,46.55%,Searing Arrows,Clinkz,46.23%,16657,41.99%,-4.40%,YES,skills\clinkz_strafe.png,skills\clinkz_searing_arrows.png
 914,Rolling Thunder,Pangolier,50.45%,Swashbuckle,Pangolier,46.66%,14243,44.16%,-4.36%,YES,skills\pangolier_gyroshell.png,skills\pangolier_swashbuckle.png
@@ -922,7 +922,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 921,Heavenly Jump,Zeus,49.50%,Arc Lightning,Zeus,45.46%,4781,43.00%,-4.43%,YES,skills\zuus_heavenly_jump.png,skills\zuus_arc_lightning.png
 922,Split Shot,Medusa,47.55%,Mystic Snake,Medusa,48.80%,4604,43.81%,-4.36%,YES,skills\medusa_split_shot.png,skills\medusa_mystic_snake.png
 923,Ice Shards,Tusk,50.25%,Tag Team,Tusk,44.93%,3650,42.99%,-4.53%,YES,skills\tusk_ice_shards.png,skills\tusk_tag_team.png
-924,Spirits,Io,53.52%,Overcharge,Io,48.19%,3439,50.83%,0.04%,YES,skills\wisp_spirits.png,skills\wisp_overcharge.png
+924,Spirits,Wisp,53.52%,Overcharge,Wisp,48.19%,3439,50.83%,0.04%,YES,skills\wisp_spirits.png,skills\wisp_overcharge.png
 925,Rearm,Tinker,42.10%,Rocket Flare,Clockwerk,46.43%,3435,39.74%,-4.47%,NO,skills\tinker_rearm.png,skills\rattletrap_rocket_flare.png
 926,Torrent,Kunkka,49.63%,Rearm,Tinker,42.10%,3383,40.79%,-4.92%,NO,skills\kunkka_torrent.png,skills\tinker_rearm.png
 927,Enchant Totem,Earthshaker,45.84%,Stifling Dagger,Phantom Assassin,47.20%,3043,41.93%,-4.58%,NO,skills\earthshaker_enchant_totem.png,skills\phantom_assassin_stifling_dagger.png
@@ -965,7 +965,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 964,Slithereen Crush,Slardar,49.35%,Bash of the Deep,Slardar,51.69%,5145,47.35%,-3.16%,YES,skills\slardar_slithereen_crush.png,skills\slardar_bash.png
 965,Toss,Tiny,46.93%,Tree Grab,Tiny,48.66%,5101,44.64%,-3.15%,YES,skills\tiny_toss.png,skills\tiny_tree_grab.png
 966,Shadowraze,Shadow Fiend,46.62%,Necromastery,Shadow Fiend,51.45%,5003,45.11%,-3.86%,YES,skills\nevermore_shadowraze2.png,skills\nevermore_necromastery.png
-967,Tether,Io,52.51%,Relocate,Io,44.98%,4749,45.55%,-3.05%,YES,skills\wisp_tether.png,skills\wisp_relocate.png
+967,Tether,Wisp,52.51%,Relocate,Wisp,44.98%,4749,45.55%,-3.05%,YES,skills\wisp_tether.png,skills\wisp_relocate.png
 968,Summon Wolves,Lycan,44.78%,Shapeshift,Lycan,48.43%,4727,42.88%,-3.69%,YES,skills\lycan_summon_wolves.png,skills\lycan_shapeshift.png
 969,Finger of Death,Lion,44.26%,Decrepify,Pugna,45.35%,4712,41.43%,-3.38%,NO,skills\lion_finger_of_death.png,skills\pugna_decrepify.png
 970,Fissure,Earthshaker,51.26%,Enchant Totem,Earthshaker,45.84%,4576,45.17%,-3.31%,YES,skills\earthshaker_fissure.png,skills\earthshaker_enchant_totem.png
@@ -1013,7 +1013,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1012,God's Strength,Sven,47.95%,Overpower,Ursa,45.71%,2026,43.73%,-3.08%,NO,skills\sven_gods_strength.png,skills\ursa_overpower.png
 1013,Finger of Death,Lion,44.26%,Nether Blast,Pugna,45.85%,2026,41.61%,-3.44%,NO,skills\lion_finger_of_death.png,skills\pugna_nether_blast.png
 1014,Finger of Death,Lion,44.26%,Soul Assumption,Visage,48.00%,2009,42.31%,-3.79%,NO,skills\lion_finger_of_death.png,skills\visage_soul_assumption.png
-1015,Omnislash,Juggernaut,47.90%,Overcharge,Io,48.19%,1994,44.53%,-3.52%,NO,skills\juggernaut_omni_slash.png,skills\wisp_overcharge.png
+1015,Omnislash,Juggernaut,47.90%,Overcharge,Wisp,48.19%,1994,44.53%,-3.52%,NO,skills\juggernaut_omni_slash.png,skills\wisp_overcharge.png
 1016,Mortal Strike,Wraith King,48.03%,Vendetta,Nyx Assassin,46.60%,1977,44.26%,-3.05%,NO,skills\skeleton_king_mortal_strike.png,skills\nyx_assassin_vendetta.png
 1017,Inner Beast,Beastmaster,48.59%,Coup de Grace,Phantom Assassin,44.64%,1956,43.10%,-3.48%,NO,skills\beastmaster_inner_beast.png,skills\phantom_assassin_coup_de_grace.png
 1018,Heat-Seeking Missile,Tinker,44.47%,Rearm,Tinker,42.10%,41424,40.80%,-2.47%,YES,skills\tinker_heat_seeking_missile.png,skills\tinker_rearm.png
@@ -1059,7 +1059,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1058,Ether Shock,Shadow Shaman,45.42%,Hex (Rhasta),Shadow Shaman,50.01%,6445,45.51%,-2.15%,YES,skills\shadow_shaman_ether_shock.png,skills\shadow_shaman_voodoo.png
 1059,Aphotic Shield,Abaddon,51.03%,Curse of Avernus,Abaddon,49.83%,6260,47.97%,-2.46%,YES,skills\abaddon_aphotic_shield.png,skills\abaddon_frostmourne.png
 1060,Cold Feet,Ancient Apparition,49.62%,Chilling Touch,Ancient Apparition,49.73%,6229,46.68%,-2.99%,YES,skills\ancient_apparition_cold_feet.png,skills\ancient_apparition_chilling_touch.png
-1061,Overcharge,Io,48.19%,Relocate,Io,44.98%,6166,44.37%,-2.19%,YES,skills\wisp_overcharge.png,skills\wisp_relocate.png
+1061,Overcharge,Wisp,48.19%,Relocate,Wisp,44.98%,6166,44.37%,-2.19%,YES,skills\wisp_overcharge.png,skills\wisp_relocate.png
 1062,Shallow Grave,Dazzle,48.20%,Bad Juju,Dazzle,43.26%,6055,43.47%,-2.19%,YES,skills\dazzle_shallow_grave.png,skills\dazzle_bad_juju.png
 1063,Fissure,Earthshaker,51.26%,Echo Slam,Earthshaker,46.88%,6021,46.19%,-2.84%,YES,skills\earthshaker_fissure.png,skills\earthshaker_echo_slam.png
 1064,Tree Dance,Monkey King,44.04%,Wukong's Command,Monkey King,49.90%,5952,44.22%,-2.66%,YES,skills\monkey_king_tree_dance.png,skills\monkey_king_wukongs_command.png
