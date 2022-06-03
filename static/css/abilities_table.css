@@ -70,10 +70,16 @@ table {
 
 td, th {
     vertical-align: middle !important;
-    padding-right: 0px !important;
     width: 10rem;
 }
 
+.table-sm td, .table-sm th {
+    padding: 0.3rem;
+    padding-top: 0.3rem;
+    padding-right: 0.1rem;
+    padding-bottom: 0.3rem;
+    padding-left: 0.1rem;
+}
 
 #buttonsList {
     margin-bottom: 1rem;
@@ -106,12 +112,12 @@ td, th {
 }
 
 .main-cols-font {
-    font-size: 21px;
+    font-size: 20px;
     font-weight: 700;
 }
 
 .extra-cols-font {
-    font-size: 19px;
+    font-size: 18px;
     font-weight: 600;
 }
 
@@ -154,10 +160,6 @@ td, th {
     color: white;
 }
 
-.table {
-    font-size: 18px !important;
-}
-
 #comboTable > thead > tr {
     font-size: 16px !important;
 }
@@ -174,6 +176,15 @@ td, th {
     padding-bottom: 20px;
 }
 
+#heroTableRadiant > tbody > tr {
+    height: 50px !important;
+}
+
+#heroTableDire > tbody > tr {
+    height: 50px !important;
+}
+
+
 #heroTableRadiant_wrapper > div:nth-child(3){
     display:none;
 }
@@ -181,6 +192,11 @@ td, th {
 #heroTableDire_wrapper > div:nth-child(3){
     display:none;
 }
+
+#sortTable {
+    font-size: 18px;
+}
+
 
 /* Main table wrappers */
 
@@ -195,7 +211,7 @@ td, th {
 /* Main table search bar and its label */
 
 #sortTable_filter > label > input {
-      width: 90rem;
+      width: 550%;
       margin-left: 0rem !important;
 }
 
@@ -210,9 +226,34 @@ td, th {
 }
 
 
+
+
 /* Combos table search bar and its label */
 #comboTable_filter > label {
     display: none !important;
 }
 
 
+.cell_with_tooltip{
+    position:relative;
+}
+
+.cell_tooltip{
+  display:none;
+  width: 200px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-size: 18px !important;
+
+  /* Position the tooltip */
+  position: relative;
+  z-index: 100;
+  right: -100px;
+}
+
+.cell_with_tooltip:hover span.cell_tooltip{
+  display:block;
+}

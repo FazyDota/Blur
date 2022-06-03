@@ -1,124 +1,124 @@
-Hero,Winrate,MS,Range,Ranged Flag,Projectile Speed,Primary,Img Link,STR,STR+,AGI,AGI+,INT,INT+
-Abaddon,49.32%,325,150,FALSE,0,STR,,,,,,,
-Alchemist,48.15%,305,150,FALSE,0,STR,,,,,,,
-Ancient Apparition,49.16%,285,675,TRUE,1250,INT,,,,,,,
-Anti-Mage,46.32%,310,150,FALSE,0,AGI,,,,,,,
-Arc Warden,52.89%,285,625,TRUE,900,AGI,,,,,,,
-Axe,52.00%,310,150,FALSE,0,STR,,,,,,,
-Bane,50.92%,305,400,TRUE,900,INT,,,,,,,
-Batrider,50.63%,310,400,TRUE,900,INT,,,,,,,
-Beastmaster,47.03%,305,150,FALSE,0,STR,,,,,,,
-Bloodseeker,49.34%,300,150,FALSE,0,AGI,,,,,,,
-Bounty Hunter,49.22%,325,150,FALSE,0,AGI,,,,,,,
-Brewmaster,51.06%,310,150,FALSE,0,STR,,,,,,,
-Bristleback,46.47%,295,150,FALSE,0,STR,,,,,,,
-Broodmother,46.79%,280,150,FALSE,0,AGI,,,,,,,
-Centaur Warrunner,53.31%,300,150,FALSE,0,STR,,,,,,,
-Chaos Knight,49.58%,325,150,FALSE,0,STR,,,,,,,
-Chen,49.92%,305,650,TRUE,1100,INT,,,,,,,
-Clinkz,45.34%,290,600,TRUE,900,AGI,,,,,,,
-Clockwerk,51.67%,310,150,FALSE,0,STR,,,,,,,
-Crystal Maiden,47.44%,280,600,TRUE,900,INT,,,,,,,
-Dark Seer,48.30%,295,150,FALSE,0,INT,,,,,,,
-Dark Willow,48.96%,290,475,TRUE,1200,INT,,,,,,,
-Dawnbreaker,52.25%,310,150,FALSE,0,STR,,,,,,,
-Dazzle,54.08%,305,575,TRUE,1200,INT,,,,,,,
-Death Prophet,54.88%,325,600,TRUE,1000,INT,,,,,,,
-Disruptor,48.79%,295,625,TRUE,1200,INT,,,,,,,
-Doom,47.42%,285,200,FALSE,0,STR,,,,,,,
-Dragon Knight,50.11%,310,150,FALSE,0,STR,,,,,,,
-Drow Ranger,51.16%,295,625,TRUE,1250,AGI,,,,,,,
-Earth Spirit,50.49%,290,150,FALSE,0,STR,,,,,,,
-Earthshaker,51.79%,315,150,FALSE,0,STR,,,,,,,
-Elder Titan,49.53%,310,150,FALSE,0,STR,,,,,,,
-Ember Spirit,47.37%,305,150,FALSE,0,AGI,,,,,,,
-Enchantress,51.09%,320,575,TRUE,900,INT,,,,,,,
-Enigma,47.51%,290,500,TRUE,900,INT,,,,,,,
-Faceless Void,46.84%,300,150,FALSE,0,AGI,,,,,,,
-Grimstroke,49.54%,290,600,TRUE,900,INT,,,,,,,
-Gyrocopter,59.11%,315,365,TRUE,3000,AGI,,,,,,,
-Hoodwink,56.12%,310,575,TRUE,1800,AGI,,,,,,,
-Huskar,45.89%,295,400,TRUE,1400,STR,,,,,,,
-Invoker,50.20%,285,600,TRUE,900,INT,,,,,,,
-Jakiro,51.01%,290,400,TRUE,1100,INT,,,,,,,
-Juggernaut,51.84%,305,150,FALSE,0,AGI,,,,,,,
-Keeper of the Light,49.51%,320,600,TRUE,900,INT,,,,,,,
-Kunkka,53.42%,315,150,FALSE,0,STR,,,,,,,
-Legion Commander,51.47%,330,150,FALSE,0,STR,,,,,,,
-Leshrac,54.96%,325,575,TRUE,900,INT,,,,,,,
-Lich,48.18%,295,550,TRUE,900,INT,,,,,,,
-Lifestealer,49.93%,320,150,FALSE,0,STR,,,,,,,
-Lina,54.42%,290,670,TRUE,1000,INT,,,,,,,
-Lion,47.54%,290,600,TRUE,900,INT,,,,,,,
-Lone Druid,50.15%,325,550,TRUE,900,AGI,,,,,,,
-Luna,53.31%,325,330,TRUE,900,AGI,,,,,,,
-Lycan,50.26%,315,150,FALSE,0,STR,,,,,,,
-Magnus,52.02%,305,150,FALSE,0,STR,,,,,,,
-Marci,51.69%,310,150,FALSE,0,STR,,,,,,,
-Mars,52.56%,310,250,FALSE,0,STR,,,,,,,
-Medusa,51.72%,275,600,TRUE,1200,AGI,,,,,,,
-Meepo,50.84%,330,150,FALSE,0,AGI,,,,,,,
-Mirana,53.62%,290,630,TRUE,900,AGI,,,,,,,
-Monkey King,53.41%,300,300,FALSE,0,AGI,,,,,,,
-Morphling,53.65%,285,350,TRUE,1300,AGI,,,,,,,
-Naga Siren,55.27%,330,150,FALSE,0,AGI,,,,,,,
-Nature's Prophet,58.99%,295,600,TRUE,1125,INT,,,,,,,
-Necrophos,44.20%,280,500,TRUE,1200,INT,,,,,,,
-Night Stalker,51.03%,295,150,FALSE,0,STR,,,,,,,
-Nyx Assassin,45.94%,310,150,FALSE,0,AGI,,,,,,,
-Ogre Magi,49.75%,290,150,FALSE,0,INT,,,,,,,
-Omniknight,51.22%,315,150,FALSE,0,STR,,,,,,,
-Oracle,49.11%,295,620,TRUE,900,INT,,,,,,,
-Outworld Devourer,55.30%,320,450,TRUE,900,INT,,,,,,,
-Pangolier,46.17%,300,150,FALSE,0,AGI,,,,,,,
-Phantom Assassin,47.58%,305,150,FALSE,0,AGI,,,,,,,
-Phantom Lancer,47.99%,290,150,FALSE,0,AGI,,,,,,,
-Phoenix,48.57%,280,525,TRUE,1100,STR,,,,,,,
-Primal Beast,51.16%,305,150,FALSE,0,STR,,,,,,,
-Puck,46.28%,290,550,TRUE,900,INT,,,,,,,
-Pudge,47.07%,280,175,FALSE,0,STR,,,,,,,
-Pugna,52.36%,330,630,TRUE,900,INT,,,,,,,
-Queen of Pain,52.57%,290,550,TRUE,1500,INT,,,,,,,
-Razor,52.74%,290,475,TRUE,2000,AGI,,,,,,,
-Riki,46.28%,315,150,FALSE,0,AGI,,,,,,,
-Rubick,48.41%,290,550,TRUE,1125,INT,,,,,,,
-Sand King,46.75%,290,150,FALSE,0,STR,,,,,,,
-Shadow Demon,50.68%,290,500,TRUE,900,INT,,,,,,,
-Shadow Fiend,54.57%,305,500,TRUE,1200,AGI,,,,,,,
-Shadow Shaman,49.26%,285,400,TRUE,900,INT,,,,,,,
-Silencer,51.15%,290,600,TRUE,900,INT,,,,,,,
-Skywrath Mage,49.27%,325,625,TRUE,1000,INT,,,,,,,
-Slardar,50.29%,300,150,FALSE,0,STR,,,,,,,
-Slark,43.32%,300,150,FALSE,0,AGI,,,,,,,
-Snapfire,54.47%,300,500,TRUE,1800,STR,,,,,,,
-Sniper,56.60%,285,550,TRUE,3000,AGI,,,,,,,
-Spectre,46.12%,290,150,FALSE,0,AGI,,,,,,,
-Spirit Breaker,48.94%,295,150,FALSE,0,STR,,,,,,,
-Storm Spirit,49.08%,285,480,TRUE,1100,INT,,,,,,,
-Sven,49.25%,325,150,FALSE,0,STR,,,,,,,
-Techies,51.95%,300,700,TRUE,900,INT,,,,,,,
-Templar Assassin,46.74%,305,160,TRUE,900,AGI,,,,,,,
-Terrorblade,54.73%,315,150,FALSE,0,AGI,,,,,,,
-Tidehunter,48.45%,300,150,FALSE,0,STR,,,,,,,
-Timbersaw,48.84%,290,150,FALSE,0,STR,,,,,,,
-Tinker,46.32%,290,500,TRUE,900,INT,,,,,,,
-Tiny,47.40%,295,150,FALSE,0,STR,,,,,,,
-Treant Protector,47.95%,285,150,FALSE,0,STR,,,,,,,
-Troll Warlord,49.02%,290,500,TRUE,1200,AGI,,,,,,,
-Tusk,53.17%,310,150,FALSE,0,STR,,,,,,,
-Underlord,50.36%,290,200,FALSE,0,STR,,,,,,,
-Undying,48.86%,300,150,FALSE,0,STR,,,,,,,
-Ursa,47.27%,310,150,FALSE,0,AGI,,,,,,,
-Vengeful Spirit,49.44%,295,400,TRUE,1500,AGI,,,,,,,
-Venomancer,46.69%,280,450,TRUE,900,AGI,,,,,,,
-Viper,50.88%,275,575,TRUE,1200,AGI,,,,,,,
-Visage,47.30%,285,600,TRUE,1400,INT,,,,,,,
-Void Spirit,46.70%,295,200,FALSE,0,INT,,,,,,,
-Warlock,51.66%,290,600,TRUE,1200,INT,,,,,,,
-Weaver,45.97%,275,425,TRUE,900,AGI,,,,,,,
-Windranger,50.15%,290,600,TRUE,1250,INT,,,,,,,
-Winter Wyvern,46.86%,285,425,TRUE,700,INT,,,,,,,
-Wisp,51.10%,320,500,TRUE,1200,STR,,,,,,,
-Witch Doctor,48.44%,300,600,TRUE,1200,INT,,,,,,,
-Wraith King,46.15%,315,150,FALSE,0,STR,,,,,,,
-Zeus,47.41%,315,380,TRUE,1100,INT,,,,,,,
+"Hero","Winrate","MS","Range","Ranged Flag","Projectile Speed","Primary","Img Link","STR","STR+","AGI","AGI+","INT","INT+","Base Armor","Base HPS","Base MPS","Dmg Min","Dmg Max","BAT","Base IAS"
+"Anti-Mage","46.32%",310,150,FALSE,0,"AGI","heroes\Anti-Mage.png",21,1.6,24,2.8,12,1.8,0,0.25,0,53,57,1.4,100
+"Juggernaut","51.84%",305,150,FALSE,0,"AGI","heroes\Juggernaut.png",20,2.2,34,2.8,14,1.4,0,0.5,0,50,54,1.4,110
+"Dark Willow","48.96%",290,475,TRUE,1200,"INT","heroes\Dark_Willow.png",20,2,18,1.6,21,3.5,-1,0.75,0,48,56,1.5,115
+"Morphling","53.65%",285,350,TRUE,1300,"AGI","heroes\Morphling.png",22,3,24,3.9,19,1.8,-2,0.25,0,33,42,1.5,100
+"Queen of Pain","52.57%",290,550,TRUE,1500,"INT","heroes\Queen_of_Pain.png",18,2.4,22,2.5,25,3.4,0,0.25,0,49,55,1.5,100
+"Terrorblade","54.73%",315,150,FALSE,0,"AGI","heroes\Terrorblade.png",16,2,22,4,19,1.6,5,1,0,52,58,1.5,110
+"Windranger","50.15%",290,600,TRUE,1250,"INT","heroes\Windranger.png",18,3,17,1.4,18,3.6,-1,0.25,0,42,54,1.5,100
+"Huskar","45.89%",295,400,TRUE,1400,"STR","heroes\Huskar.png",20,3.3,10,1.5,18,1.5,-1,0.25,0,41,46,1.6,100
+"Lina","54.42%",290,670,TRUE,1000,"INT","heroes\Lina.png",20,2.4,23,2.4,30,3.8,0,0.25,0,51,59,1.6,100
+"Lone Druid","50.15%",325,550,TRUE,900,"AGI","heroes\Lone_Druid.png",18,2.5,20,2.8,13,1.4,-2,0.25,0,38,42,1.6,100
+"Shadow Fiend","54.57%",305,500,TRUE,1200,"AGI","heroes\Shadow_Fiend.png",19,2.7,20,3.5,18,2.2,1,0.25,0.3,39,45,1.6,100
+"Snapfire","54.47%",300,500,TRUE,1800,"STR","heroes\Snapfire.png",20,3.5,16,1.9,21,2.2,1,0.75,0,46,52,1.6,100
+"Abaddon","49.32%",325,150,FALSE,0,"STR","heroes\Abaddon.png",22,2.6,23,1.5,18,2,-1,1,0.25,50,60,1.7,120
+"Alchemist","48.15%",305,150,FALSE,0,"STR","heroes\Alchemist.png",25,2.9,22,1.5,25,1.8,-1,0.25,0,52,58,1.7,100
+"Ancient Apparition","49.16%",285,675,TRUE,1250,"INT","heroes\Ancient_Apparition.png",20,1.9,20,2.2,23,3.4,-1,0.25,0,44,54,1.7,100
+"Arc Warden","52.89%",285,625,TRUE,900,"AGI","heroes\Arc_Warden.png",22,2.6,20,3,24,2.6,-1,0.25,0,51,57,1.7,100
+"Axe","52.00%",310,150,FALSE,0,"STR","heroes\Axe.png",25,3.4,20,2.2,18,1.6,-1,2.5,0,52,56,1.7,100
+"Bane","50.92%",305,400,TRUE,900,"INT","heroes\Bane.png",22,2.5,22,2.5,22,2.5,1,0.25,0,55,61,1.7,100
+"Batrider","50.63%",310,400,TRUE,900,"INT","heroes\Batrider.png",28,2.9,15,1.8,22,2.9,2,1.75,0,39,43,1.7,100
+"Beastmaster","47.03%",305,150,FALSE,0,"STR","heroes\Beastmaster.png",23,2.9,18,1.6,16,1.9,0,0.25,0,54,58,1.7,100
+"Bloodseeker","49.34%",300,150,FALSE,0,"AGI","heroes\Bloodseeker.png",24,2.7,22,3.1,17,2,2,0.25,0,57,63,1.7,100
+"Bounty Hunter","49.22%",325,150,FALSE,0,"AGI","heroes\Bounty_Hunter.png",20,2.5,21,2.6,22,1.9,4,1.25,0.5,51,59,1.7,100
+"Brewmaster","51.06%",310,150,FALSE,0,"STR","heroes\Brewmaster.png",23,3.7,19,2,15,1.6,-1,0.5,0,52,59,1.7,100
+"Broodmother","46.79%",280,150,FALSE,0,"AGI","heroes\Broodmother.png",18,3.2,19,3.4,18,2,0,0.25,0,48,54,1.7,125
+"Centaur Warrunner","53.31%",300,150,FALSE,0,"STR","heroes\Centaur_Warrunner.png",27,4,15,1,15,1.6,1,0.25,0,63,65,1.7,90
+"Chaos Knight","49.58%",325,150,FALSE,0,"STR","heroes\Chaos_Knight.png",22,3.2,18,1.4,18,1.2,2,0.25,0,51,81,1.7,100
+"Chen","49.92%",305,650,TRUE,1100,"INT","heroes\Chen.png",25,2,15,2.1,19,3.2,-1,0.25,0.5,46,56,1.7,100
+"Clinkz","45.34%",290,600,TRUE,900,"AGI","heroes\Clinkz.png",16,2,22,2.5,18,2.2,0,0.25,0,37,43,1.7,100
+"Clockwerk","51.67%",310,150,FALSE,0,"STR","heroes\Clockwerk.png",26,3.5,13,2.3,18,1.5,1,0.25,0,50,52,1.7,100
+"Crystal Maiden","47.44%",280,600,TRUE,900,"INT","heroes\Crystal_Maiden.png",18,2.2,16,1.6,16,3.3,-1,0.25,1,44,50,1.7,100
+"Dark Seer","48.30%",295,150,FALSE,0,"INT","heroes\Dark_Seer.png",22,2.6,18,1.8,21,2.7,2,0.25,0,54,60,1.7,100
+"Dawnbreaker","52.25%",310,150,FALSE,0,"STR","heroes\Dawnbreaker.png",26,3.6,14,1.7,20,2.2,2,0.25,0,57,61,1.7,100
+"Dazzle","54.08%",305,575,TRUE,1200,"INT","heroes\Dazzle.png",18,2.3,20,1.7,25,3.7,0,0.25,0,47,53,1.7,100
+"Death Prophet","54.88%",325,600,TRUE,1000,"INT","heroes\Death_Prophet.png",21,3.1,14,1.8,24,3.3,1,0.25,0.5,47,57,1.7,100
+"Disruptor","48.79%",295,625,TRUE,1200,"INT","heroes\Disruptor.png",21,2.4,15,1.4,20,2.9,0,0.25,0,49,53,1.7,100
+"Dragon Knight","50.11%",310,150,FALSE,0,"STR","heroes\Dragon_Knight.png",21,3.4,19,2,18,1.7,0,0.25,0,53,59,1.7,100
+"Drow Ranger","51.16%",295,625,TRUE,1250,"AGI","heroes\Drow_Ranger.png",16,1.9,20,2.9,15,1.4,0,0.25,0,49,56,1.7,100
+"Earth Spirit","50.49%",290,150,FALSE,0,"STR","heroes\Earth_Spirit.png",22,3.8,17,2.4,20,2.1,0,1,0,47,57,1.7,100
+"Earthshaker","51.79%",315,150,FALSE,0,"STR","heroes\Earthshaker.png",22,3.7,12,1.4,18,2.1,2,1,0,49,59,1.7,100
+"Elder Titan","49.53%",310,150,FALSE,0,"STR","heroes\Elder_Titan.png",26,3,14,1.8,23,1.6,0,0.25,0.25,49,59,1.7,100
+"Ember Spirit","47.37%",305,150,FALSE,0,"AGI","heroes\Ember_Spirit.png",21,2.6,22,2.9,20,2.2,-1,0.75,0,55,59,1.7,100
+"Enchantress","51.09%",320,575,TRUE,900,"INT","heroes\Enchantress.png",17,1.7,19,2.1,22,3.8,1,0.25,0,45,55,1.7,100
+"Enigma","47.51%",290,500,TRUE,900,"INT","heroes\Enigma.png",21,2.5,14,1,19,3.6,2,0.25,0,43,49,1.7,100
+"Faceless Void","46.84%",300,150,FALSE,0,"AGI","heroes\Faceless_Void.png",20,2.4,19,3,15,1.5,1,1,0,56,62,1.7,100
+"Grimstroke","49.54%",290,600,TRUE,900,"INT","heroes\Grimstroke.png",21,2.4,18,1.9,25,3.8,0,0.25,0,46,50,1.7,100
+"Gyrocopter","59.11%",315,365,TRUE,3000,"AGI","heroes\Gyrocopter.png",22,2.5,26,3.3,21,2.4,2,0.25,0,42,48,1.7,125
+"Invoker","50.20%",285,600,TRUE,900,"INT","heroes\Invoker.png",18,2.4,14,1.9,15,4.6,0,0.25,0,44,50,1.7,100
+"Jakiro","51.01%",290,400,TRUE,1100,"INT","heroes\Jakiro.png",25,2.8,15,1.2,26,3,1,0.25,0,53,61,1.7,100
+"Keeper of the Light","49.51%",320,600,TRUE,900,"INT","heroes\Keeper_of_the_Light.png",18,2.3,15,1.6,23,3.2,0,0.25,0,41,48,1.7,100
+"Kunkka","53.42%",315,150,FALSE,0,"STR","heroes\Kunkka.png",24,3.8,14,1.6,18,1.8,2,0.75,0,50,60,1.7,100
+"Legion Commander","51.47%",330,150,FALSE,0,"STR","heroes\Legion_Commander.png",25,3.3,18,1.7,20,2.2,0,0.25,0,60,64,1.7,100
+"Leshrac","54.96%",325,575,TRUE,900,"INT","heroes\Leshrac.png",20,2.5,23,2.8,22,3.5,0,0.25,0,47,51,1.7,100
+"Lich","48.18%",295,550,TRUE,900,"INT","heroes\Lich.png",20,2.1,17,2,24,3.6,-1,0.25,0.75,48,57,1.7,100
+"Lifestealer","49.93%",320,150,FALSE,0,"STR","heroes\Lifestealer.png",25,2.4,19,2.6,15,1.8,1,0.25,0,47,53,1.7,120
+"Lion","47.54%",290,600,TRUE,900,"INT","heroes\Lion.png",18,2.2,18,1.5,18,3.5,-1,0.25,0,47,53,1.7,115
+"Luna","53.31%",325,330,TRUE,900,"AGI","heroes\Luna.png",21,2.2,24,3.4,23,1.9,2,0.5,0,50,56,1.7,100
+"Lycan","50.26%",315,150,FALSE,0,"STR","heroes\Lycan.png",26,3.4,16,1.7,23,1.7,0,0.25,0,50,55,1.7,110
+"Marci","51.69%",310,150,FALSE,0,"STR","heroes\Marci.png",23,3.3,20,2.4,19,1.9,0,0.25,0,56,60,1.7,100
+"Medusa","51.72%",275,600,TRUE,1200,"AGI","heroes\Medusa.png",17,1.5,22,3.4,23,3.4,-1,0.25,0,48,54,1.7,100
+"Meepo","50.84%",330,150,FALSE,0,"AGI","heroes\Meepo.png",24,2.2,17,2.2,20,1.9,4,0.25,0,46,52,1.7,100
+"Mirana","53.62%",290,630,TRUE,900,"AGI","heroes\Mirana.png",18,2.2,24,3.4,22,1.9,-2,0.25,0.4,48,54,1.7,110
+"Monkey King","53.41%",300,300,FALSE,0,"AGI","heroes\Monkey_King.png",18,2.8,22,3.7,20,1.8,2,1,0,51,55,1.7,100
+"Naga Siren","55.27%",330,150,FALSE,0,"AGI","heroes\Naga_Siren.png",21,2.8,21,3.3,21,2,3,1.5,0,44,46,1.7,100
+"Nature's Prophet","58.99%",295,600,TRUE,1125,"INT","heroes\Natures_Prophet.png",21,2.6,22,3.6,23,3.7,0,0.25,0.75,50,60,1.7,100
+"Necrophos","44.20%",280,500,TRUE,1200,"INT","heroes\Necrophos.png",18,2.3,12,1.3,21,2.7,1,0.25,0,47,51,1.7,100
+"Night Stalker","51.03%",295,150,FALSE,0,"STR","heroes\Night_Stalker.png",23,3,18,2.2,15,1.6,2,2,0,63,67,1.7,100
+"Nyx Assassin","45.94%",310,150,FALSE,0,"AGI","heroes\Nyx_Assassin.png",17,2.5,18,2.5,21,2.1,1,2,0,45,49,1.7,100
+"Ogre Magi","49.75%",290,150,FALSE,0,"INT","heroes\Ogre_Magi.png",23,3.3,14,1.5,15,2.5,5,3.25,0,49,55,1.7,100
+"Omniknight","51.22%",315,150,FALSE,0,"STR","heroes\Omniknight.png",23,3.1,15,2,16,2.1,2,0.25,0,54,64,1.7,100
+"Oracle","49.11%",295,620,TRUE,900,"INT","heroes\Oracle.png",20,2.4,15,1.7,26,3.8,1,0.25,0.5,39,45,1.7,100
+"Pangolier","46.17%",300,150,FALSE,0,"AGI","heroes\Pangolier.png",17,2.5,18,3.2,16,1.9,1,0.25,0,51,57,1.7,100
+"Phantom Assassin","47.58%",305,150,FALSE,0,"AGI","heroes\Phantom_Assassin.png",21,2.2,23,3.4,15,1.4,1,0.75,0,55,57,1.7,100
+"Phantom Lancer","47.99%",290,150,FALSE,0,"AGI","heroes\Phantom_Lancer.png",19,2.2,26,3.2,21,2,-1,1.5,0,52,62,1.7,100
+"Phoenix","48.57%",280,525,TRUE,1100,"STR","heroes\Phoenix.png",23,3.6,12,1.5,16,1.8,-1,1,0,49,59,1.7,100
+"Puck","46.28%",290,550,TRUE,900,"INT","heroes\Puck.png",17,2.4,22,2.5,23,3.5,-3,0.5,0.5,45,53,1.7,100
+"Pudge","47.07%",280,175,FALSE,0,"STR","heroes\Pudge.png",25,3,14,1.4,16,1.8,-1,2,0,67,73,1.7,100
+"Pugna","52.36%",330,630,TRUE,900,"INT","heroes\Pugna.png",19,2,24,1.3,24,5.2,0,0.25,0.5,45,52,1.7,100
+"Razor","52.74%",290,475,TRUE,2000,"AGI","heroes\Razor.png",22,2.8,22,2.6,21,2.2,-1,1,0,45,47,1.7,100
+"Riki","46.28%",315,150,FALSE,0,"AGI","heroes\Riki.png",18,2.6,18,1.4,14,1.3,3,2.5,0,59,63,1.7,100
+"Rubick","48.41%",290,550,TRUE,1125,"INT","heroes\Rubick.png",21,2,23,2.5,25,3.1,0,0.25,0.5,49,55,1.7,100
+"Sand King","46.75%",290,150,FALSE,0,"STR","heroes\Sand_King.png",22,2.7,19,1.8,19,1.8,0,0.25,0,45,55,1.7,110
+"Shadow Demon","50.68%",290,500,TRUE,900,"INT","heroes\Shadow_Demon.png",23,2.6,18,2.2,22,3.6,0,0.25,0,51,55,1.7,100
+"Shadow Shaman","49.26%",285,400,TRUE,900,"INT","heroes\Shadow_Shaman.png",23,2.3,16,1.6,25,3.5,2,1,0,71,78,1.7,90
+"Silencer","51.15%",290,600,TRUE,900,"INT","heroes\Silencer.png",19,2.4,22,2.4,25,2.9,-1,0.25,0,43,57,1.7,115
+"Skywrath Mage","49.27%",325,625,TRUE,1000,"INT","heroes\Skywrath_Mage.png",21,2,13,0.8,25,4.1,-2,0.25,0,41,51,1.7,100
+"Slardar","50.29%",300,150,FALSE,0,"STR","heroes\Slardar.png",21,3.6,17,2.4,15,1.5,3,0.5,0,51,59,1.7,100
+"Slark","43.32%",300,150,FALSE,0,"AGI","heroes\Slark.png",20,1.9,21,1.7,16,1.7,0,1.75,0,53,61,1.7,110
+"Sniper","56.60%",285,550,TRUE,3000,"AGI","heroes\Sniper.png",19,2,27,3.2,15,2.6,-1,0.25,0,40,46,1.7,100
+"Spectre","46.12%",290,150,FALSE,0,"AGI","heroes\Spectre.png",23,2.5,25,2.1,16,1.9,1,2,0,48,52,1.7,90
+"Storm Spirit","49.08%",285,480,TRUE,1100,"INT","heroes\Storm_Spirit.png",21,2,22,1.9,23,3.9,1,0.25,0.5,47,57,1.7,115
+"Techies","51.95%",300,700,TRUE,900,"INT","heroes\Techies.png",19,2.5,14,1.3,25,3,3,0.25,1,46,48,1.7,100
+"Templar Assassin","46.74%",305,160,TRUE,900,"AGI","heroes\Templar_Assassin.png",21,2.4,23,3.2,20,2,1,0.25,0,53,59,1.7,100
+"Tidehunter","48.45%",300,150,FALSE,0,"STR","heroes\Tidehunter.png",27,3.5,15,1.5,18,1.7,0,0.25,0.5,52,58,1.7,100
+"Timbersaw","48.84%",290,150,FALSE,0,"STR","heroes\Timbersaw.png",24,3.2,16,1.6,23,2.7,0,0.25,0.5,51,55,1.7,100
+"Tinker","46.32%",290,500,TRUE,900,"INT","heroes\Tinker.png",19,2.5,13,1.2,30,3.3,2,0.25,0.75,52,58,1.7,100
+"Tiny","47.40%",295,150,FALSE,0,"STR","heroes\Tiny.png",30,4,0,0,17,2.2,0,1.5,0,61,67,1.7,90
+"Troll Warlord","49.02%",290,500,TRUE,1200,"AGI","heroes\Troll_Warlord.png",21,2.5,21,3.3,13,1,-1,0.25,0,48,56,1.7,100
+"Tusk","53.17%",310,150,FALSE,0,"STR","heroes\Tusk.png",23,3.9,23,2.1,18,1.7,1,0.75,0,50,54,1.7,100
+"Underlord","50.36%",290,200,FALSE,0,"STR","heroes\Underlord.png",25,3,12,1.6,17,2.3,3,0.25,0,62,68,1.7,100
+"Undying","48.86%",300,150,FALSE,0,"STR","heroes\Undying.png",22,2.8,10,1.2,27,2.8,1,0.25,0.25,57,65,1.7,100
+"Ursa","47.27%",310,150,FALSE,0,"AGI","heroes\Ursa.png",25,2.6,18,2.6,16,1.5,1,0.5,0,42,46,1.7,100
+"Vengeful Spirit","49.44%",295,400,TRUE,1500,"AGI","heroes\Vengeful_Spirit.png",19,2.6,20,3.2,19,1.5,0,0.25,0,44,50,1.7,100
+"Venomancer","46.69%",280,450,TRUE,900,"AGI","heroes\Venomancer.png",19,2.1,24,2.8,19,1.8,0,0.25,0,46,49,1.7,115
+"Viper","50.88%",275,575,TRUE,1200,"AGI","heroes\Viper.png",21,2.4,21,2.7,17,2,-2,0.25,0,48,50,1.7,120
+"Visage","47.30%",285,600,TRUE,1400,"INT","heroes\Visage.png",22,2.8,11,1.3,22,2.9,-1,0.25,0,45,55,1.7,110
+"Void Spirit","46.70%",295,200,FALSE,0,"INT","heroes\Void_Spirit.png",22,2.6,19,2.2,24,3.1,-1,0.25,0.6,54,58,1.7,100
+"Warlock","51.66%",290,600,TRUE,1200,"INT","heroes\Warlock.png",24,3,10,1,25,3.1,1,0.25,0,49,59,1.7,100
+"Winter Wyvern","46.86%",285,425,TRUE,700,"INT","heroes\Winter_Wyvern.png",24,2.6,16,1.7,26,3.6,0,0.25,0,40,47,1.7,100
+"Wisp","51.10%",320,500,TRUE,1200,"STR","heroes\Io.png",17,3,14,1.6,23,1.7,1,0.25,0,45,51,1.7,100
+"Witch Doctor","48.44%",300,600,TRUE,1200,"INT","heroes\Witch_Doctor.png",18,2.3,13,1.4,22,3.3,0,0.25,0,51,61,1.7,100
+"Wraith King","46.15%",315,150,FALSE,0,"STR","heroes\Wraith_King.png",22,3,16,1.7,18,1.6,-1,0.25,0,60,62,1.7,100
+"Zeus","47.41%",315,380,TRUE,1100,"INT","heroes\Zeus.png",19,2.1,11,1.2,22,3.3,2,0.25,0,55,63,1.7,100
+"Bristleback","46.47%",295,150,FALSE,0,"STR","heroes\Bristleback.png",22,2.5,17,1.8,14,2.8,1,0.25,0.25,52,58,1.8,100
+"Magnus","52.02%",305,150,FALSE,0,"STR","heroes\Magnus.png",25,3.5,15,2.5,19,2.1,1,0.5,0,57,65,1.8,100
+"Mars","52.56%",310,250,FALSE,0,"STR","heroes\Mars.png",23,3.7,20,1.7,21,2.2,-1,0.25,0.5,52,60,1.8,100
+"Primal Beast","51.16%",305,150,FALSE,0,"STR","heroes\Primal_Beast.png",26,4.3,15,1,16,1.4,2,0,0,62,64,1.8,100
+"Weaver","45.97%",275,425,TRUE,900,"AGI","heroes\Weaver.png",16,2,17,3.1,20,2,0,1.25,0.5,54,60,1.8,120
+"Doom","47.42%",285,200,FALSE,0,"STR","heroes\Doom.png",24,3.7,11,0.9,15,1.7,3,0.25,0,58,68,1.9,100
+"Outworld Destroyer","55.30%",320,450,TRUE,900,"INT","heroes\Outworld_Destroyer.png",21,2.9,22,1.6,30,4.2,2.5,1,0,49,61,1.9,100
+"Spirit Breaker","48.94%",295,150,FALSE,0,"STR","heroes\Spirit_Breaker.png",28,3,17,1.7,14,1.8,2,1.25,0,59,69,1.9,100
+"Sven","49.25%",325,150,FALSE,0,"STR","heroes\Sven.png",22,3.2,21,2.2,16,1.3,0,0.25,0,63,65,1.9,100
+"Treant Protector","47.95%",285,150,FALSE,0,"STR","heroes\Treant_Protector.png",25,3.4,15,2,20,1.8,-1,0.25,0.5,87,95,1.9,100
+"Hoodwink","56.12%",310,575,TRUE,1800,"AGI","heroes\Hoodwink.png",17,2,24,3.6,21,2.9,0,0.25,0,46,53,2,100

@@ -2,11 +2,11 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 0,Bulwark,Mars,54.91%,Luminosity,Dawnbreaker,50.01%,2718,73.99%,21.59%,NO,skills\mars_bulwark.png,skills\dawnbreaker_luminosity.png
 1,Rot,Pudge,52.59%,Infest,Lifestealer,49.50%,3868,70.22%,19.20%,NO,skills\pudge_rot.png,skills\life_stealer_infest.png
 2,Rot,Pudge,52.59%,Primal Split,Brewmaster,53.93%,2773,71.22%,17.97%,NO,skills\pudge_rot.png,skills\brewmaster_primal_split.png
-3,Ball Lightning,Storm Spirit,50.41%,Essence Flux,Outworld Devourer,47.89%,2643,67.05%,17.91%,NO,skills\storm_spirit_ball_lightning.png,skills\obsidian_destroyer_equilibrium.png
+3,Ball Lightning,Storm Spirit,50.41%,Essence Flux,Outworld Destroyer,47.89%,2643,67.05%,17.91%,NO,skills\storm_spirit_ball_lightning.png,skills\obsidian_destroyer_equilibrium.png
 4,Aftershock,Earthshaker,55.52%,Proximity Mines,Techies,50.55%,3927,70.56%,17.58%,NO,skills\earthshaker_aftershock.png,skills\techies_land_mines.png
 5,Aftershock,Earthshaker,55.52%,Viscous Nasal Goo,Bristleback,50.20%,1956,70.04%,17.25%,NO,skills\earthshaker_aftershock.png,skills\bristleback_viscous_nasal_goo.png
 6,Aftershock,Earthshaker,55.52%,Ball Lightning,Storm Spirit,50.41%,2643,68.63%,15.73%,NO,skills\earthshaker_aftershock.png,skills\storm_spirit_ball_lightning.png
-7,Mana Shield,Medusa,53.78%,Essence Flux,Outworld Devourer,47.89%,2297,65.30%,14.55%,NO,skills\medusa_mana_shield.png,skills\obsidian_destroyer_equilibrium.png
+7,Mana Shield,Medusa,53.78%,Essence Flux,Outworld Destroyer,47.89%,2297,65.30%,14.55%,NO,skills\medusa_mana_shield.png,skills\obsidian_destroyer_equilibrium.png
 8,Aftershock,Earthshaker,55.52%,Static Remnant,Storm Spirit,46.14%,5801,64.90%,14.29%,NO,skills\earthshaker_aftershock.png,skills\storm_spirit_static_remnant.png
 9,Mass Serpent Ward,Shadow Shaman,53.67%,Vengeance Aura,Vengeful Spirit,56.01%,2159,68.83%,14.00%,NO,skills\shadow_shaman_mass_serpent_ward.png,skills\vengefulspirit_command_aura.png
 10,Aftershock,Earthshaker,55.52%,Terrorize,Dark Willow,51.10%,2748,66.56%,13.29%,NO,skills\earthshaker_aftershock.png,skills\dark_willow_terrorize.png
@@ -474,7 +474,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 473,Kraken Shell,Tidehunter,55.96%,Ravage,Tidehunter,51.68%,11141,56.12%,2.34%,YES,skills\tidehunter_kraken_shell.png,skills\tidehunter_ravage.png
 474,Ghoul Frenzy,Lifestealer,48.84%,Rage,Lifestealer,53.01%,10398,53.21%,2.33%,YES,skills\life_stealer_ghoul_frenzy.png,skills\life_stealer_rage.png
 475,Nether Blast,Pugna,45.85%,Nether Ward,Pugna,57.78%,8507,53.80%,2.33%,YES,skills\pugna_nether_blast.png,skills\pugna_nether_ward.png
-476,Arcane Orb,Outworld Devourer,48.90%,Essence Flux,Outworld Devourer,47.89%,47971,50.72%,2.32%,YES,skills\obsidian_destroyer_arcane_orb.png,skills\obsidian_destroyer_equilibrium.png
+476,Arcane Orb,Outworld Destroyer,48.90%,Essence Flux,Outworld Destroyer,47.89%,47971,50.72%,2.32%,YES,skills\obsidian_destroyer_arcane_orb.png,skills\obsidian_destroyer_equilibrium.png
 477,Lil' Shredder,Snapfire,47.90%,Lucky Shot,Pangolier,48.01%,2164,50.28%,2.32%,NO,skills\snapfire_lil_shredder.png,skills\pangolier_lucky_shot.png
 478,Thirst,Bloodseeker,54.93%,Rupture,Bloodseeker,49.44%,13932,54.42%,2.31%,YES,skills\bloodseeker_thirst.png,skills\bloodseeker_rupture.png
 479,Malefice,Enigma,51.36%,Midnight Pulse,Enigma,51.72%,7757,53.85%,2.31%,YES,skills\enigma_malefice.png,skills\enigma_midnight_pulse.png
@@ -802,7 +802,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 801,Lucent Beam,Luna,50.09%,Eclipse,Luna,48.32%,74308,49.68%,0.48%,YES,skills\luna_lucent_beam.png,skills\luna_eclipse.png
 802,Penitence,Chen,47.96%,Hand of God,Chen,50.57%,2922,49.73%,0.48%,YES,skills\chen_penitence.png,skills\chen_hand_of_god.png
 803,Unleash,Marci,49.93%,Sidekick,Marci,47.88%,27487,49.37%,0.47%,YES,skills\marci_unleash.png,skills\marci_guardian.png
-804,Chakram,Timbersaw,50.35%,Essence Flux,Outworld Devourer,47.89%,2709,49.58%,0.47%,NO,skills\shredder_chakram.png,skills\obsidian_destroyer_equilibrium.png
+804,Chakram,Timbersaw,50.35%,Essence Flux,Outworld Destroyer,47.89%,2709,49.58%,0.47%,NO,skills\shredder_chakram.png,skills\obsidian_destroyer_equilibrium.png
 805,Grow,Tiny,50.35%,Inner Beast,Beastmaster,48.59%,2271,49.93%,0.47%,NO,skills\tiny_grow.png,skills\beastmaster_inner_beast.png
 806,Aftershock,Earthshaker,55.52%,Blink Strike,Riki,48.96%,2055,52.60%,0.47%,NO,skills\earthshaker_aftershock.png,skills\riki_blink_strike.png
 807,Sand Storm,Sand King,52.71%,Epicenter,Sand King,49.32%,10502,51.45%,0.46%,YES,skills\sandking_sand_storm.png,skills\sandking_epicenter.png
@@ -853,7 +853,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 852,Dragon Blood,Dragon Knight,50.26%,Elder Dragon Form,Dragon Knight,51.00%,10060,50.83%,0.21%,YES,skills\dragon_knight_dragon_blood.png,skills\dragon_knight_elder_dragon_form.png
 853,Searing Chains,Ember Spirit,49.48%,Sleight of Fist,Ember Spirit,50.02%,18375,49.95%,0.20%,YES,skills\ember_spirit_searing_chains.png,skills\ember_spirit_sleight_of_fist.png
 854,Stifling Dagger,Phantom Assassin,47.20%,Jinada,Bounty Hunter,47.31%,3235,47.45%,0.20%,NO,skills\phantom_assassin_stifling_dagger.png,skills\bounty_hunter_jinada.png
-855,Spark Wraith,Arc Warden,49.54%,Essence Flux,Outworld Devourer,47.89%,2527,48.91%,0.20%,NO,skills\arc_warden_spark_wraith.png,skills\obsidian_destroyer_equilibrium.png
+855,Spark Wraith,Arc Warden,49.54%,Essence Flux,Outworld Destroyer,47.89%,2527,48.91%,0.20%,NO,skills\arc_warden_spark_wraith.png,skills\obsidian_destroyer_equilibrium.png
 856,Enchant Totem,Earthshaker,45.84%,Aftershock,Earthshaker,55.52%,7083,50.63%,0.18%,YES,skills\earthshaker_enchant_totem.png,skills\earthshaker_aftershock.png
 857,Reflection,Terrorblade,53.48%,Sunder,Terrorblade,47.41%,8097,50.52%,0.17%,YES,skills\terrorblade_reflection.png,skills\terrorblade_sunder.png
 858,Mana Burn,Nyx Assassin,47.45%,Spiked Carapace,Nyx Assassin,53.89%,5828,50.74%,0.17%,YES,skills\nyx_assassin_mana_burn.png,skills\nyx_assassin_spiked_carapace.png
@@ -930,11 +930,11 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 929,Focus Fire,Windranger,43.34%,Searing Arrows,Clinkz,46.23%,2788,40.32%,-4.45%,NO,skills\windrunner_focusfire.png,skills\clinkz_searing_arrows.png
 930,Flamebreak,Batrider,44.27%,Flaming Lasso,Batrider,46.63%,2494,41.02%,-4.42%,YES,skills\batrider_flamebreak.png,skills\batrider_flaming_lasso.png
 931,Nightmare,Bane,45.74%,Focus Fire,Windranger,43.34%,2442,39.64%,-4.89%,NO,skills\bane_nightmare.png,skills\windrunner_focusfire.png
-932,Nether Blast,Pugna,45.85%,Essence Flux,Outworld Devourer,47.89%,2407,42.25%,-4.61%,NO,skills\pugna_nether_blast.png,skills\obsidian_destroyer_equilibrium.png
+932,Nether Blast,Pugna,45.85%,Essence Flux,Outworld Destroyer,47.89%,2407,42.25%,-4.61%,NO,skills\pugna_nether_blast.png,skills\obsidian_destroyer_equilibrium.png
 933,Flamebreak,Batrider,44.27%,Firefly,Batrider,48.16%,2403,41.41%,-4.77%,YES,skills\batrider_flamebreak.png,skills\batrider_firefly.png
-934,Shadow Poison,Shadow Demon,43.91%,Essence Flux,Outworld Devourer,47.89%,2372,41.40%,-4.46%,NO,skills\shadow_demon_shadow_poison.png,skills\obsidian_destroyer_equilibrium.png
+934,Shadow Poison,Shadow Demon,43.91%,Essence Flux,Outworld Destroyer,47.89%,2372,41.40%,-4.46%,NO,skills\shadow_demon_shadow_poison.png,skills\obsidian_destroyer_equilibrium.png
 935,Finger of Death,Lion,44.26%,Fatal Bonds,Warlock,49.38%,2294,42.15%,-4.60%,NO,skills\lion_finger_of_death.png,skills\warlock_fatal_bonds.png
-936,Death Pulse,Necrophos,48.94%,Essence Flux,Outworld Devourer,47.89%,2289,44.30%,-4.12%,NO,skills\necrolyte_death_pulse.png,skills\obsidian_destroyer_equilibrium.png
+936,Death Pulse,Necrophos,48.94%,Essence Flux,Outworld Destroyer,47.89%,2289,44.30%,-4.12%,NO,skills\necrolyte_death_pulse.png,skills\obsidian_destroyer_equilibrium.png
 937,Reaper's Scythe,Necrophos,49.12%,Decrepify,Pugna,45.35%,2213,42.97%,-4.22%,NO,skills\necrolyte_reapers_scythe.png,skills\pugna_decrepify.png
 938,Static Link,Razor,45.31%,Duel,Legion Commander,47.31%,2122,41.56%,-4.73%,NO,skills\razor_static_link.png,skills\legion_commander_duel.png
 939,Omnislash,Juggernaut,47.90%,Penitence,Chen,47.96%,2119,43.70%,-4.23%,NO,skills\juggernaut_omni_slash.png,skills\chen_penitence.png
@@ -951,7 +951,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 950,Scream Of Pain,Queen of Pain,47.61%,Sonic Wave,Queen of Pain,46.46%,9051,43.63%,-3.40%,YES,skills\queenofpain_scream_of_pain.png,skills\queenofpain_sonic_wave.png
 951,Take Aim,Sniper,50.06%,Assassinate,Sniper,47.68%,8638,44.87%,-3.99%,YES,skills\sniper_take_aim.png,skills\sniper_assassinate.png
 952,Fiery Soul,Lina,50.06%,Laguna Blade,Lina,44.94%,8533,43.68%,-3.75%,YES,skills\lina_fiery_soul.png,skills\lina_laguna_blade.png
-953,Astral Imprisonment,Outworld Devourer,49.12%,Essence Flux,Outworld Devourer,47.89%,8508,45.44%,-3.06%,YES,skills\obsidian_destroyer_astral_imprisonment.png,skills\obsidian_destroyer_equilibrium.png
+953,Astral Imprisonment,Outworld Destroyer,49.12%,Essence Flux,Outworld Destroyer,47.89%,8508,45.44%,-3.06%,YES,skills\obsidian_destroyer_astral_imprisonment.png,skills\obsidian_destroyer_equilibrium.png
 954,Whirling Axes (Melee),Troll Warlord,50.26%,Battle Trance,Troll Warlord,48.89%,7588,46.16%,-3.40%,YES,skills\troll_warlord_whirling_axes_melee.png,skills\troll_warlord_battle_trance.png
 955,Bloodrage,Bloodseeker,46.67%,Rupture,Bloodseeker,49.44%,7226,44.55%,-3.49%,YES,skills\bloodseeker_bloodrage.png,skills\bloodseeker_rupture.png
 956,Hammer of Purity,Omniknight,45.01%,Guardian Angel,Omniknight,50.70%,6717,43.86%,-3.91%,YES,skills\omniknight_hammer_of_purity.png,skills\omniknight_guardian_angel.png
@@ -977,7 +977,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 976,Wraithfire Blast,Wraith King,50.53%,Mortal Strike,Wraith King,48.03%,4007,45.70%,-3.57%,YES,skills\skeleton_king_hellfire_blast.png,skills\skeleton_king_mortal_strike.png
 977,Sticky Bomb,Techies,47.80%,Reactive Tazer,Techies,48.79%,3958,45.05%,-3.24%,YES,skills\techies_sticky_bomb.png,skills\techies_reactive_tazer.png
 978,Smoke Screen,Riki,51.02%,Tricks of the Trade,Riki,45.89%,3849,45.39%,-3.00%,YES,skills\riki_smoke_screen.png,skills\riki_tricks_of_the_trade.png
-979,Arcane Bolt,Skywrath Mage,47.61%,Essence Flux,Outworld Devourer,47.89%,3845,44.01%,-3.75%,NO,skills\skywrath_mage_arcane_bolt.png,skills\obsidian_destroyer_equilibrium.png
+979,Arcane Bolt,Skywrath Mage,47.61%,Essence Flux,Outworld Destroyer,47.89%,3845,44.01%,-3.75%,NO,skills\skywrath_mage_arcane_bolt.png,skills\obsidian_destroyer_equilibrium.png
 980,Astral Spirit,Elder Titan,49.35%,Earth Splitter,Elder Titan,48.28%,3763,44.96%,-3.85%,YES,skills\elder_titan_ancestral_spirit.png,skills\elder_titan_earth_splitter.png
 981,Arcane Bolt,Skywrath Mage,47.61%,Bad Juju,Dazzle,43.26%,3298,41.72%,-3.66%,NO,skills\skywrath_mage_arcane_bolt.png,skills\dazzle_bad_juju.png
 982,Gush,Tidehunter,50.49%,Anchor Smash,Tidehunter,46.81%,3265,44.90%,-3.72%,YES,skills\tidehunter_gush.png,skills\tidehunter_anchor_smash.png
@@ -1070,7 +1070,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1069,Shadow Poison,Shadow Demon,43.91%,Demonic Purge,Shadow Demon,50.32%,5481,44.21%,-2.80%,YES,skills\shadow_demon_shadow_poison.png,skills\shadow_demon_demonic_purge.png
 1070,God's Rebuke,Mars,47.51%,Spear of Mars,Mars,50.66%,5460,46.67%,-2.39%,YES,skills\mars_gods_rebuke.png,skills\mars_spear.png
 1071,X Marks the Spot,Kunkka,45.19%,Ghostship,Kunkka,50.49%,5378,45.52%,-2.25%,YES,skills\kunkka_x_marks_the_spot.png,skills\kunkka_ghostship.png
-1072,Arcane Orb,Outworld Devourer,48.90%,Astral Imprisonment,Outworld Devourer,49.12%,5274,46.57%,-2.44%,YES,skills\obsidian_destroyer_arcane_orb.png,skills\obsidian_destroyer_astral_imprisonment.png
+1072,Arcane Orb,Outworld Destroyer,48.90%,Astral Imprisonment,Outworld Destroyer,49.12%,5274,46.57%,-2.44%,YES,skills\obsidian_destroyer_arcane_orb.png,skills\obsidian_destroyer_astral_imprisonment.png
 1073,Celestial Hammer,Dawnbreaker,49.03%,Luminosity,Dawnbreaker,50.01%,5165,46.60%,-2.92%,YES,skills\dawnbreaker_celestial_hammer.png,skills\dawnbreaker_luminosity.png
 1074,Torrent,Kunkka,49.63%,Tidebringer,Kunkka,49.79%,5078,47.40%,-2.31%,YES,skills\kunkka_torrent.png,skills\kunkka_tidebringer.png
 1075,Glimpse,Disruptor,47.15%,Static Storm,Disruptor,50.35%,4779,45.85%,-2.88%,YES,skills\disruptor_glimpse.png,skills\disruptor_static_storm.png
@@ -1123,7 +1123,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1122,God's Strength,Sven,47.95%,Boundless Strike,Monkey King,50.64%,2102,46.86%,-2.41%,NO,skills\sven_gods_strength.png,skills\monkey_king_boundless_strike.png
 1123,Walrus PUNCH!,Tusk,47.29%,God's Rebuke,Mars,47.51%,2087,44.75%,-2.65%,NO,skills\tusk_walrus_punch.png,skills\mars_gods_rebuke.png
 1124,Culling Blade,Axe,46.93%,Flesh Heap,Pudge,47.86%,2063,44.98%,-2.41%,NO,skills\axe_culling_blade.png,skills\pudge_flesh_heap.png
-1125,Lightning Storm,Leshrac,46.46%,Essence Flux,Outworld Devourer,47.89%,2038,44.36%,-2.82%,NO,skills\leshrac_lightning_storm.png,skills\obsidian_destroyer_equilibrium.png
+1125,Lightning Storm,Leshrac,46.46%,Essence Flux,Outworld Destroyer,47.89%,2038,44.36%,-2.82%,NO,skills\leshrac_lightning_storm.png,skills\obsidian_destroyer_equilibrium.png
 1126,God's Strength,Sven,47.95%,Phantom Strike,Phantom Assassin,48.77%,2030,46.35%,-2.00%,NO,skills\sven_gods_strength.png,skills\phantom_assassin_phantom_strike.png
 1127,Finger of Death,Lion,44.26%,Waning Rift,Puck,50.08%,2025,44.84%,-2.24%,NO,skills\lion_finger_of_death.png,skills\puck_waning_rift.png
 1128,Focus Fire,Windranger,43.34%,Shadow Realm,Dark Willow,52.97%,1998,45.60%,-2.32%,NO,skills\windrunner_focusfire.png,skills\dark_willow_shadow_realm.png
@@ -1172,7 +1172,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1171,Splinter Blast,Winter Wyvern,45.25%,Winter's Curse,Winter Wyvern,51.67%,9072,46.97%,-1.39%,YES,skills\winter_wyvern_splinter_blast.png,skills\winter_wyvern_winters_curse.png
 1172,Dark Pact,Slark,49.77%,Essence Shift,Slark,49.57%,8811,48.31%,-1.36%,YES,skills\slark_dark_pact.png,skills\slark_essence_shift.png
 1173,Shadow Wave,Dazzle,45.51%,Bad Juju,Dazzle,43.26%,8784,43.32%,-1.05%,YES,skills\dazzle_shadow_wave.png,skills\dazzle_bad_juju.png
-1174,Astral Imprisonment,Outworld Devourer,49.12%,Sanity's Eclipse,Outworld Devourer,45.48%,8746,45.70%,-1.56%,YES,skills\obsidian_destroyer_astral_imprisonment.png,skills\obsidian_destroyer_sanity_eclipse.png
+1174,Astral Imprisonment,Outworld Destroyer,49.12%,Sanity's Eclipse,Outworld Destroyer,45.48%,8746,45.70%,-1.56%,YES,skills\obsidian_destroyer_astral_imprisonment.png,skills\obsidian_destroyer_sanity_eclipse.png
 1175,Heavenly Jump,Zeus,49.50%,Thundergod's Wrath,Zeus,49.47%,8677,47.89%,-1.60%,YES,skills\zuus_heavenly_jump.png,skills\zuus_thundergods_wrath.png
 1176,Ion Shell,Dark Seer,49.98%,Wall of Replica,Dark Seer,55.65%,8111,51.37%,-1.36%,YES,skills\dark_seer_ion_shell.png,skills\dark_seer_wall_of_replica.png
 1177,Spirit Lance,Phantom Lancer,51.12%,Phantom Rush,Phantom Lancer,46.47%,7759,47.35%,-1.39%,YES,skills\phantom_lancer_spirit_lance.png,skills\phantom_lancer_phantom_edge.png
@@ -1216,7 +1216,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1215,Lucent Beam,Luna,50.09%,Moon Glaives,Luna,53.26%,4607,49.97%,-1.68%,YES,skills\luna_lucent_beam.png,skills\luna_moon_glaive.png
 1216,Rip Tide,Naga Siren,47.96%,Song of the Siren,Naga Siren,46.93%,4550,46.04%,-1.40%,YES,skills\naga_siren_rip_tide.png,skills\naga_siren_song_of_the_siren.png
 1217,Whirling Axes (Ranged),Troll Warlord,48.17%,Whirling Axes (Melee),Troll Warlord,50.26%,4281,48.14%,-1.06%,YES,skills\troll_warlord_whirling_axes_ranged.png,skills\troll_warlord_whirling_axes_melee.png
-1218,Arc Lightning,Zeus,45.46%,Essence Flux,Outworld Devourer,47.89%,4190,44.70%,-1.96%,NO,skills\zuus_arc_lightning.png,skills\obsidian_destroyer_equilibrium.png
+1218,Arc Lightning,Zeus,45.46%,Essence Flux,Outworld Destroyer,47.89%,4190,44.70%,-1.96%,NO,skills\zuus_arc_lightning.png,skills\obsidian_destroyer_equilibrium.png
 1219,Grave Chill,Visage,46.80%,Summon Familiars,Visage,46.06%,4072,45.33%,-1.09%,YES,skills\visage_grave_chill.png,skills\visage_summon_familiars.png
 1220,Solar Bind,Keeper of the Light,47.90%,Illuminate,Keeper of the Light,46.55%,4027,45.37%,-1.85%,YES,skills\keeper_of_the_light_radiant_bind.png,skills\keeper_of_the_light_illuminate.png
 1221,Avalanche,Tiny,53.07%,Tree Grab,Tiny,48.66%,4016,49.08%,-1.73%,YES,skills\tiny_avalanche.png,skills\tiny_tree_grab.png
@@ -1287,7 +1287,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1286,Wild Axes,Beastmaster,52.56%,Inner Beast,Beastmaster,48.59%,2092,48.85%,-1.68%,YES,skills\beastmaster_wild_axes.png,skills\beastmaster_inner_beast.png
 1287,Sticky Napalm,Batrider,47.82%,Mystic Flare,Skywrath Mage,48.12%,2082,46.16%,-1.81%,NO,skills\batrider_sticky_napalm.png,skills\skywrath_mage_mystic_flare.png
 1288,Finger of Death,Lion,44.26%,Thunder Strike,Disruptor,52.08%,2059,46.09%,-1.92%,NO,skills\lion_finger_of_death.png,skills\disruptor_thunder_strike.png
-1289,Crypt Swarm,Death Prophet,47.77%,Essence Flux,Outworld Devourer,47.89%,2051,46.08%,-1.76%,NO,skills\death_prophet_carrion_swarm.png,skills\obsidian_destroyer_equilibrium.png
+1289,Crypt Swarm,Death Prophet,47.77%,Essence Flux,Outworld Destroyer,47.89%,2051,46.08%,-1.76%,NO,skills\death_prophet_carrion_swarm.png,skills\obsidian_destroyer_equilibrium.png
 1290,Omnislash,Juggernaut,47.90%,Fervor,Troll Warlord,46.78%,2037,45.85%,-1.49%,NO,skills\juggernaut_omni_slash.png,skills\troll_warlord_fervor.png
 1291,Lightning Bolt,Zeus,50.74%,Decrepify,Pugna,45.35%,2026,46.79%,-1.18%,NO,skills\zuus_lightning_bolt.png,skills\pugna_decrepify.png
 1292,Coup de Grace,Phantom Assassin,44.64%,Sidekick,Marci,47.88%,2021,44.48%,-1.75%,NO,skills\phantom_assassin_coup_de_grace.png,skills\marci_guardian.png
@@ -1336,7 +1336,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1335,God's Rebuke,Mars,47.51%,Arena Of Blood,Mars,49.99%,12966,47.82%,-0.92%,YES,skills\mars_gods_rebuke.png,skills\mars_arena_of_blood.png
 1336,Boundless Strike,Monkey King,50.64%,Jingu Mastery,Monkey King,45.07%,12890,47.46%,-0.31%,YES,skills\monkey_king_boundless_strike.png,skills\monkey_king_jingu_mastery.png
 1337,Trample,Primal Beast,48.47%,Uproar,Primal Beast,51.43%,12607,49.88%,-0.05%,YES,skills\primal_beast_trample.png,skills\primal_beast_uproar.png
-1338,Sanity's Eclipse,Outworld Devourer,45.48%,Essence Flux,Outworld Devourer,47.89%,12603,45.77%,-0.91%,YES,skills\obsidian_destroyer_sanity_eclipse.png,skills\obsidian_destroyer_equilibrium.png
+1338,Sanity's Eclipse,Outworld Destroyer,45.48%,Essence Flux,Outworld Destroyer,47.89%,12603,45.77%,-0.91%,YES,skills\obsidian_destroyer_sanity_eclipse.png,skills\obsidian_destroyer_equilibrium.png
 1339,The Swarm,Weaver,51.31%,Geminate Attack,Weaver,47.95%,12098,49.21%,-0.39%,YES,skills\weaver_the_swarm.png,skills\weaver_geminate_attack.png
 1340,Power Cogs,Clockwerk,46.88%,Hookshot,Clockwerk,49.12%,11659,47.23%,-0.75%,YES,skills\rattletrap_power_cogs.png,skills\rattletrap_hookshot.png
 1341,Tidebringer,Kunkka,49.79%,Ghostship,Kunkka,50.49%,11651,49.22%,-0.91%,YES,skills\kunkka_tidebringer.png,skills\kunkka_ghostship.png
@@ -1347,7 +1347,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1346,Illusory Orb,Puck,48.76%,Phase Shift,Puck,50.60%,11164,49.67%,0.00%,YES,skills\puck_illusory_orb.png,skills\puck_phase_shift.png
 1347,Charge of Darkness,Spirit Breaker,50.41%,Nether Strike,Spirit Breaker,43.28%,10996,46.28%,-0.43%,YES,skills\spirit_breaker_charge_of_darkness.png,skills\spirit_breaker_nether_strike.png
 1348,Sharpshooter,Hoodwink,47.91%,Bushwhack,Hoodwink,49.16%,10924,47.92%,-0.61%,YES,skills\hoodwink_sharpshooter.png,skills\hoodwink_bushwhack.png
-1349,Arcane Orb,Outworld Devourer,48.90%,Sanity's Eclipse,Outworld Devourer,45.48%,10865,46.42%,-0.74%,YES,skills\obsidian_destroyer_arcane_orb.png,skills\obsidian_destroyer_sanity_eclipse.png
+1349,Arcane Orb,Outworld Destroyer,48.90%,Sanity's Eclipse,Outworld Destroyer,45.48%,10865,46.42%,-0.74%,YES,skills\obsidian_destroyer_arcane_orb.png,skills\obsidian_destroyer_sanity_eclipse.png
 1350,Spiked Carapace,Nyx Assassin,53.89%,Vendetta,Nyx Assassin,46.60%,10641,49.89%,-0.22%,YES,skills\nyx_assassin_spiked_carapace.png,skills\nyx_assassin_vendetta.png
 1351,Blur,Phantom Assassin,53.15%,Coup de Grace,Phantom Assassin,44.64%,10583,47.77%,-0.94%,YES,skills\phantom_assassin_blur.png,skills\phantom_assassin_coup_de_grace.png
 1352,Timber Chain,Timbersaw,45.82%,Chakram,Timbersaw,50.35%,10181,47.47%,-0.56%,YES,skills\shredder_timber_chain.png,skills\shredder_chakram.png
@@ -1474,7 +1474,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1473,Ice Vortex,Ancient Apparition,52.80%,Bad Juju,Dazzle,43.26%,2218,47.52%,-0.27%,NO,skills\ancient_apparition_ice_vortex.png,skills\dazzle_bad_juju.png
 1474,Dragon Blood,Dragon Knight,50.26%,Retaliate,Centaur Warrunner,50.98%,2209,49.75%,-0.87%,NO,skills\dragon_knight_dragon_blood.png,skills\centaur_return.png
 1475,Headshot,Sniper,48.37%,Unleash,Marci,49.93%,2193,48.43%,-0.72%,NO,skills\sniper_headshot.png,skills\marci_unleash.png
-1476,Proximity Mines,Techies,50.55%,Essence Flux,Outworld Devourer,47.89%,2185,48.70%,-0.51%,NO,skills\techies_land_mines.png,skills\obsidian_destroyer_equilibrium.png
+1476,Proximity Mines,Techies,50.55%,Essence Flux,Outworld Destroyer,47.89%,2185,48.70%,-0.51%,NO,skills\techies_land_mines.png,skills\obsidian_destroyer_equilibrium.png
 1477,Sonic Wave,Queen of Pain,46.46%,Shockwave,Magnus,51.33%,2163,47.85%,-0.98%,NO,skills\queenofpain_sonic_wave.png,skills\magnataur_shockwave.png
 1478,Tidebringer,Kunkka,49.79%,Luminosity,Dawnbreaker,50.01%,2153,48.91%,-0.99%,NO,skills\kunkka_tidebringer.png,skills\dawnbreaker_luminosity.png
 1479,Battery Assault,Clockwerk,50.63%,Rocket Flare,Clockwerk,46.43%,2148,47.63%,-0.86%,YES,skills\rattletrap_battery_assault.png,skills\rattletrap_rocket_flare.png
@@ -1486,7 +1486,7 @@ ID,Ability 1,Hero 1,A1 WR,Ability 2,Hero 2,A2 WR,Sample,WR,Synergy Delta,Native,
 1485,Aftershock,Earthshaker,55.52%,Plague Ward,Venomancer,47.53%,2120,51.32%,-0.05%,NO,skills\earthshaker_aftershock.png,skills\venomancer_plague_ward.png
 1486,Nightmare,Bane,45.74%,Essence Shift,Slark,49.57%,2069,47.03%,-0.59%,NO,skills\bane_nightmare.png,skills\slark_essence_shift.png
 1487,Shrapnel,Sniper,55.82%,Sticky Napalm,Batrider,47.82%,2067,50.70%,-0.96%,NO,skills\sniper_shrapnel.png,skills\batrider_sticky_napalm.png
-1488,Mystic Flare,Skywrath Mage,48.12%,Essence Flux,Outworld Devourer,47.89%,2066,47.68%,-0.33%,NO,skills\skywrath_mage_mystic_flare.png,skills\obsidian_destroyer_equilibrium.png
+1488,Mystic Flare,Skywrath Mage,48.12%,Essence Flux,Outworld Destroyer,47.89%,2066,47.68%,-0.33%,NO,skills\skywrath_mage_mystic_flare.png,skills\obsidian_destroyer_equilibrium.png
 1489,Desolate,Spectre,49.97%,Unleash,Marci,49.93%,2059,49.83%,-0.12%,NO,skills\spectre_desolate.png,skills\marci_unleash.png
 1490,Chakra Magic,Keeper of the Light,48.57%,Proximity Mines,Techies,50.55%,2051,49.39%,-0.16%,NO,skills\keeper_of_the_light_chakra_magic.png,skills\techies_land_mines.png
 1491,Haunt,Spectre,52.84%,Essence Shift,Slark,49.57%,2051,50.61%,-0.57%,NO,skills\spectre_haunt.png,skills\slark_essence_shift.png

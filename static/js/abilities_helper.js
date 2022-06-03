@@ -22,7 +22,7 @@ json_hero_map = new TwoWayMap({   "1": "Anti-Mage", "2": "Axe", "3": "Bane", "4"
                     "54": "Lifestealer", "55": "Dark Seer", "56": "Clinkz", "57": "Omniknight", "58": "Enchantress", "59": "Huskar",
                     "60": "Night Stalker", "61": "Broodmother", "62": "Bounty Hunter", "63": "Weaver", "64": "Jakiro", "65": "Batrider",
                     "66": "Chen", "67": "Spectre", "68": "Ancient Apparition", "69": "Doom", "70": "Ursa", "71": "Spirit Breaker",
-                    "72": "Gyrocopter", "73": "Alchemist", "74": "Invoker", "75": "Silencer", "76": "Outworld Devourer", "77": "Lycan",
+                    "72": "Gyrocopter", "73": "Alchemist", "74": "Invoker", "75": "Silencer", "76": "Outworld Destroyer", "77": "Lycan",
                     "78": "Brewmaster", "79": "Shadow Demon", "80": "Lone Druid", "81": "Chaos Knight", "82": "Meepo", "83": "Treant Protector",
                     "84": "Ogre Magi", "85": "Undying", "86": "Rubick", "87": "Disruptor", "88": "Nyx Assassin", "89": "Naga Siren",
                     "90": "Keeper of the Light", "91": "Wisp", "92": "Visage", "93": "Slark", "94": "Medusa", "95": "Troll Warlord",
@@ -43,7 +43,7 @@ hero_list =  [   "Anti-Mage", "Axe", "Bane", "Bloodseeker", "Crystal Maiden", "D
                  "Lifestealer", "Dark Seer", "Clinkz", "Omniknight", "Enchantress", "Huskar",
                  "Night Stalker", "Broodmother", "Bounty Hunter", "Weaver", "Jakiro", "Batrider",
                  "Chen", "Spectre", "Ancient Apparition", "Doom", "Ursa", "Spirit Breaker",
-                 "Gyrocopter", "Alchemist", "Invoker", "Silencer", "Outworld Devourer", "Lycan",
+                 "Gyrocopter", "Alchemist", "Invoker", "Silencer", "Outworld Destroyer", "Lycan",
                  "Brewmaster", "Shadow Demon", "Lone Druid", "Chaos Knight", "Meepo", "Treant Protector",
                  "Ogre Magi", "Undying", "Rubick", "Disruptor", "Nyx Assassin", "Naga Siren",
                  "Keeper of the Light", "Wisp", "Visage", "Slark", "Medusa", "Troll Warlord",
@@ -320,26 +320,28 @@ $(document).ready(function() {
     $(heroTableRadiant).DataTable(
     {
         "paging": false,
-        "order": [[ 1, "desc" ]],
+        "order": [[ 2, "desc" ]],
         responsive: true,
         oSearch: {"bRegex": true, "bSmart": false},
-        "columnDefs": [{ "searchable": false, "targets": [1]}],
+        "columnDefs": [{ "searchable": false, "targets": [0,2,3,4,5,6,7,8,9]},
+        { targets: [1], visible: false}],
         rowCallback: function(row, data, index)
         {
-            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1], 55.5, 1.65), "color" : "#FFFFFF"});
+            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 55.5, 1.65), "color" : "#FFFFFF"});
         }
     });
 
     $(heroTableDire).DataTable(
     {
         "paging": false,
-        "order": [[ 1, "desc" ]],
+        "order": [[ 2, "desc" ]],
         responsive: true,
         oSearch: {"bRegex": true, "bSmart": false},
-        "columnDefs": [{ "searchable": false, "targets": [1]}],
+        "columnDefs": [{ "searchable": false, "targets": [0,2,3,4,5,6,7,8,9]},
+        { targets: [1], visible: false}],
         rowCallback: function(row, data, index)
         {
-            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[1], 55.5, 1.65), "color" : "#FFFFFF"});
+            $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[2], 55.5, 1.65), "color" : "#FFFFFF"});
         }
     });
 
@@ -533,3 +535,16 @@ $(document).on( 'draw.dt', function ( e, settings ) {
         updateSkippedUlts();
     }
 });
+
+function generateRandomRoster()
+{
+    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+    $searchBox.value = "";
+
+    for (let i = 0; i < 12; i++)
+    {
+        var hero = hero_list[Math.floor(Math.random()*hero_list.length)];
+        insertHeroName(hero, false);
+    }
+    propagateHeroFilters(true);
+}

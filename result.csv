@@ -13,12 +13,12 @@ Arc Lightning,Zeus,skills\zuus_arc_lightning.png,45.46%,49.62%,24.72,25.26,44.66
 Arcane Aura,Crystal Maiden,skills\crystal_maiden_brilliance_aura.png,49.58%,54.38%,27.01,28.93,50.10%,27.96,49.14%,26.2,49.98%,27.67,50.13%,27.83,49.24%,26.48
 Arcane Bolt,Skywrath Mage,skills\skywrath_mage_arcane_bolt.png,47.61%,52.43%,22.73,23.55,46.42%,24.1,47.95%,22.51,46.20%,23.16,46.62%,23.45,47.81%,22.59
 Arcane Curse,Silencer,skills\silencer_curse_of_the_silent.png,49.71%,54.36%,26.98,27.47,48.55%,27.84,50.61%,26.36,48.28%,27.96,48.01%,27.83,50.44%,26.63
-Arcane Orb,Outworld Devourer,skills\obsidian_destroyer_arcane_orb.png,48.90%,55.66%,24.16,26.33,46.29%,25.09,50.33%,23.66,43.89%,25.9,44.16%,26.18,49.73%,23.81
+Arcane Orb,Outworld Destroyer,skills\obsidian_destroyer_arcane_orb.png,48.90%,55.66%,24.16,26.33,46.29%,25.09,50.33%,23.66,43.89%,25.9,44.16%,26.18,49.73%,23.81
 Arcane Supremacy,Rubick,skills\rubick_arcane_supremacy.png,49.42%,52.41%,6.44,6,48.71%,7.13,49.49%,6,49.81%,7.19,49.51%,7.16,49.40%,6.15
 Arctic Burn,Winter Wyvern,skills\winter_wyvern_arctic_burn.png,59.80%,64.96%,3.51,2.84,59.89%,3.54,60.89%,3.46,55.43%,3.66,54.13%,3.7,61.19%,3.47
 Arena Of Blood,Mars,skills\mars_arena_of_blood.png,49.99%,54.87%,30.12,30.99,49.22%,30.69,48.79%,30.18,50.92%,29.79,50.18%,29.95,49.66%,30.42
 Assassinate,Sniper,skills\sniper_assassinate.png,47.68%,52.18%,20.22,21.09,47.31%,21.4,47.97%,19.06,47.75%,20.55,47.57%,20.39,47.76%,20.12
-Astral Imprisonment,Outworld Devourer,skills\obsidian_destroyer_astral_imprisonment.png,49.12%,53.78%,15.75,13.03,47.21%,16.45,49.94%,15.29,48.81%,16.27,48.15%,16.23,49.63%,15.5
+Astral Imprisonment,Outworld Destroyer,skills\obsidian_destroyer_astral_imprisonment.png,49.12%,53.78%,15.75,13.03,47.21%,16.45,49.94%,15.29,48.81%,16.27,48.15%,16.23,49.63%,15.5
 Astral Spirit,Elder Titan,skills\elder_titan_ancestral_spirit.png,49.35%,55.13%,26.12,25.08,50.60%,26.82,49.71%,26.71,48.39%,25.36,48.20%,25.69,51.02%,26.73
 Astral Step,Void Spirit,skills\void_spirit_astral_step.png,53.90%,58.09%,9.9,7.75,54.53%,10.86,51.82%,9.54,55.88%,9.59,53.79%,9.19,54.22%,11.63
 Atrophy Aura,Underlord,skills\abyssal_underlord_atrophy_aura.png,54.69%,60.11%,5.19,5.12,57.56%,5.13,55.96%,5.36,51.79%,5.15,51.85%,5.16,58.85%,5.23
@@ -135,7 +135,7 @@ Enfeeble,Bane,skills\bane_enfeeble.png,46.50%,52.26%,33.37,35.06,47.02%,33.55,46
 Enrage,Ursa,skills\ursa_enrage.png,51.36%,56.16%,23.79,23.45,51.13%,23.81,52.70%,24.36,50.79%,23.38,49.62%,23.29,53.91%,24.51
 Ensnare,Naga Siren,skills\naga_siren_ensnare.png,49.77%,54.39%,23.04,22.6,50.54%,23.62,49.26%,22.12,49.54%,23.56,49.97%,23.5,49.62%,22.61
 Epicenter,Sand King,skills\sandking_epicenter.png,49.32%,53.98%,29.6,31.08,49.03%,30.07,47.69%,29.45,50.01%,29.45,49.80%,29.59,48.05%,29.62
-Essence Flux,Outworld Devourer,skills\obsidian_destroyer_equilibrium.png,47.89%,52.80%,6.93,7.56,45.26%,7.74,49.83%,6.54,43.66%,7.5,43.40%,7.54,49.39%,6.73
+Essence Flux,Outworld Destroyer,skills\obsidian_destroyer_equilibrium.png,47.89%,52.80%,6.93,7.56,45.26%,7.74,49.83%,6.54,43.66%,7.5,43.40%,7.54,49.39%,6.73
 Essence Shift,Slark,skills\slark_essence_shift.png,49.57%,53.41%,5.35,6,50.22%,4.95,48.87%,6.06,47.64%,6.17,45.70%,5.42,52.92%,5.28
 Ether Shock,Shadow Shaman,skills\shadow_shaman_ether_shock.png,45.42%,50.14%,30.09,31.63,44.19%,30.46,45.92%,29.93,44.68%,30.42,44.42%,30.46,45.76%,29.98
 Exorcism,Death Prophet,skills\death_prophet_exorcism.png,50.52%,54.86%,12.79,14.2,49.73%,14,50.62%,12.1,50.92%,12.91,50.64%,13.07,50.45%,12.55
@@ -353,7 +353,7 @@ Rot,Pudge,skills\pudge_rot.png,52.59%,57.18%,12.33,10.16,52.58%,12.78,50.96%,12.
 Rupture,Bloodseeker,skills\bloodseeker_rupture.png,49.44%,54.46%,23.54,25.01,49.19%,23.54,49.40%,23.28,49.85%,23.79,49.30%,23.42,49.65%,23.69
 Sacred Arrow,Mirana,skills\mirana_arrow.png,51.16%,55.42%,17.94,16.14,51.03%,18.53,51.73%,17.1,50.44%,18.55,50.33%,18.45,51.64%,17.65
 Sand Storm,Sand King,skills\sandking_sand_storm.png,52.71%,56.86%,24.14,24.14,51.99%,25.58,52.71%,24.66,53.05%,23.29,52.50%,23.61,53.15%,25.11
-Sanity's Eclipse,Outworld Devourer,skills\obsidian_destroyer_sanity_eclipse.png,45.48%,52.74%,32.15,34.36,41.75%,30.1,46.60%,32.84,41.36%,29.27,40.66%,29,46.33%,32.7
+Sanity's Eclipse,Outworld Destroyer,skills\obsidian_destroyer_sanity_eclipse.png,45.48%,52.74%,32.15,34.36,41.75%,30.1,46.60%,32.84,41.36%,29.27,40.66%,29,46.33%,32.7
 Savage Roar,Lone Druid,skills\lone_druid_savage_roar.png,49.45%,54.63%,33.54,33.84,49.73%,33.51,49.16%,33.45,49.35%,33.67,48.77%,33.72,50.00%,33.4
 Scatterblast,Snapfire,skills\snapfire_scatterblast.png,49.08%,53.71%,23.62,22.23,48.07%,23.98,47.99%,23.12,50.51%,23.79,49.14%,23.73,49.05%,23.53
 Scorched Earth,Doom,skills\doom_bringer_scorched_earth.png,49.89%,56.00%,28.01,27.72,50.06%,29.06,49.20%,28.3,50.06%,27.51,49.88%,27.68,49.99%,28.91

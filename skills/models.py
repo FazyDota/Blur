@@ -41,19 +41,42 @@ class Hero(models.Model):
     movement_speed = models.IntegerField(null=True)
     attack_range = models.IntegerField(null=True)
     ranged_flag = models.BooleanField(null=True)
+    range_string = models.CharField(max_length=60)
     projectile_speed = models.IntegerField(null=True)
     primary_stat = models.CharField(max_length=4, null=True)
     str_start = models.FloatField(null=True)
     str_gain = models.FloatField(null=True)
+    str_string = models.CharField(max_length=60, null=True)
     agi_start = models.FloatField(null=True)
     agi_gain = models.FloatField(null=True)
+    agi_string = models.CharField(max_length=60, null=True)
     int_start = models.FloatField(null=True)
     int_gain = models.FloatField(null=True)
+    int_string = models.CharField(max_length=60, null=True)
     base_armor = models.FloatField(null=True)
     base_attack_time = models.FloatField(null=True)
     base_hps = models.FloatField(null=True)
     base_mps = models.FloatField(null=True)
     ias_start = models.FloatField(null=True)
+    attack_rate_start = models.FloatField(null=True)
+    armor_start = models.FloatField(null=True)
+    dmg_min_start = models.IntegerField(null=True)
+    dmg_max_start = models.IntegerField(null=True)
+    dps_start = models.FloatField(null=True)
+    ehp_start = models.FloatField(null=True)
+
     attack_point = models.FloatField(null=True)
     special_stats = models.CharField(max_length=120, null=True)
     image = models.CharField(max_length=60, null=True)
+
+    def get_start_hp(self):
+        return 200 + (self.str_start*20)
+
+    def get_avg_dmg_start(self):
+        return (self.dmg_min_start + self.dmg_max_start)/2.0
+
+    def get_start_hps(self):
+        return self.base_hps + (self.str_start*0.1)
+
+    def get_start_mps(self):
+        return self.base_mps + (self.int_start*0.05)
