@@ -13,4 +13,4 @@ venv/
 staticfiles/
 .archive/
 old_result_csvs
-.csv
+*.ods

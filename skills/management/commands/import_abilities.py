@@ -10,7 +10,7 @@ class Command(BaseCommand):
         abilities_df = pd.read_csv("result.csv")
         print(f"Deleted {prev_count} abilities.")
         print("Importing: ")
-        new_count = 1
+        new_count = 0
         for index, row in abilities_df.iterrows():
             new_count = new_count + 1
             ability = Ability(name=row['Ability Name'], hero=row['Hero'], image=row['Img Link'],
