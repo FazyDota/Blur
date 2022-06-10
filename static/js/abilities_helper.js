@@ -415,54 +415,62 @@ function updateSkippedUlts()
 }
 
 let comboTableDisplayed = false;
-function generateComboTable()
+function switchComboTable()
 {
-    var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
-    search_array = ($searchBox.value).split("|");
-
-    if (search_array.length < 1)
+    if (comboTableDisplayed)
     {
-        return false;
-    }
-
-    if (!($.fn.dataTable.isDataTable( '#comboTable' )))
-    {
-        $(comboTable).DataTable(
-        {
-            "paging": false,
-            "info": false,
-            "order": [[ 3, "desc" ]],
-            responsive: true,
-            oSearch: {"bRegex": true, "bSmart": false},
-            "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
-            { targets: [1, 2], visible: false},
-            { targets: [3, 4], className: "bigger-font"}],
-            rowCallback: function(row, data, index)
-            {
-                $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[3], 62.0, 3.0), "color" : "#FFFFFF"});
-            }
-        });
-        document.getElementById('comboTableBlock').style.display='block';
-        comboTableDisplayed = true;
+        comboTableDisplayed = false;
+        document.getElementById('comboTableBlock').style.display='none';
     }
     else
     {
-        $('#comboTable').DataTable().search(" ").draw();
-        comboTableDisplayed = true;
+        var $searchBox = document.getElementById("sortTable_filter").getElementsByClassName("form-control-sm")[0];
+        search_array = ($searchBox.value).split("|");
+
+        if (search_array.length < 1)
+        {
+            return false;
+        }
+
+        if (!($.fn.dataTable.isDataTable( '#comboTable' )))
+        {
+            $(comboTable).DataTable(
+            {
+                "paging": false,
+                "info": false,
+                "order": [[ 3, "desc" ]],
+                responsive: true,
+                oSearch: {"bRegex": true, "bSmart": false},
+                "columnDefs": [{ "searchable": false, "targets": [0,3,4]},
+                { targets: [1, 2], visible: false},
+                { targets: [3, 4], className: "bigger-font"}],
+                rowCallback: function(row, data, index)
+                {
+                    $(row).find("td:eq(1)").css({"background-color" : getWinrateColor(data[3], 62.0, 3.0), "color" : "#FFFFFF"});
+                }
+            });
+            document.getElementById('comboTableBlock').style.display='block';
+            comboTableDisplayed = true;
+        }
+        else
+        {
+            $('#comboTable').DataTable().search(" ").draw();
+            document.getElementById('comboTableBlock').style.display='block';
+            comboTableDisplayed = true;
+        }
+
+        var lastRunCombo = null;
+
+        $("#comboTable").on("click", "td.removable", function () {
+        if (lastRunCombo == null || new Date() - lastRunCombo > 300) {
+        var table = $("#comboTable").DataTable();
+        table
+            .row($(this))
+            .remove()
+        .draw();
+        lastRunCombo = new Date(); }
+        });
     }
-
-    var lastRunCombo = null;
-
-    $("#comboTable").on("click", "td.removable", function () {
-    if (lastRunCombo == null || new Date() - lastRunCombo > 300) {
-    var table = $("#comboTable").DataTable();
-    table
-        .row($(this))
-        .remove()
-    .draw();
-    lastRunCombo = new Date(); }
-    });
-
 }
 
 let modelTableOn = true;
