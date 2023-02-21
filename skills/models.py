@@ -1,7 +1,6 @@
 from django.db import models
 
 
-# Create your models here.
 class Ability(models.Model):
     name = models.CharField(max_length=60)
     hero = models.CharField(max_length=60)
@@ -69,14 +68,16 @@ class Hero(models.Model):
     special_stats = models.CharField(max_length=120, null=True)
     image = models.CharField(max_length=60, null=True)
 
-    def get_start_hp(self):
-        return 200 + (self.str_start*20)
+    def get_start_hp(self) -> float:
+        return 200.0 + (self.str_start * 20)
 
     def get_avg_dmg_start(self):
-        return (self.dmg_min_start + self.dmg_max_start)/2.0
+        return (
+            self.dmg_min_start + self.dmg_max_start
+        ) / 2.0
 
-    def get_start_hps(self):
-        return self.base_hps + (self.str_start*0.1)
+    def get_start_hps(self) -> float:
+        return self.base_hps + (self.str_start * 0.1)
 
-    def get_start_mps(self):
-        return self.base_mps + (self.int_start*0.05)
+    def get_start_mps(self) -> float:
+        return self.base_mps + (self.int_start * 0.05)
