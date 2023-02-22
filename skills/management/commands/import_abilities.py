@@ -13,11 +13,11 @@ def cut_img_filename(template_img_link):
 def unify_data():
     template_path = "input_data/templates/abilities_template.csv"
     time = datetime.now().strftime("%Y%m%d_%H%M")
-    unified_csv_path = f"input_data/abilities_sheet_{time}.csv"
+    unified_csv_path = f"input_data/processed/abilities_sheet_{time}.csv"
     shutil.copy2(template_path, unified_csv_path)
 
     result = pd.read_csv(unified_csv_path)
-    datestring = "20230220"
+    datestring = datetime.now().strftime("%Y%m%d")
 
     # todo grab latest file of each
 
